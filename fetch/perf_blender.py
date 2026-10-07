@@ -16,7 +16,11 @@ from __future__ import annotations
 
 import pandas as pd
 
-from fetch._common import get, raw_dir, write_source_note
+import sys as _sys
+from pathlib import Path as _Path
+
+_sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
+from fetch._common import get, raw_dir, write_source_note  # noqa: E402
 
 SOURCE = "perf_blender"
 URL = "https://opendata.blender.org/benchmarks/query/"

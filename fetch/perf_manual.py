@@ -21,7 +21,11 @@ import unicodedata
 import pandas as pd
 from lxml import html as lhtml
 
-from fetch._common import get, raw_dir, write_source_note
+import sys as _sys
+from pathlib import Path as _Path
+
+_sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
+from fetch._common import get, raw_dir, write_source_note  # noqa: E402
 
 SOURCE = "perf_manual"
 TABLES = ["msrp_crosscheck.csv", "dram_generations.csv", "pcie_ssd_generations.csv",

@@ -24,7 +24,11 @@ import lxml.html
 import pandas as pd
 import requests
 
-from fetch._common import USER_AGENT, get, raw_dir, write_source_note
+import sys as _sys
+from pathlib import Path as _Path
+
+_sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
+from fetch._common import USER_AGENT, get, raw_dir, write_source_note  # noqa: E402
 
 SOURCE = "dramexchange"
 PARSER_VERSION = 3  # bump when parse_html changes: cached rows from older parsers are re-fetched

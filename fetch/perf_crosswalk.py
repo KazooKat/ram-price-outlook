@@ -18,7 +18,11 @@ from __future__ import annotations
 import numpy as np
 import pandas as pd
 
-from fetch._common import RAW, raw_dir, write_source_note
+import sys as _sys
+from pathlib import Path as _Path
+
+_sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
+from fetch._common import RAW, raw_dir, write_source_note  # noqa: E402
 
 SOURCE = "perf_crosswalk"
 REF_VERSION = "4.5.0"      # most runs; covers RTX 50 / RX 9000
