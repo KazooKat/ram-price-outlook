@@ -189,7 +189,7 @@ Measured from public discussion, search and news data, not opinions:
   - RAM-price posts on r/buildapc, r/pcmasterrace and r/hardware went from 18 per 1,000 posts in December to 4 in September.
   - Hacker News fell from 17.1 in Q1 2026 to 9.5 so far in Q4.
 - **Industry news peaked later.** News articles about the "memory shortage" (GDELT, as a share of all articles it monitors) peaked in July 2026 and were still 24% below that peak in September. News tone on "RAM prices" moved from −1.5 in December 2025 to about −0.1 to −0.4 since August.
-- **Reddit tone is still negative.** Price-related RAM posts have had more complaints than good news every month since October 2025. The one exception is September 2026 (+0.07 on a −1 to +1 scale), and early October is back to −0.43, so one month isn't a turn.
+- **Reddit tone is still mostly negative.** Price-related RAM posts have had more complaints than good news in every month since October 2025 except May (+0.05) and September 2026 (+0.07), on a −1 to +1 scale. Early October is back to −0.43, so neither is a turn.
 - **In 2018, attention peaked with prices.** Hacker News attention peaked in Q1 2018, the same quarter the DDR4 spot price peaked (January 2018).
 - **This time it peaked with retail, not chip prices.** Buyers' attention peaked in December 2025 to January 2026, the same time retail kit prices stopped climbing. Contract and spot chip prices kept rising, and industry news kept growing until July. My reading: falling attention here is people getting used to high prices, not a sign the market has turned.
 
