@@ -1,0 +1,3551 @@
+date,term,metric,value,exact
+2015-01-01,ALL,total_items,156895,
+2015-02-01,ALL,total_items,146964,
+2015-03-01,ALL,total_items,175184,
+2015-04-01,ALL,total_items,167709,
+2015-05-01,ALL,total_items,167702,
+2015-06-01,ALL,total_items,173044,
+2015-07-01,ALL,total_items,176033,
+2015-08-01,ALL,total_items,164672,
+2015-09-01,ALL,total_items,158448,
+2015-10-01,ALL,total_items,176463,
+2015-11-01,ALL,total_items,168020,
+2015-12-01,ALL,total_items,167640,
+2016-01-01,ALL,total_items,188334,
+2016-02-01,ALL,total_items,191005,
+2016-03-01,ALL,total_items,201764,
+2016-04-01,ALL,total_items,202679,
+2016-05-01,ALL,total_items,207007,
+2016-06-01,ALL,total_items,201656,
+2016-07-01,ALL,total_items,186631,
+2016-08-01,ALL,total_items,202830,
+2016-09-01,ALL,total_items,213589,
+2016-10-01,ALL,total_items,226171,
+2016-11-01,ALL,total_items,233726,
+2016-12-01,ALL,total_items,218061,
+2017-01-01,ALL,total_items,242825,
+2017-02-01,ALL,total_items,222829,
+2017-03-01,ALL,total_items,249945,
+2017-04-01,ALL,total_items,225141,
+2017-05-01,ALL,total_items,222242,
+2017-06-01,ALL,total_items,217492,
+2017-07-01,ALL,total_items,222529,
+2017-08-01,ALL,total_items,248168,
+2017-09-01,ALL,total_items,230587,
+2017-10-01,ALL,total_items,222175,
+2017-11-01,ALL,total_items,222976,
+2017-12-01,ALL,total_items,222969,
+2018-01-01,ALL,total_items,234920,
+2018-02-01,ALL,total_items,209765,
+2018-03-01,ALL,total_items,237391,
+2018-04-01,ALL,total_items,237758,
+2018-05-01,ALL,total_items,237784,
+2018-06-01,ALL,total_items,231959,
+2018-07-01,ALL,total_items,225087,
+2018-08-01,ALL,total_items,230892,
+2018-09-01,ALL,total_items,219829,
+2018-10-01,ALL,total_items,241133,
+2018-11-01,ALL,total_items,223661,
+2018-12-01,ALL,total_items,224013,
+2019-01-01,ALL,total_items,252347,
+2019-02-01,ALL,total_items,226391,
+2019-03-01,ALL,total_items,262606,
+2019-04-01,ALL,total_items,253942,
+2019-05-01,ALL,total_items,272922,
+2019-06-01,ALL,total_items,255218,
+2019-07-01,ALL,total_items,258551,
+2019-08-01,ALL,total_items,269645,
+2019-09-01,ALL,total_items,271214,
+2019-10-01,ALL,total_items,294257,
+2019-11-01,ALL,total_items,257807,
+2019-12-01,ALL,total_items,252810,
+2020-01-01,ALL,total_items,281617,
+2020-02-01,ALL,total_items,246846,
+2020-03-01,ALL,total_items,290047,
+2020-04-01,ALL,total_items,293524,
+2020-05-01,ALL,total_items,336525,
+2020-06-01,ALL,total_items,322011,
+2020-07-01,ALL,total_items,319611,
+2020-08-01,ALL,total_items,321296,
+2020-09-01,ALL,total_items,308467,
+2020-10-01,ALL,total_items,310653,
+2020-11-01,ALL,total_items,304369,
+2020-12-01,ALL,total_items,338174,
+2021-01-01,ALL,total_items,385158,
+2021-02-01,ALL,total_items,314331,
+2021-03-01,ALL,total_items,356602,
+2021-04-01,ALL,total_items,346361,
+2021-05-01,ALL,total_items,348157,
+2021-06-01,ALL,total_items,345511,
+2021-07-01,ALL,total_items,327575,
+2021-08-01,ALL,total_items,352576,
+2021-09-01,ALL,total_items,337686,
+2021-10-01,ALL,total_items,348924,
+2021-11-01,ALL,total_items,337321,
+2021-12-01,ALL,total_items,354861,
+2022-01-01,ALL,total_items,402807,
+2022-02-01,ALL,total_items,350350,
+2022-03-01,ALL,total_items,366640,
+2022-04-01,ALL,total_items,347047,
+2022-05-01,ALL,total_items,355679,
+2022-06-01,ALL,total_items,363952,
+2022-07-01,ALL,total_items,359784,
+2022-08-01,ALL,total_items,369819,
+2022-09-01,ALL,total_items,372322,
+2022-10-01,ALL,total_items,372858,
+2022-11-01,ALL,total_items,394845,
+2022-12-01,ALL,total_items,392090,
+2023-01-01,ALL,total_items,402141,
+2023-02-01,ALL,total_items,372527,
+2023-03-01,ALL,total_items,418711,
+2023-04-01,ALL,total_items,372244,
+2023-05-01,ALL,total_items,378428,
+2023-06-01,ALL,total_items,398266,
+2023-07-01,ALL,total_items,406196,
+2023-08-01,ALL,total_items,394539,
+2023-09-01,ALL,total_items,376046,
+2023-10-01,ALL,total_items,371795,
+2023-11-01,ALL,total_items,388078,
+2023-12-01,ALL,total_items,347520,
+2024-01-01,ALL,total_items,382689,
+2024-02-01,ALL,total_items,345626,
+2024-03-01,ALL,total_items,332578,
+2024-04-01,ALL,total_items,328512,
+2024-05-01,ALL,total_items,323564,
+2024-06-01,ALL,total_items,299927,
+2024-07-01,ALL,total_items,283378,
+2024-08-01,ALL,total_items,288155,
+2024-09-01,ALL,total_items,290361,
+2024-10-01,ALL,total_items,309426,
+2024-11-01,ALL,total_items,272219,
+2024-12-01,ALL,total_items,277823,
+2025-01-01,ALL,total_items,331169,
+2025-02-01,ALL,total_items,319639,
+2025-03-01,ALL,total_items,327740,
+2025-04-01,ALL,total_items,310743,
+2025-05-01,ALL,total_items,295640,
+2025-06-01,ALL,total_items,281478,
+2025-07-01,ALL,total_items,322378,
+2025-08-01,ALL,total_items,336605,
+2025-09-01,ALL,total_items,344573,
+2025-10-01,ALL,total_items,345255,
+2025-11-01,ALL,total_items,323755,
+2025-12-01,ALL,total_items,347890,
+2026-01-01,ALL,total_items,392497,
+2026-02-01,ALL,total_items,359777,
+2026-03-01,ALL,total_items,393122,
+2026-04-01,ALL,total_items,374806,
+2026-05-01,ALL,total_items,381206,
+2026-06-01,ALL,total_items,389726,
+2026-07-01,ALL,total_items,389033,
+2026-08-01,ALL,total_items,386455,
+2026-09-01,ALL,total_items,399728,
+2026-10-01,ALL,total_items,60430,
+2015-01-01,DDR5,comments,0,True
+2015-02-01,DDR5,comments,0,True
+2015-03-01,DDR5,comments,0,True
+2015-04-01,DDR5,comments,0,True
+2015-05-01,DDR5,comments,1,True
+2015-06-01,DDR5,comments,0,True
+2015-07-01,DDR5,comments,0,True
+2015-08-01,DDR5,comments,1,True
+2015-09-01,DDR5,comments,0,True
+2015-10-01,DDR5,comments,0,True
+2015-11-01,DDR5,comments,0,True
+2015-12-01,DDR5,comments,0,True
+2016-01-01,DDR5,comments,0,True
+2016-02-01,DDR5,comments,0,True
+2016-03-01,DDR5,comments,0,True
+2016-04-01,DDR5,comments,0,True
+2016-05-01,DDR5,comments,0,True
+2016-06-01,DDR5,comments,0,True
+2016-07-01,DDR5,comments,0,True
+2016-08-01,DDR5,comments,0,True
+2016-09-01,DDR5,comments,0,True
+2016-10-01,DDR5,comments,0,True
+2016-11-01,DDR5,comments,0,True
+2016-12-01,DDR5,comments,0,True
+2017-01-01,DDR5,comments,0,True
+2017-02-01,DDR5,comments,0,True
+2017-03-01,DDR5,comments,6,True
+2017-04-01,DDR5,comments,4,True
+2017-05-01,DDR5,comments,1,True
+2017-06-01,DDR5,comments,2,True
+2017-07-01,DDR5,comments,0,True
+2017-08-01,DDR5,comments,0,True
+2017-09-01,DDR5,comments,3,True
+2017-10-01,DDR5,comments,0,True
+2017-11-01,DDR5,comments,0,True
+2017-12-01,DDR5,comments,1,True
+2018-01-01,DDR5,comments,0,True
+2018-02-01,DDR5,comments,0,True
+2018-03-01,DDR5,comments,0,True
+2018-04-01,DDR5,comments,1,True
+2018-05-01,DDR5,comments,3,True
+2018-06-01,DDR5,comments,0,True
+2018-07-01,DDR5,comments,2,True
+2018-08-01,DDR5,comments,0,True
+2018-09-01,DDR5,comments,0,True
+2018-10-01,DDR5,comments,2,True
+2018-11-01,DDR5,comments,3,True
+2018-12-01,DDR5,comments,0,True
+2019-01-01,DDR5,comments,0,True
+2019-02-01,DDR5,comments,0,True
+2019-03-01,DDR5,comments,2,True
+2019-04-01,DDR5,comments,0,True
+2019-05-01,DDR5,comments,0,True
+2019-06-01,DDR5,comments,1,True
+2019-07-01,DDR5,comments,1,True
+2019-08-01,DDR5,comments,3,True
+2019-09-01,DDR5,comments,2,True
+2019-10-01,DDR5,comments,1,True
+2019-11-01,DDR5,comments,4,True
+2019-12-01,DDR5,comments,5,True
+2020-01-01,DDR5,comments,1,True
+2020-02-01,DDR5,comments,0,True
+2020-03-01,DDR5,comments,1,True
+2020-04-01,DDR5,comments,5,True
+2020-05-01,DDR5,comments,1,True
+2020-06-01,DDR5,comments,0,True
+2020-07-01,DDR5,comments,9,True
+2020-08-01,DDR5,comments,6,True
+2020-09-01,DDR5,comments,6,True
+2020-10-01,DDR5,comments,27,True
+2020-11-01,DDR5,comments,10,True
+2020-12-01,DDR5,comments,7,True
+2021-01-01,DDR5,comments,20,True
+2021-02-01,DDR5,comments,2,True
+2021-03-01,DDR5,comments,11,True
+2021-04-01,DDR5,comments,9,True
+2021-05-01,DDR5,comments,10,True
+2021-06-01,DDR5,comments,4,True
+2021-07-01,DDR5,comments,12,True
+2021-08-01,DDR5,comments,11,True
+2021-09-01,DDR5,comments,11,True
+2021-10-01,DDR5,comments,51,True
+2021-11-01,DDR5,comments,62,True
+2021-12-01,DDR5,comments,15,True
+2022-01-01,DDR5,comments,22,True
+2022-02-01,DDR5,comments,7,True
+2022-03-01,DDR5,comments,27,True
+2022-04-01,DDR5,comments,9,True
+2022-05-01,DDR5,comments,22,True
+2022-06-01,DDR5,comments,37,True
+2022-07-01,DDR5,comments,13,True
+2022-08-01,DDR5,comments,26,True
+2022-09-01,DDR5,comments,22,True
+2022-10-01,DDR5,comments,44,True
+2022-11-01,DDR5,comments,26,True
+2022-12-01,DDR5,comments,25,True
+2023-01-01,DDR5,comments,46,True
+2023-02-01,DDR5,comments,31,True
+2023-03-01,DDR5,comments,38,True
+2023-04-01,DDR5,comments,63,True
+2023-05-01,DDR5,comments,23,True
+2023-06-01,DDR5,comments,38,True
+2023-07-01,DDR5,comments,28,True
+2023-08-01,DDR5,comments,38,True
+2023-09-01,DDR5,comments,30,True
+2023-10-01,DDR5,comments,90,True
+2023-11-01,DDR5,comments,38,True
+2023-12-01,DDR5,comments,20,True
+2024-01-01,DDR5,comments,52,True
+2024-02-01,DDR5,comments,55,True
+2024-03-01,DDR5,comments,50,True
+2024-04-01,DDR5,comments,42,True
+2024-05-01,DDR5,comments,42,True
+2024-06-01,DDR5,comments,23,True
+2024-07-01,DDR5,comments,38,True
+2024-08-01,DDR5,comments,30,True
+2024-09-01,DDR5,comments,24,True
+2024-10-01,DDR5,comments,48,True
+2024-11-01,DDR5,comments,36,True
+2024-12-01,DDR5,comments,38,True
+2025-01-01,DDR5,comments,29,True
+2025-02-01,DDR5,comments,28,True
+2025-03-01,DDR5,comments,47,True
+2025-04-01,DDR5,comments,14,True
+2025-05-01,DDR5,comments,14,True
+2025-06-01,DDR5,comments,18,True
+2025-07-01,DDR5,comments,30,True
+2025-08-01,DDR5,comments,43,True
+2025-09-01,DDR5,comments,43,True
+2025-10-01,DDR5,comments,38,True
+2025-11-01,DDR5,comments,104,True
+2025-12-01,DDR5,comments,175,True
+2026-01-01,DDR5,comments,43,True
+2026-02-01,DDR5,comments,67,True
+2026-03-01,DDR5,comments,139,True
+2026-04-01,DDR5,comments,67,True
+2026-05-01,DDR5,comments,63,True
+2026-06-01,DDR5,comments,127,True
+2026-07-01,DDR5,comments,83,True
+2026-08-01,DDR5,comments,93,True
+2026-09-01,DDR5,comments,60,True
+2026-10-01,DDR5,comments,12,True
+2015-01-01,DDR5,stories,0,True
+2015-02-01,DDR5,stories,0,True
+2015-03-01,DDR5,stories,0,True
+2015-04-01,DDR5,stories,0,True
+2015-05-01,DDR5,stories,0,True
+2015-06-01,DDR5,stories,0,True
+2015-07-01,DDR5,stories,0,True
+2015-08-01,DDR5,stories,0,True
+2015-09-01,DDR5,stories,0,True
+2015-10-01,DDR5,stories,0,True
+2015-11-01,DDR5,stories,0,True
+2015-12-01,DDR5,stories,0,True
+2016-01-01,DDR5,stories,0,True
+2016-02-01,DDR5,stories,0,True
+2016-03-01,DDR5,stories,0,True
+2016-04-01,DDR5,stories,0,True
+2016-05-01,DDR5,stories,0,True
+2016-06-01,DDR5,stories,1,True
+2016-07-01,DDR5,stories,0,True
+2016-08-01,DDR5,stories,0,True
+2016-09-01,DDR5,stories,0,True
+2016-10-01,DDR5,stories,0,True
+2016-11-01,DDR5,stories,0,True
+2016-12-01,DDR5,stories,0,True
+2017-01-01,DDR5,stories,0,True
+2017-02-01,DDR5,stories,0,True
+2017-03-01,DDR5,stories,1,True
+2017-04-01,DDR5,stories,1,True
+2017-05-01,DDR5,stories,0,True
+2017-06-01,DDR5,stories,0,True
+2017-07-01,DDR5,stories,0,True
+2017-08-01,DDR5,stories,0,True
+2017-09-01,DDR5,stories,0,True
+2017-10-01,DDR5,stories,0,True
+2017-11-01,DDR5,stories,0,True
+2017-12-01,DDR5,stories,0,True
+2018-01-01,DDR5,stories,0,True
+2018-02-01,DDR5,stories,0,True
+2018-03-01,DDR5,stories,0,True
+2018-04-01,DDR5,stories,0,True
+2018-05-01,DDR5,stories,0,True
+2018-06-01,DDR5,stories,0,True
+2018-07-01,DDR5,stories,0,True
+2018-08-01,DDR5,stories,0,True
+2018-09-01,DDR5,stories,0,True
+2018-10-01,DDR5,stories,0,True
+2018-11-01,DDR5,stories,0,True
+2018-12-01,DDR5,stories,0,True
+2019-01-01,DDR5,stories,0,True
+2019-02-01,DDR5,stories,1,True
+2019-03-01,DDR5,stories,0,True
+2019-04-01,DDR5,stories,1,True
+2019-05-01,DDR5,stories,0,True
+2019-06-01,DDR5,stories,0,True
+2019-07-01,DDR5,stories,0,True
+2019-08-01,DDR5,stories,0,True
+2019-09-01,DDR5,stories,0,True
+2019-10-01,DDR5,stories,0,True
+2019-11-01,DDR5,stories,0,True
+2019-12-01,DDR5,stories,0,True
+2020-01-01,DDR5,stories,2,True
+2020-02-01,DDR5,stories,0,True
+2020-03-01,DDR5,stories,1,True
+2020-04-01,DDR5,stories,3,True
+2020-05-01,DDR5,stories,1,True
+2020-06-01,DDR5,stories,1,True
+2020-07-01,DDR5,stories,4,True
+2020-08-01,DDR5,stories,0,True
+2020-09-01,DDR5,stories,3,True
+2020-10-01,DDR5,stories,3,True
+2020-11-01,DDR5,stories,0,True
+2020-12-01,DDR5,stories,0,True
+2021-01-01,DDR5,stories,2,True
+2021-02-01,DDR5,stories,2,True
+2021-03-01,DDR5,stories,6,True
+2021-04-01,DDR5,stories,0,True
+2021-05-01,DDR5,stories,2,True
+2021-06-01,DDR5,stories,1,True
+2021-07-01,DDR5,stories,0,True
+2021-08-01,DDR5,stories,8,True
+2021-09-01,DDR5,stories,4,True
+2021-10-01,DDR5,stories,9,True
+2021-11-01,DDR5,stories,5,True
+2021-12-01,DDR5,stories,12,True
+2022-01-01,DDR5,stories,2,True
+2022-02-01,DDR5,stories,1,True
+2022-03-01,DDR5,stories,1,True
+2022-04-01,DDR5,stories,12,True
+2022-05-01,DDR5,stories,3,True
+2022-06-01,DDR5,stories,3,True
+2022-07-01,DDR5,stories,1,True
+2022-08-01,DDR5,stories,1,True
+2022-09-01,DDR5,stories,0,True
+2022-10-01,DDR5,stories,2,True
+2022-11-01,DDR5,stories,1,True
+2022-12-01,DDR5,stories,3,True
+2023-01-01,DDR5,stories,8,True
+2023-02-01,DDR5,stories,6,True
+2023-03-01,DDR5,stories,3,True
+2023-04-01,DDR5,stories,5,True
+2023-05-01,DDR5,stories,2,True
+2023-06-01,DDR5,stories,0,True
+2023-07-01,DDR5,stories,3,True
+2023-08-01,DDR5,stories,2,True
+2023-09-01,DDR5,stories,4,True
+2023-10-01,DDR5,stories,2,True
+2023-11-01,DDR5,stories,2,True
+2023-12-01,DDR5,stories,0,True
+2024-01-01,DDR5,stories,3,True
+2024-02-01,DDR5,stories,2,True
+2024-03-01,DDR5,stories,2,True
+2024-04-01,DDR5,stories,6,True
+2024-05-01,DDR5,stories,3,True
+2024-06-01,DDR5,stories,5,True
+2024-07-01,DDR5,stories,2,True
+2024-08-01,DDR5,stories,1,True
+2024-09-01,DDR5,stories,2,True
+2024-10-01,DDR5,stories,3,True
+2024-11-01,DDR5,stories,3,True
+2024-12-01,DDR5,stories,1,True
+2025-01-01,DDR5,stories,1,True
+2025-02-01,DDR5,stories,0,True
+2025-03-01,DDR5,stories,0,True
+2025-04-01,DDR5,stories,1,True
+2025-05-01,DDR5,stories,2,True
+2025-06-01,DDR5,stories,2,True
+2025-07-01,DDR5,stories,1,True
+2025-08-01,DDR5,stories,0,True
+2025-09-01,DDR5,stories,2,True
+2025-10-01,DDR5,stories,2,True
+2025-11-01,DDR5,stories,3,True
+2025-12-01,DDR5,stories,17,True
+2026-01-01,DDR5,stories,3,True
+2026-02-01,DDR5,stories,4,True
+2026-03-01,DDR5,stories,6,True
+2026-04-01,DDR5,stories,2,True
+2026-05-01,DDR5,stories,6,True
+2026-06-01,DDR5,stories,4,True
+2026-07-01,DDR5,stories,2,True
+2026-08-01,DDR5,stories,7,True
+2026-09-01,DDR5,stories,4,True
+2026-10-01,DDR5,stories,1,True
+2015-01-01,DRAM,comments,18,True
+2015-02-01,DRAM,comments,18,True
+2015-03-01,DRAM,comments,18,True
+2015-04-01,DRAM,comments,8,True
+2015-05-01,DRAM,comments,8,True
+2015-06-01,DRAM,comments,13,True
+2015-07-01,DRAM,comments,51,True
+2015-08-01,DRAM,comments,29,True
+2015-09-01,DRAM,comments,16,True
+2015-10-01,DRAM,comments,14,True
+2015-11-01,DRAM,comments,37,True
+2015-12-01,DRAM,comments,21,True
+2016-01-01,DRAM,comments,24,True
+2016-02-01,DRAM,comments,17,True
+2016-03-01,DRAM,comments,17,True
+2016-04-01,DRAM,comments,17,True
+2016-05-01,DRAM,comments,21,True
+2016-06-01,DRAM,comments,49,True
+2016-07-01,DRAM,comments,20,True
+2016-08-01,DRAM,comments,21,True
+2016-09-01,DRAM,comments,17,True
+2016-10-01,DRAM,comments,41,True
+2016-11-01,DRAM,comments,25,True
+2016-12-01,DRAM,comments,19,True
+2017-01-01,DRAM,comments,39,True
+2017-02-01,DRAM,comments,22,True
+2017-03-01,DRAM,comments,40,True
+2017-04-01,DRAM,comments,50,True
+2017-05-01,DRAM,comments,33,True
+2017-06-01,DRAM,comments,28,True
+2017-07-01,DRAM,comments,23,True
+2017-08-01,DRAM,comments,16,True
+2017-09-01,DRAM,comments,19,True
+2017-10-01,DRAM,comments,26,True
+2017-11-01,DRAM,comments,20,True
+2017-12-01,DRAM,comments,20,True
+2018-01-01,DRAM,comments,56,True
+2018-02-01,DRAM,comments,28,True
+2018-03-01,DRAM,comments,19,True
+2018-04-01,DRAM,comments,28,True
+2018-05-01,DRAM,comments,71,True
+2018-06-01,DRAM,comments,40,True
+2018-07-01,DRAM,comments,55,True
+2018-08-01,DRAM,comments,25,True
+2018-09-01,DRAM,comments,8,True
+2018-10-01,DRAM,comments,34,True
+2018-11-01,DRAM,comments,68,True
+2018-12-01,DRAM,comments,24,True
+2019-01-01,DRAM,comments,17,True
+2019-02-01,DRAM,comments,13,True
+2019-03-01,DRAM,comments,24,True
+2019-04-01,DRAM,comments,46,True
+2019-05-01,DRAM,comments,24,True
+2019-06-01,DRAM,comments,31,True
+2019-07-01,DRAM,comments,23,True
+2019-08-01,DRAM,comments,34,True
+2019-09-01,DRAM,comments,20,True
+2019-10-01,DRAM,comments,18,True
+2019-11-01,DRAM,comments,31,True
+2019-12-01,DRAM,comments,23,True
+2020-01-01,DRAM,comments,35,True
+2020-02-01,DRAM,comments,26,True
+2020-03-01,DRAM,comments,42,True
+2020-04-01,DRAM,comments,33,True
+2020-05-01,DRAM,comments,31,True
+2020-06-01,DRAM,comments,28,True
+2020-07-01,DRAM,comments,57,True
+2020-08-01,DRAM,comments,32,True
+2020-09-01,DRAM,comments,31,True
+2020-10-01,DRAM,comments,68,True
+2020-11-01,DRAM,comments,112,True
+2020-12-01,DRAM,comments,46,True
+2021-01-01,DRAM,comments,60,True
+2021-02-01,DRAM,comments,52,True
+2021-03-01,DRAM,comments,35,True
+2021-04-01,DRAM,comments,42,True
+2021-05-01,DRAM,comments,62,True
+2021-06-01,DRAM,comments,41,True
+2021-07-01,DRAM,comments,38,True
+2021-08-01,DRAM,comments,37,True
+2021-09-01,DRAM,comments,29,True
+2021-10-01,DRAM,comments,48,True
+2021-11-01,DRAM,comments,60,True
+2021-12-01,DRAM,comments,25,True
+2022-01-01,DRAM,comments,49,True
+2022-02-01,DRAM,comments,73,True
+2022-03-01,DRAM,comments,33,True
+2022-04-01,DRAM,comments,42,True
+2022-05-01,DRAM,comments,33,True
+2022-06-01,DRAM,comments,41,True
+2022-07-01,DRAM,comments,66,True
+2022-08-01,DRAM,comments,46,True
+2022-09-01,DRAM,comments,52,True
+2022-10-01,DRAM,comments,35,True
+2022-11-01,DRAM,comments,44,True
+2022-12-01,DRAM,comments,41,True
+2023-01-01,DRAM,comments,65,True
+2023-02-01,DRAM,comments,34,True
+2023-03-01,DRAM,comments,47,True
+2023-04-01,DRAM,comments,55,True
+2023-05-01,DRAM,comments,52,True
+2023-06-01,DRAM,comments,42,True
+2023-07-01,DRAM,comments,27,True
+2023-08-01,DRAM,comments,48,True
+2023-09-01,DRAM,comments,41,True
+2023-10-01,DRAM,comments,70,True
+2023-11-01,DRAM,comments,54,True
+2023-12-01,DRAM,comments,40,True
+2024-01-01,DRAM,comments,63,True
+2024-02-01,DRAM,comments,44,True
+2024-03-01,DRAM,comments,49,True
+2024-04-01,DRAM,comments,69,True
+2024-05-01,DRAM,comments,52,True
+2024-06-01,DRAM,comments,23,True
+2024-07-01,DRAM,comments,27,True
+2024-08-01,DRAM,comments,40,True
+2024-09-01,DRAM,comments,57,True
+2024-10-01,DRAM,comments,86,True
+2024-11-01,DRAM,comments,29,True
+2024-12-01,DRAM,comments,30,True
+2025-01-01,DRAM,comments,31,True
+2025-02-01,DRAM,comments,25,True
+2025-03-01,DRAM,comments,29,True
+2025-04-01,DRAM,comments,25,True
+2025-05-01,DRAM,comments,48,True
+2025-06-01,DRAM,comments,33,True
+2025-07-01,DRAM,comments,41,True
+2025-08-01,DRAM,comments,52,True
+2025-09-01,DRAM,comments,65,True
+2025-10-01,DRAM,comments,49,True
+2025-11-01,DRAM,comments,130,True
+2025-12-01,DRAM,comments,268,True
+2026-01-01,DRAM,comments,115,True
+2026-02-01,DRAM,comments,141,True
+2026-03-01,DRAM,comments,110,True
+2026-04-01,DRAM,comments,146,True
+2026-05-01,DRAM,comments,150,True
+2026-06-01,DRAM,comments,169,True
+2026-07-01,DRAM,comments,115,True
+2026-08-01,DRAM,comments,190,True
+2026-09-01,DRAM,comments,103,True
+2026-10-01,DRAM,comments,34,True
+2015-01-01,DRAM,stories,1,True
+2015-02-01,DRAM,stories,0,True
+2015-03-01,DRAM,stories,9,True
+2015-04-01,DRAM,stories,1,True
+2015-05-01,DRAM,stories,1,True
+2015-06-01,DRAM,stories,1,True
+2015-07-01,DRAM,stories,2,True
+2015-08-01,DRAM,stories,2,True
+2015-09-01,DRAM,stories,2,True
+2015-10-01,DRAM,stories,1,True
+2015-11-01,DRAM,stories,4,True
+2015-12-01,DRAM,stories,2,True
+2016-01-01,DRAM,stories,3,True
+2016-02-01,DRAM,stories,1,True
+2016-03-01,DRAM,stories,2,True
+2016-04-01,DRAM,stories,2,True
+2016-05-01,DRAM,stories,1,True
+2016-06-01,DRAM,stories,1,True
+2016-07-01,DRAM,stories,2,True
+2016-08-01,DRAM,stories,1,True
+2016-09-01,DRAM,stories,1,True
+2016-10-01,DRAM,stories,3,True
+2016-11-01,DRAM,stories,0,True
+2016-12-01,DRAM,stories,0,True
+2017-01-01,DRAM,stories,9,True
+2017-02-01,DRAM,stories,5,True
+2017-03-01,DRAM,stories,2,True
+2017-04-01,DRAM,stories,1,True
+2017-05-01,DRAM,stories,1,True
+2017-06-01,DRAM,stories,3,True
+2017-07-01,DRAM,stories,1,True
+2017-08-01,DRAM,stories,1,True
+2017-09-01,DRAM,stories,1,True
+2017-10-01,DRAM,stories,2,True
+2017-11-01,DRAM,stories,1,True
+2017-12-01,DRAM,stories,5,True
+2018-01-01,DRAM,stories,2,True
+2018-02-01,DRAM,stories,1,True
+2018-03-01,DRAM,stories,1,True
+2018-04-01,DRAM,stories,6,True
+2018-05-01,DRAM,stories,17,True
+2018-06-01,DRAM,stories,4,True
+2018-07-01,DRAM,stories,4,True
+2018-08-01,DRAM,stories,7,True
+2018-09-01,DRAM,stories,4,True
+2018-10-01,DRAM,stories,2,True
+2018-11-01,DRAM,stories,7,True
+2018-12-01,DRAM,stories,3,True
+2019-01-01,DRAM,stories,0,True
+2019-02-01,DRAM,stories,2,True
+2019-03-01,DRAM,stories,3,True
+2019-04-01,DRAM,stories,1,True
+2019-05-01,DRAM,stories,3,True
+2019-06-01,DRAM,stories,5,True
+2019-07-01,DRAM,stories,1,True
+2019-08-01,DRAM,stories,4,True
+2019-09-01,DRAM,stories,3,True
+2019-10-01,DRAM,stories,4,True
+2019-11-01,DRAM,stories,2,True
+2019-12-01,DRAM,stories,1,True
+2020-01-01,DRAM,stories,5,True
+2020-02-01,DRAM,stories,2,True
+2020-03-01,DRAM,stories,2,True
+2020-04-01,DRAM,stories,4,True
+2020-05-01,DRAM,stories,0,True
+2020-06-01,DRAM,stories,1,True
+2020-07-01,DRAM,stories,0,True
+2020-08-01,DRAM,stories,1,True
+2020-09-01,DRAM,stories,7,True
+2020-10-01,DRAM,stories,3,True
+2020-11-01,DRAM,stories,4,True
+2020-12-01,DRAM,stories,1,True
+2021-01-01,DRAM,stories,2,True
+2021-02-01,DRAM,stories,4,True
+2021-03-01,DRAM,stories,3,True
+2021-04-01,DRAM,stories,1,True
+2021-05-01,DRAM,stories,9,True
+2021-06-01,DRAM,stories,7,True
+2021-07-01,DRAM,stories,0,True
+2021-08-01,DRAM,stories,1,True
+2021-09-01,DRAM,stories,1,True
+2021-10-01,DRAM,stories,2,True
+2021-11-01,DRAM,stories,4,True
+2021-12-01,DRAM,stories,3,True
+2022-01-01,DRAM,stories,5,True
+2022-02-01,DRAM,stories,1,True
+2022-03-01,DRAM,stories,1,True
+2022-04-01,DRAM,stories,3,True
+2022-05-01,DRAM,stories,2,True
+2022-06-01,DRAM,stories,4,True
+2022-07-01,DRAM,stories,4,True
+2022-08-01,DRAM,stories,0,True
+2022-09-01,DRAM,stories,2,True
+2022-10-01,DRAM,stories,5,True
+2022-11-01,DRAM,stories,3,True
+2022-12-01,DRAM,stories,2,True
+2023-01-01,DRAM,stories,1,True
+2023-02-01,DRAM,stories,3,True
+2023-03-01,DRAM,stories,0,True
+2023-04-01,DRAM,stories,1,True
+2023-05-01,DRAM,stories,7,True
+2023-06-01,DRAM,stories,2,True
+2023-07-01,DRAM,stories,7,True
+2023-08-01,DRAM,stories,4,True
+2023-09-01,DRAM,stories,1,True
+2023-10-01,DRAM,stories,6,True
+2023-11-01,DRAM,stories,3,True
+2023-12-01,DRAM,stories,1,True
+2024-01-01,DRAM,stories,3,True
+2024-02-01,DRAM,stories,3,True
+2024-03-01,DRAM,stories,4,True
+2024-04-01,DRAM,stories,4,True
+2024-05-01,DRAM,stories,8,True
+2024-06-01,DRAM,stories,2,True
+2024-07-01,DRAM,stories,5,True
+2024-08-01,DRAM,stories,11,True
+2024-09-01,DRAM,stories,5,True
+2024-10-01,DRAM,stories,9,True
+2024-11-01,DRAM,stories,4,True
+2024-12-01,DRAM,stories,3,True
+2025-01-01,DRAM,stories,3,True
+2025-02-01,DRAM,stories,8,True
+2025-03-01,DRAM,stories,0,True
+2025-04-01,DRAM,stories,2,True
+2025-05-01,DRAM,stories,4,True
+2025-06-01,DRAM,stories,2,True
+2025-07-01,DRAM,stories,2,True
+2025-08-01,DRAM,stories,5,True
+2025-09-01,DRAM,stories,6,True
+2025-10-01,DRAM,stories,2,True
+2025-11-01,DRAM,stories,12,True
+2025-12-01,DRAM,stories,20,True
+2026-01-01,DRAM,stories,17,True
+2026-02-01,DRAM,stories,12,True
+2026-03-01,DRAM,stories,10,True
+2026-04-01,DRAM,stories,11,True
+2026-05-01,DRAM,stories,9,True
+2026-06-01,DRAM,stories,17,True
+2026-07-01,DRAM,stories,13,True
+2026-08-01,DRAM,stories,14,True
+2026-09-01,DRAM,stories,11,True
+2026-10-01,DRAM,stories,1,True
+2015-01-01,DRAM prices,comments,0,True
+2015-02-01,DRAM prices,comments,0,True
+2015-03-01,DRAM prices,comments,0,True
+2015-04-01,DRAM prices,comments,0,True
+2015-05-01,DRAM prices,comments,0,True
+2015-06-01,DRAM prices,comments,0,True
+2015-07-01,DRAM prices,comments,0,True
+2015-08-01,DRAM prices,comments,1,True
+2015-09-01,DRAM prices,comments,0,True
+2015-10-01,DRAM prices,comments,1,True
+2015-11-01,DRAM prices,comments,0,True
+2015-12-01,DRAM prices,comments,3,True
+2016-01-01,DRAM prices,comments,0,True
+2016-02-01,DRAM prices,comments,0,True
+2016-03-01,DRAM prices,comments,0,True
+2016-04-01,DRAM prices,comments,1,True
+2016-05-01,DRAM prices,comments,0,True
+2016-06-01,DRAM prices,comments,1,True
+2016-07-01,DRAM prices,comments,0,True
+2016-08-01,DRAM prices,comments,0,True
+2016-09-01,DRAM prices,comments,0,True
+2016-10-01,DRAM prices,comments,1,True
+2016-11-01,DRAM prices,comments,1,True
+2016-12-01,DRAM prices,comments,0,True
+2017-01-01,DRAM prices,comments,3,True
+2017-02-01,DRAM prices,comments,0,True
+2017-03-01,DRAM prices,comments,0,True
+2017-04-01,DRAM prices,comments,1,True
+2017-05-01,DRAM prices,comments,1,True
+2017-06-01,DRAM prices,comments,0,True
+2017-07-01,DRAM prices,comments,0,True
+2017-08-01,DRAM prices,comments,0,True
+2017-09-01,DRAM prices,comments,0,True
+2017-10-01,DRAM prices,comments,0,True
+2017-11-01,DRAM prices,comments,0,True
+2017-12-01,DRAM prices,comments,3,True
+2018-01-01,DRAM prices,comments,1,True
+2018-02-01,DRAM prices,comments,0,True
+2018-03-01,DRAM prices,comments,0,True
+2018-04-01,DRAM prices,comments,1,True
+2018-05-01,DRAM prices,comments,0,True
+2018-06-01,DRAM prices,comments,0,True
+2018-07-01,DRAM prices,comments,0,True
+2018-08-01,DRAM prices,comments,0,True
+2018-09-01,DRAM prices,comments,0,True
+2018-10-01,DRAM prices,comments,0,True
+2018-11-01,DRAM prices,comments,0,True
+2018-12-01,DRAM prices,comments,1,True
+2019-01-01,DRAM prices,comments,0,True
+2019-02-01,DRAM prices,comments,0,True
+2019-03-01,DRAM prices,comments,2,True
+2019-04-01,DRAM prices,comments,1,True
+2019-05-01,DRAM prices,comments,0,True
+2019-06-01,DRAM prices,comments,0,True
+2019-07-01,DRAM prices,comments,0,True
+2019-08-01,DRAM prices,comments,0,True
+2019-09-01,DRAM prices,comments,0,True
+2019-10-01,DRAM prices,comments,0,True
+2019-11-01,DRAM prices,comments,0,True
+2019-12-01,DRAM prices,comments,0,True
+2020-01-01,DRAM prices,comments,0,True
+2020-02-01,DRAM prices,comments,3,True
+2020-03-01,DRAM prices,comments,2,True
+2020-04-01,DRAM prices,comments,0,True
+2020-05-01,DRAM prices,comments,1,True
+2020-06-01,DRAM prices,comments,1,True
+2020-07-01,DRAM prices,comments,0,True
+2020-08-01,DRAM prices,comments,0,True
+2020-09-01,DRAM prices,comments,0,True
+2020-10-01,DRAM prices,comments,1,True
+2020-11-01,DRAM prices,comments,0,True
+2020-12-01,DRAM prices,comments,0,True
+2021-01-01,DRAM prices,comments,0,True
+2021-02-01,DRAM prices,comments,0,True
+2021-03-01,DRAM prices,comments,0,True
+2021-04-01,DRAM prices,comments,0,True
+2021-05-01,DRAM prices,comments,2,True
+2021-06-01,DRAM prices,comments,0,True
+2021-07-01,DRAM prices,comments,0,True
+2021-08-01,DRAM prices,comments,0,True
+2021-09-01,DRAM prices,comments,0,True
+2021-10-01,DRAM prices,comments,0,True
+2021-11-01,DRAM prices,comments,0,True
+2021-12-01,DRAM prices,comments,0,True
+2022-01-01,DRAM prices,comments,0,True
+2022-02-01,DRAM prices,comments,0,True
+2022-03-01,DRAM prices,comments,0,True
+2022-04-01,DRAM prices,comments,0,True
+2022-05-01,DRAM prices,comments,0,True
+2022-06-01,DRAM prices,comments,1,True
+2022-07-01,DRAM prices,comments,1,True
+2022-08-01,DRAM prices,comments,1,True
+2022-09-01,DRAM prices,comments,1,True
+2022-10-01,DRAM prices,comments,0,True
+2022-11-01,DRAM prices,comments,0,True
+2022-12-01,DRAM prices,comments,0,True
+2023-01-01,DRAM prices,comments,0,True
+2023-02-01,DRAM prices,comments,0,True
+2023-03-01,DRAM prices,comments,1,True
+2023-04-01,DRAM prices,comments,1,True
+2023-05-01,DRAM prices,comments,0,True
+2023-06-01,DRAM prices,comments,0,True
+2023-07-01,DRAM prices,comments,1,True
+2023-08-01,DRAM prices,comments,1,True
+2023-09-01,DRAM prices,comments,0,True
+2023-10-01,DRAM prices,comments,0,True
+2023-11-01,DRAM prices,comments,0,True
+2023-12-01,DRAM prices,comments,0,True
+2024-01-01,DRAM prices,comments,0,True
+2024-02-01,DRAM prices,comments,0,True
+2024-03-01,DRAM prices,comments,0,True
+2024-04-01,DRAM prices,comments,0,True
+2024-05-01,DRAM prices,comments,0,True
+2024-06-01,DRAM prices,comments,0,True
+2024-07-01,DRAM prices,comments,0,True
+2024-08-01,DRAM prices,comments,0,True
+2024-09-01,DRAM prices,comments,2,True
+2024-10-01,DRAM prices,comments,0,True
+2024-11-01,DRAM prices,comments,0,True
+2024-12-01,DRAM prices,comments,0,True
+2025-01-01,DRAM prices,comments,0,True
+2025-02-01,DRAM prices,comments,0,True
+2025-03-01,DRAM prices,comments,0,True
+2025-04-01,DRAM prices,comments,0,True
+2025-05-01,DRAM prices,comments,0,True
+2025-06-01,DRAM prices,comments,0,True
+2025-07-01,DRAM prices,comments,0,True
+2025-08-01,DRAM prices,comments,0,True
+2025-09-01,DRAM prices,comments,0,True
+2025-10-01,DRAM prices,comments,0,True
+2025-11-01,DRAM prices,comments,6,True
+2025-12-01,DRAM prices,comments,17,True
+2026-01-01,DRAM prices,comments,6,True
+2026-02-01,DRAM prices,comments,5,True
+2026-03-01,DRAM prices,comments,5,True
+2026-04-01,DRAM prices,comments,6,True
+2026-05-01,DRAM prices,comments,6,True
+2026-06-01,DRAM prices,comments,10,True
+2026-07-01,DRAM prices,comments,6,True
+2026-08-01,DRAM prices,comments,3,True
+2026-09-01,DRAM prices,comments,2,True
+2026-10-01,DRAM prices,comments,1,True
+2015-01-01,DRAM prices,stories,0,True
+2015-02-01,DRAM prices,stories,0,True
+2015-03-01,DRAM prices,stories,0,True
+2015-04-01,DRAM prices,stories,0,True
+2015-05-01,DRAM prices,stories,0,True
+2015-06-01,DRAM prices,stories,0,True
+2015-07-01,DRAM prices,stories,0,True
+2015-08-01,DRAM prices,stories,0,True
+2015-09-01,DRAM prices,stories,0,True
+2015-10-01,DRAM prices,stories,0,True
+2015-11-01,DRAM prices,stories,0,True
+2015-12-01,DRAM prices,stories,0,True
+2016-01-01,DRAM prices,stories,0,True
+2016-02-01,DRAM prices,stories,0,True
+2016-03-01,DRAM prices,stories,0,True
+2016-04-01,DRAM prices,stories,0,True
+2016-05-01,DRAM prices,stories,0,True
+2016-06-01,DRAM prices,stories,0,True
+2016-07-01,DRAM prices,stories,0,True
+2016-08-01,DRAM prices,stories,0,True
+2016-09-01,DRAM prices,stories,0,True
+2016-10-01,DRAM prices,stories,0,True
+2016-11-01,DRAM prices,stories,0,True
+2016-12-01,DRAM prices,stories,0,True
+2017-01-01,DRAM prices,stories,0,True
+2017-02-01,DRAM prices,stories,0,True
+2017-03-01,DRAM prices,stories,0,True
+2017-04-01,DRAM prices,stories,0,True
+2017-05-01,DRAM prices,stories,0,True
+2017-06-01,DRAM prices,stories,0,True
+2017-07-01,DRAM prices,stories,0,True
+2017-08-01,DRAM prices,stories,0,True
+2017-09-01,DRAM prices,stories,0,True
+2017-10-01,DRAM prices,stories,0,True
+2017-11-01,DRAM prices,stories,0,True
+2017-12-01,DRAM prices,stories,0,True
+2018-01-01,DRAM prices,stories,0,True
+2018-02-01,DRAM prices,stories,0,True
+2018-03-01,DRAM prices,stories,0,True
+2018-04-01,DRAM prices,stories,0,True
+2018-05-01,DRAM prices,stories,0,True
+2018-06-01,DRAM prices,stories,0,True
+2018-07-01,DRAM prices,stories,0,True
+2018-08-01,DRAM prices,stories,0,True
+2018-09-01,DRAM prices,stories,0,True
+2018-10-01,DRAM prices,stories,0,True
+2018-11-01,DRAM prices,stories,0,True
+2018-12-01,DRAM prices,stories,0,True
+2019-01-01,DRAM prices,stories,0,True
+2019-02-01,DRAM prices,stories,0,True
+2019-03-01,DRAM prices,stories,1,True
+2019-04-01,DRAM prices,stories,0,True
+2019-05-01,DRAM prices,stories,0,True
+2019-06-01,DRAM prices,stories,0,True
+2019-07-01,DRAM prices,stories,0,True
+2019-08-01,DRAM prices,stories,0,True
+2019-09-01,DRAM prices,stories,0,True
+2019-10-01,DRAM prices,stories,0,True
+2019-11-01,DRAM prices,stories,0,True
+2019-12-01,DRAM prices,stories,0,True
+2020-01-01,DRAM prices,stories,0,True
+2020-02-01,DRAM prices,stories,0,True
+2020-03-01,DRAM prices,stories,0,True
+2020-04-01,DRAM prices,stories,0,True
+2020-05-01,DRAM prices,stories,0,True
+2020-06-01,DRAM prices,stories,0,True
+2020-07-01,DRAM prices,stories,0,True
+2020-08-01,DRAM prices,stories,0,True
+2020-09-01,DRAM prices,stories,0,True
+2020-10-01,DRAM prices,stories,0,True
+2020-11-01,DRAM prices,stories,0,True
+2020-12-01,DRAM prices,stories,0,True
+2021-01-01,DRAM prices,stories,0,True
+2021-02-01,DRAM prices,stories,0,True
+2021-03-01,DRAM prices,stories,0,True
+2021-04-01,DRAM prices,stories,0,True
+2021-05-01,DRAM prices,stories,0,True
+2021-06-01,DRAM prices,stories,0,True
+2021-07-01,DRAM prices,stories,0,True
+2021-08-01,DRAM prices,stories,0,True
+2021-09-01,DRAM prices,stories,0,True
+2021-10-01,DRAM prices,stories,0,True
+2021-11-01,DRAM prices,stories,0,True
+2021-12-01,DRAM prices,stories,0,True
+2022-01-01,DRAM prices,stories,0,True
+2022-02-01,DRAM prices,stories,0,True
+2022-03-01,DRAM prices,stories,0,True
+2022-04-01,DRAM prices,stories,0,True
+2022-05-01,DRAM prices,stories,0,True
+2022-06-01,DRAM prices,stories,1,True
+2022-07-01,DRAM prices,stories,0,True
+2022-08-01,DRAM prices,stories,0,True
+2022-09-01,DRAM prices,stories,0,True
+2022-10-01,DRAM prices,stories,0,True
+2022-11-01,DRAM prices,stories,0,True
+2022-12-01,DRAM prices,stories,0,True
+2023-01-01,DRAM prices,stories,0,True
+2023-02-01,DRAM prices,stories,0,True
+2023-03-01,DRAM prices,stories,0,True
+2023-04-01,DRAM prices,stories,0,True
+2023-05-01,DRAM prices,stories,0,True
+2023-06-01,DRAM prices,stories,0,True
+2023-07-01,DRAM prices,stories,0,True
+2023-08-01,DRAM prices,stories,0,True
+2023-09-01,DRAM prices,stories,0,True
+2023-10-01,DRAM prices,stories,0,True
+2023-11-01,DRAM prices,stories,0,True
+2023-12-01,DRAM prices,stories,0,True
+2024-01-01,DRAM prices,stories,0,True
+2024-02-01,DRAM prices,stories,0,True
+2024-03-01,DRAM prices,stories,0,True
+2024-04-01,DRAM prices,stories,1,True
+2024-05-01,DRAM prices,stories,0,True
+2024-06-01,DRAM prices,stories,0,True
+2024-07-01,DRAM prices,stories,0,True
+2024-08-01,DRAM prices,stories,0,True
+2024-09-01,DRAM prices,stories,0,True
+2024-10-01,DRAM prices,stories,0,True
+2024-11-01,DRAM prices,stories,0,True
+2024-12-01,DRAM prices,stories,0,True
+2025-01-01,DRAM prices,stories,0,True
+2025-02-01,DRAM prices,stories,0,True
+2025-03-01,DRAM prices,stories,0,True
+2025-04-01,DRAM prices,stories,0,True
+2025-05-01,DRAM prices,stories,0,True
+2025-06-01,DRAM prices,stories,0,True
+2025-07-01,DRAM prices,stories,1,True
+2025-08-01,DRAM prices,stories,0,True
+2025-09-01,DRAM prices,stories,0,True
+2025-10-01,DRAM prices,stories,0,True
+2025-11-01,DRAM prices,stories,2,True
+2025-12-01,DRAM prices,stories,2,True
+2026-01-01,DRAM prices,stories,1,True
+2026-02-01,DRAM prices,stories,1,True
+2026-03-01,DRAM prices,stories,0,True
+2026-04-01,DRAM prices,stories,2,True
+2026-05-01,DRAM prices,stories,0,True
+2026-06-01,DRAM prices,stories,0,True
+2026-07-01,DRAM prices,stories,2,True
+2026-08-01,DRAM prices,stories,0,True
+2026-09-01,DRAM prices,stories,0,True
+2026-10-01,DRAM prices,stories,0,True
+2015-01-01,GPU prices,comments,0,True
+2015-02-01,GPU prices,comments,0,True
+2015-03-01,GPU prices,comments,0,True
+2015-04-01,GPU prices,comments,0,True
+2015-05-01,GPU prices,comments,0,True
+2015-06-01,GPU prices,comments,0,True
+2015-07-01,GPU prices,comments,0,True
+2015-08-01,GPU prices,comments,0,True
+2015-09-01,GPU prices,comments,0,True
+2015-10-01,GPU prices,comments,0,True
+2015-11-01,GPU prices,comments,0,True
+2015-12-01,GPU prices,comments,0,True
+2016-01-01,GPU prices,comments,0,True
+2016-02-01,GPU prices,comments,0,True
+2016-03-01,GPU prices,comments,0,True
+2016-04-01,GPU prices,comments,1,True
+2016-05-01,GPU prices,comments,0,True
+2016-06-01,GPU prices,comments,0,True
+2016-07-01,GPU prices,comments,0,True
+2016-08-01,GPU prices,comments,0,True
+2016-09-01,GPU prices,comments,0,True
+2016-10-01,GPU prices,comments,0,True
+2016-11-01,GPU prices,comments,1,True
+2016-12-01,GPU prices,comments,0,True
+2017-01-01,GPU prices,comments,1,True
+2017-02-01,GPU prices,comments,0,True
+2017-03-01,GPU prices,comments,1,True
+2017-04-01,GPU prices,comments,0,True
+2017-05-01,GPU prices,comments,1,True
+2017-06-01,GPU prices,comments,1,True
+2017-07-01,GPU prices,comments,5,True
+2017-08-01,GPU prices,comments,0,True
+2017-09-01,GPU prices,comments,0,True
+2017-10-01,GPU prices,comments,2,True
+2017-11-01,GPU prices,comments,1,True
+2017-12-01,GPU prices,comments,1,True
+2018-01-01,GPU prices,comments,6,True
+2018-02-01,GPU prices,comments,10,True
+2018-03-01,GPU prices,comments,2,True
+2018-04-01,GPU prices,comments,6,True
+2018-05-01,GPU prices,comments,2,True
+2018-06-01,GPU prices,comments,8,True
+2018-07-01,GPU prices,comments,4,True
+2018-08-01,GPU prices,comments,3,True
+2018-09-01,GPU prices,comments,1,True
+2018-10-01,GPU prices,comments,4,True
+2018-11-01,GPU prices,comments,2,True
+2018-12-01,GPU prices,comments,2,True
+2019-01-01,GPU prices,comments,0,True
+2019-02-01,GPU prices,comments,3,True
+2019-03-01,GPU prices,comments,0,True
+2019-04-01,GPU prices,comments,0,True
+2019-05-01,GPU prices,comments,0,True
+2019-06-01,GPU prices,comments,2,True
+2019-07-01,GPU prices,comments,1,True
+2019-08-01,GPU prices,comments,2,True
+2019-09-01,GPU prices,comments,0,True
+2019-10-01,GPU prices,comments,0,True
+2019-11-01,GPU prices,comments,0,True
+2019-12-01,GPU prices,comments,1,True
+2020-01-01,GPU prices,comments,0,True
+2020-02-01,GPU prices,comments,0,True
+2020-03-01,GPU prices,comments,2,True
+2020-04-01,GPU prices,comments,0,True
+2020-05-01,GPU prices,comments,0,True
+2020-06-01,GPU prices,comments,0,True
+2020-07-01,GPU prices,comments,1,True
+2020-08-01,GPU prices,comments,2,True
+2020-09-01,GPU prices,comments,2,True
+2020-10-01,GPU prices,comments,0,True
+2020-11-01,GPU prices,comments,0,True
+2020-12-01,GPU prices,comments,2,True
+2021-01-01,GPU prices,comments,0,True
+2021-02-01,GPU prices,comments,6,True
+2021-03-01,GPU prices,comments,4,True
+2021-04-01,GPU prices,comments,3,True
+2021-05-01,GPU prices,comments,14,True
+2021-06-01,GPU prices,comments,1,True
+2021-07-01,GPU prices,comments,5,True
+2021-08-01,GPU prices,comments,7,True
+2021-09-01,GPU prices,comments,6,True
+2021-10-01,GPU prices,comments,10,True
+2021-11-01,GPU prices,comments,8,True
+2021-12-01,GPU prices,comments,6,True
+2022-01-01,GPU prices,comments,16,True
+2022-02-01,GPU prices,comments,1,True
+2022-03-01,GPU prices,comments,7,True
+2022-04-01,GPU prices,comments,0,True
+2022-05-01,GPU prices,comments,4,True
+2022-06-01,GPU prices,comments,7,True
+2022-07-01,GPU prices,comments,4,True
+2022-08-01,GPU prices,comments,11,True
+2022-09-01,GPU prices,comments,24,True
+2022-10-01,GPU prices,comments,9,True
+2022-11-01,GPU prices,comments,8,True
+2022-12-01,GPU prices,comments,5,True
+2023-01-01,GPU prices,comments,6,True
+2023-02-01,GPU prices,comments,9,True
+2023-03-01,GPU prices,comments,3,True
+2023-04-01,GPU prices,comments,4,True
+2023-05-01,GPU prices,comments,5,True
+2023-06-01,GPU prices,comments,5,True
+2023-07-01,GPU prices,comments,3,True
+2023-08-01,GPU prices,comments,7,True
+2023-09-01,GPU prices,comments,3,True
+2023-10-01,GPU prices,comments,5,True
+2023-11-01,GPU prices,comments,7,True
+2023-12-01,GPU prices,comments,5,True
+2024-01-01,GPU prices,comments,1,True
+2024-02-01,GPU prices,comments,5,True
+2024-03-01,GPU prices,comments,2,True
+2024-04-01,GPU prices,comments,1,True
+2024-05-01,GPU prices,comments,2,True
+2024-06-01,GPU prices,comments,3,True
+2024-07-01,GPU prices,comments,4,True
+2024-08-01,GPU prices,comments,1,True
+2024-09-01,GPU prices,comments,2,True
+2024-10-01,GPU prices,comments,3,True
+2024-11-01,GPU prices,comments,1,True
+2024-12-01,GPU prices,comments,6,True
+2025-01-01,GPU prices,comments,6,True
+2025-02-01,GPU prices,comments,1,True
+2025-03-01,GPU prices,comments,2,True
+2025-04-01,GPU prices,comments,0,True
+2025-05-01,GPU prices,comments,1,True
+2025-06-01,GPU prices,comments,0,True
+2025-07-01,GPU prices,comments,4,True
+2025-08-01,GPU prices,comments,1,True
+2025-09-01,GPU prices,comments,5,True
+2025-10-01,GPU prices,comments,4,True
+2025-11-01,GPU prices,comments,6,True
+2025-12-01,GPU prices,comments,15,True
+2026-01-01,GPU prices,comments,13,True
+2026-02-01,GPU prices,comments,15,True
+2026-03-01,GPU prices,comments,8,True
+2026-04-01,GPU prices,comments,8,True
+2026-05-01,GPU prices,comments,5,True
+2026-06-01,GPU prices,comments,12,True
+2026-07-01,GPU prices,comments,7,True
+2026-08-01,GPU prices,comments,13,True
+2026-09-01,GPU prices,comments,9,True
+2026-10-01,GPU prices,comments,2,True
+2015-01-01,GPU prices,stories,0,True
+2015-02-01,GPU prices,stories,0,True
+2015-03-01,GPU prices,stories,0,True
+2015-04-01,GPU prices,stories,0,True
+2015-05-01,GPU prices,stories,0,True
+2015-06-01,GPU prices,stories,0,True
+2015-07-01,GPU prices,stories,0,True
+2015-08-01,GPU prices,stories,0,True
+2015-09-01,GPU prices,stories,0,True
+2015-10-01,GPU prices,stories,0,True
+2015-11-01,GPU prices,stories,0,True
+2015-12-01,GPU prices,stories,0,True
+2016-01-01,GPU prices,stories,0,True
+2016-02-01,GPU prices,stories,0,True
+2016-03-01,GPU prices,stories,0,True
+2016-04-01,GPU prices,stories,0,True
+2016-05-01,GPU prices,stories,0,True
+2016-06-01,GPU prices,stories,0,True
+2016-07-01,GPU prices,stories,0,True
+2016-08-01,GPU prices,stories,0,True
+2016-09-01,GPU prices,stories,0,True
+2016-10-01,GPU prices,stories,0,True
+2016-11-01,GPU prices,stories,0,True
+2016-12-01,GPU prices,stories,0,True
+2017-01-01,GPU prices,stories,0,True
+2017-02-01,GPU prices,stories,0,True
+2017-03-01,GPU prices,stories,0,True
+2017-04-01,GPU prices,stories,0,True
+2017-05-01,GPU prices,stories,0,True
+2017-06-01,GPU prices,stories,0,True
+2017-07-01,GPU prices,stories,0,True
+2017-08-01,GPU prices,stories,0,True
+2017-09-01,GPU prices,stories,0,True
+2017-10-01,GPU prices,stories,0,True
+2017-11-01,GPU prices,stories,0,True
+2017-12-01,GPU prices,stories,0,True
+2018-01-01,GPU prices,stories,1,True
+2018-02-01,GPU prices,stories,2,True
+2018-03-01,GPU prices,stories,0,True
+2018-04-01,GPU prices,stories,2,True
+2018-05-01,GPU prices,stories,0,True
+2018-06-01,GPU prices,stories,0,True
+2018-07-01,GPU prices,stories,1,True
+2018-08-01,GPU prices,stories,2,True
+2018-09-01,GPU prices,stories,1,True
+2018-10-01,GPU prices,stories,0,True
+2018-11-01,GPU prices,stories,0,True
+2018-12-01,GPU prices,stories,0,True
+2019-01-01,GPU prices,stories,0,True
+2019-02-01,GPU prices,stories,0,True
+2019-03-01,GPU prices,stories,0,True
+2019-04-01,GPU prices,stories,0,True
+2019-05-01,GPU prices,stories,0,True
+2019-06-01,GPU prices,stories,0,True
+2019-07-01,GPU prices,stories,0,True
+2019-08-01,GPU prices,stories,0,True
+2019-09-01,GPU prices,stories,0,True
+2019-10-01,GPU prices,stories,0,True
+2019-11-01,GPU prices,stories,0,True
+2019-12-01,GPU prices,stories,0,True
+2020-01-01,GPU prices,stories,0,True
+2020-02-01,GPU prices,stories,0,True
+2020-03-01,GPU prices,stories,0,True
+2020-04-01,GPU prices,stories,0,True
+2020-05-01,GPU prices,stories,0,True
+2020-06-01,GPU prices,stories,0,True
+2020-07-01,GPU prices,stories,0,True
+2020-08-01,GPU prices,stories,0,True
+2020-09-01,GPU prices,stories,0,True
+2020-10-01,GPU prices,stories,0,True
+2020-11-01,GPU prices,stories,0,True
+2020-12-01,GPU prices,stories,0,True
+2021-01-01,GPU prices,stories,0,True
+2021-02-01,GPU prices,stories,0,True
+2021-03-01,GPU prices,stories,0,True
+2021-04-01,GPU prices,stories,0,True
+2021-05-01,GPU prices,stories,1,True
+2021-06-01,GPU prices,stories,3,True
+2021-07-01,GPU prices,stories,0,True
+2021-08-01,GPU prices,stories,0,True
+2021-09-01,GPU prices,stories,0,True
+2021-10-01,GPU prices,stories,0,True
+2021-11-01,GPU prices,stories,1,True
+2021-12-01,GPU prices,stories,0,True
+2022-01-01,GPU prices,stories,2,True
+2022-02-01,GPU prices,stories,0,True
+2022-03-01,GPU prices,stories,1,True
+2022-04-01,GPU prices,stories,1,True
+2022-05-01,GPU prices,stories,1,True
+2022-06-01,GPU prices,stories,0,True
+2022-07-01,GPU prices,stories,2,True
+2022-08-01,GPU prices,stories,0,True
+2022-09-01,GPU prices,stories,1,True
+2022-10-01,GPU prices,stories,0,True
+2022-11-01,GPU prices,stories,0,True
+2022-12-01,GPU prices,stories,1,True
+2023-01-01,GPU prices,stories,1,True
+2023-02-01,GPU prices,stories,1,True
+2023-03-01,GPU prices,stories,1,True
+2023-04-01,GPU prices,stories,1,True
+2023-05-01,GPU prices,stories,2,True
+2023-06-01,GPU prices,stories,1,True
+2023-07-01,GPU prices,stories,1,True
+2023-08-01,GPU prices,stories,0,True
+2023-09-01,GPU prices,stories,0,True
+2023-10-01,GPU prices,stories,0,True
+2023-11-01,GPU prices,stories,0,True
+2023-12-01,GPU prices,stories,0,True
+2024-01-01,GPU prices,stories,0,True
+2024-02-01,GPU prices,stories,3,True
+2024-03-01,GPU prices,stories,0,True
+2024-04-01,GPU prices,stories,0,True
+2024-05-01,GPU prices,stories,2,True
+2024-06-01,GPU prices,stories,0,True
+2024-07-01,GPU prices,stories,0,True
+2024-08-01,GPU prices,stories,1,True
+2024-09-01,GPU prices,stories,0,True
+2024-10-01,GPU prices,stories,0,True
+2024-11-01,GPU prices,stories,0,True
+2024-12-01,GPU prices,stories,0,True
+2025-01-01,GPU prices,stories,0,True
+2025-02-01,GPU prices,stories,1,True
+2025-03-01,GPU prices,stories,1,True
+2025-04-01,GPU prices,stories,1,True
+2025-05-01,GPU prices,stories,3,True
+2025-06-01,GPU prices,stories,2,True
+2025-07-01,GPU prices,stories,1,True
+2025-08-01,GPU prices,stories,0,True
+2025-09-01,GPU prices,stories,0,True
+2025-10-01,GPU prices,stories,1,True
+2025-11-01,GPU prices,stories,0,True
+2025-12-01,GPU prices,stories,0,True
+2026-01-01,GPU prices,stories,4,True
+2026-02-01,GPU prices,stories,1,True
+2026-03-01,GPU prices,stories,1,True
+2026-04-01,GPU prices,stories,2,True
+2026-05-01,GPU prices,stories,1,True
+2026-06-01,GPU prices,stories,1,True
+2026-07-01,GPU prices,stories,2,True
+2026-08-01,GPU prices,stories,0,True
+2026-09-01,GPU prices,stories,1,True
+2026-10-01,GPU prices,stories,0,True
+2015-01-01,GPU shortage,comments,0,True
+2015-02-01,GPU shortage,comments,0,True
+2015-03-01,GPU shortage,comments,0,True
+2015-04-01,GPU shortage,comments,0,True
+2015-05-01,GPU shortage,comments,0,True
+2015-06-01,GPU shortage,comments,0,True
+2015-07-01,GPU shortage,comments,0,True
+2015-08-01,GPU shortage,comments,0,True
+2015-09-01,GPU shortage,comments,0,True
+2015-10-01,GPU shortage,comments,0,True
+2015-11-01,GPU shortage,comments,0,True
+2015-12-01,GPU shortage,comments,0,True
+2016-01-01,GPU shortage,comments,0,True
+2016-02-01,GPU shortage,comments,0,True
+2016-03-01,GPU shortage,comments,0,True
+2016-04-01,GPU shortage,comments,0,True
+2016-05-01,GPU shortage,comments,0,True
+2016-06-01,GPU shortage,comments,0,True
+2016-07-01,GPU shortage,comments,0,True
+2016-08-01,GPU shortage,comments,0,True
+2016-09-01,GPU shortage,comments,0,True
+2016-10-01,GPU shortage,comments,0,True
+2016-11-01,GPU shortage,comments,0,True
+2016-12-01,GPU shortage,comments,0,True
+2017-01-01,GPU shortage,comments,0,True
+2017-02-01,GPU shortage,comments,0,True
+2017-03-01,GPU shortage,comments,0,True
+2017-04-01,GPU shortage,comments,0,True
+2017-05-01,GPU shortage,comments,0,True
+2017-06-01,GPU shortage,comments,0,True
+2017-07-01,GPU shortage,comments,0,True
+2017-08-01,GPU shortage,comments,0,True
+2017-09-01,GPU shortage,comments,0,True
+2017-10-01,GPU shortage,comments,0,True
+2017-11-01,GPU shortage,comments,0,True
+2017-12-01,GPU shortage,comments,1,True
+2018-01-01,GPU shortage,comments,2,True
+2018-02-01,GPU shortage,comments,1,True
+2018-03-01,GPU shortage,comments,1,True
+2018-04-01,GPU shortage,comments,2,True
+2018-05-01,GPU shortage,comments,1,True
+2018-06-01,GPU shortage,comments,0,True
+2018-07-01,GPU shortage,comments,1,True
+2018-08-01,GPU shortage,comments,0,True
+2018-09-01,GPU shortage,comments,0,True
+2018-10-01,GPU shortage,comments,0,True
+2018-11-01,GPU shortage,comments,0,True
+2018-12-01,GPU shortage,comments,0,True
+2019-01-01,GPU shortage,comments,1,True
+2019-02-01,GPU shortage,comments,0,True
+2019-03-01,GPU shortage,comments,0,True
+2019-04-01,GPU shortage,comments,0,True
+2019-05-01,GPU shortage,comments,0,True
+2019-06-01,GPU shortage,comments,0,True
+2019-07-01,GPU shortage,comments,0,True
+2019-08-01,GPU shortage,comments,0,True
+2019-09-01,GPU shortage,comments,0,True
+2019-10-01,GPU shortage,comments,0,True
+2019-11-01,GPU shortage,comments,0,True
+2019-12-01,GPU shortage,comments,0,True
+2020-01-01,GPU shortage,comments,0,True
+2020-02-01,GPU shortage,comments,0,True
+2020-03-01,GPU shortage,comments,0,True
+2020-04-01,GPU shortage,comments,0,True
+2020-05-01,GPU shortage,comments,0,True
+2020-06-01,GPU shortage,comments,0,True
+2020-07-01,GPU shortage,comments,0,True
+2020-08-01,GPU shortage,comments,0,True
+2020-09-01,GPU shortage,comments,0,True
+2020-10-01,GPU shortage,comments,0,True
+2020-11-01,GPU shortage,comments,0,True
+2020-12-01,GPU shortage,comments,1,True
+2021-01-01,GPU shortage,comments,1,True
+2021-02-01,GPU shortage,comments,6,True
+2021-03-01,GPU shortage,comments,6,True
+2021-04-01,GPU shortage,comments,5,True
+2021-05-01,GPU shortage,comments,8,True
+2021-06-01,GPU shortage,comments,2,True
+2021-07-01,GPU shortage,comments,1,True
+2021-08-01,GPU shortage,comments,3,True
+2021-09-01,GPU shortage,comments,1,True
+2021-10-01,GPU shortage,comments,3,True
+2021-11-01,GPU shortage,comments,3,True
+2021-12-01,GPU shortage,comments,2,True
+2022-01-01,GPU shortage,comments,3,True
+2022-02-01,GPU shortage,comments,2,True
+2022-03-01,GPU shortage,comments,3,True
+2022-04-01,GPU shortage,comments,3,True
+2022-05-01,GPU shortage,comments,5,True
+2022-06-01,GPU shortage,comments,1,True
+2022-07-01,GPU shortage,comments,6,True
+2022-08-01,GPU shortage,comments,10,True
+2022-09-01,GPU shortage,comments,7,True
+2022-10-01,GPU shortage,comments,2,True
+2022-11-01,GPU shortage,comments,0,True
+2022-12-01,GPU shortage,comments,0,True
+2023-01-01,GPU shortage,comments,0,True
+2023-02-01,GPU shortage,comments,1,True
+2023-03-01,GPU shortage,comments,1,True
+2023-04-01,GPU shortage,comments,4,True
+2023-05-01,GPU shortage,comments,2,True
+2023-06-01,GPU shortage,comments,2,True
+2023-07-01,GPU shortage,comments,2,True
+2023-08-01,GPU shortage,comments,2,True
+2023-09-01,GPU shortage,comments,2,True
+2023-10-01,GPU shortage,comments,4,True
+2023-11-01,GPU shortage,comments,6,True
+2023-12-01,GPU shortage,comments,3,True
+2024-01-01,GPU shortage,comments,1,True
+2024-02-01,GPU shortage,comments,5,True
+2024-03-01,GPU shortage,comments,1,True
+2024-04-01,GPU shortage,comments,1,True
+2024-05-01,GPU shortage,comments,1,True
+2024-06-01,GPU shortage,comments,0,True
+2024-07-01,GPU shortage,comments,4,True
+2024-08-01,GPU shortage,comments,1,True
+2024-09-01,GPU shortage,comments,0,True
+2024-10-01,GPU shortage,comments,0,True
+2024-11-01,GPU shortage,comments,0,True
+2024-12-01,GPU shortage,comments,4,True
+2025-01-01,GPU shortage,comments,3,True
+2025-02-01,GPU shortage,comments,2,True
+2025-03-01,GPU shortage,comments,0,True
+2025-04-01,GPU shortage,comments,2,True
+2025-05-01,GPU shortage,comments,0,True
+2025-06-01,GPU shortage,comments,0,True
+2025-07-01,GPU shortage,comments,0,True
+2025-08-01,GPU shortage,comments,2,True
+2025-09-01,GPU shortage,comments,2,True
+2025-10-01,GPU shortage,comments,0,True
+2025-11-01,GPU shortage,comments,0,True
+2025-12-01,GPU shortage,comments,1,True
+2026-01-01,GPU shortage,comments,2,True
+2026-02-01,GPU shortage,comments,1,True
+2026-03-01,GPU shortage,comments,1,True
+2026-04-01,GPU shortage,comments,3,True
+2026-05-01,GPU shortage,comments,0,True
+2026-06-01,GPU shortage,comments,10,True
+2026-07-01,GPU shortage,comments,1,True
+2026-08-01,GPU shortage,comments,1,True
+2026-09-01,GPU shortage,comments,1,True
+2026-10-01,GPU shortage,comments,0,True
+2015-01-01,GPU shortage,stories,0,True
+2015-02-01,GPU shortage,stories,0,True
+2015-03-01,GPU shortage,stories,0,True
+2015-04-01,GPU shortage,stories,0,True
+2015-05-01,GPU shortage,stories,0,True
+2015-06-01,GPU shortage,stories,0,True
+2015-07-01,GPU shortage,stories,0,True
+2015-08-01,GPU shortage,stories,0,True
+2015-09-01,GPU shortage,stories,0,True
+2015-10-01,GPU shortage,stories,0,True
+2015-11-01,GPU shortage,stories,0,True
+2015-12-01,GPU shortage,stories,0,True
+2016-01-01,GPU shortage,stories,0,True
+2016-02-01,GPU shortage,stories,0,True
+2016-03-01,GPU shortage,stories,0,True
+2016-04-01,GPU shortage,stories,0,True
+2016-05-01,GPU shortage,stories,0,True
+2016-06-01,GPU shortage,stories,0,True
+2016-07-01,GPU shortage,stories,0,True
+2016-08-01,GPU shortage,stories,0,True
+2016-09-01,GPU shortage,stories,0,True
+2016-10-01,GPU shortage,stories,0,True
+2016-11-01,GPU shortage,stories,0,True
+2016-12-01,GPU shortage,stories,0,True
+2017-01-01,GPU shortage,stories,0,True
+2017-02-01,GPU shortage,stories,0,True
+2017-03-01,GPU shortage,stories,0,True
+2017-04-01,GPU shortage,stories,0,True
+2017-05-01,GPU shortage,stories,0,True
+2017-06-01,GPU shortage,stories,0,True
+2017-07-01,GPU shortage,stories,0,True
+2017-08-01,GPU shortage,stories,0,True
+2017-09-01,GPU shortage,stories,0,True
+2017-10-01,GPU shortage,stories,0,True
+2017-11-01,GPU shortage,stories,0,True
+2017-12-01,GPU shortage,stories,0,True
+2018-01-01,GPU shortage,stories,0,True
+2018-02-01,GPU shortage,stories,1,True
+2018-03-01,GPU shortage,stories,1,True
+2018-04-01,GPU shortage,stories,0,True
+2018-05-01,GPU shortage,stories,0,True
+2018-06-01,GPU shortage,stories,0,True
+2018-07-01,GPU shortage,stories,0,True
+2018-08-01,GPU shortage,stories,0,True
+2018-09-01,GPU shortage,stories,0,True
+2018-10-01,GPU shortage,stories,0,True
+2018-11-01,GPU shortage,stories,0,True
+2018-12-01,GPU shortage,stories,0,True
+2019-01-01,GPU shortage,stories,0,True
+2019-02-01,GPU shortage,stories,0,True
+2019-03-01,GPU shortage,stories,0,True
+2019-04-01,GPU shortage,stories,0,True
+2019-05-01,GPU shortage,stories,0,True
+2019-06-01,GPU shortage,stories,0,True
+2019-07-01,GPU shortage,stories,0,True
+2019-08-01,GPU shortage,stories,0,True
+2019-09-01,GPU shortage,stories,0,True
+2019-10-01,GPU shortage,stories,0,True
+2019-11-01,GPU shortage,stories,0,True
+2019-12-01,GPU shortage,stories,0,True
+2020-01-01,GPU shortage,stories,0,True
+2020-02-01,GPU shortage,stories,0,True
+2020-03-01,GPU shortage,stories,0,True
+2020-04-01,GPU shortage,stories,0,True
+2020-05-01,GPU shortage,stories,0,True
+2020-06-01,GPU shortage,stories,0,True
+2020-07-01,GPU shortage,stories,0,True
+2020-08-01,GPU shortage,stories,0,True
+2020-09-01,GPU shortage,stories,0,True
+2020-10-01,GPU shortage,stories,0,True
+2020-11-01,GPU shortage,stories,0,True
+2020-12-01,GPU shortage,stories,0,True
+2021-01-01,GPU shortage,stories,0,True
+2021-02-01,GPU shortage,stories,1,True
+2021-03-01,GPU shortage,stories,2,True
+2021-04-01,GPU shortage,stories,2,True
+2021-05-01,GPU shortage,stories,0,True
+2021-06-01,GPU shortage,stories,2,True
+2021-07-01,GPU shortage,stories,0,True
+2021-08-01,GPU shortage,stories,0,True
+2021-09-01,GPU shortage,stories,0,True
+2021-10-01,GPU shortage,stories,0,True
+2021-11-01,GPU shortage,stories,0,True
+2021-12-01,GPU shortage,stories,0,True
+2022-01-01,GPU shortage,stories,0,True
+2022-02-01,GPU shortage,stories,0,True
+2022-03-01,GPU shortage,stories,0,True
+2022-04-01,GPU shortage,stories,0,True
+2022-05-01,GPU shortage,stories,0,True
+2022-06-01,GPU shortage,stories,0,True
+2022-07-01,GPU shortage,stories,1,True
+2022-08-01,GPU shortage,stories,3,True
+2022-09-01,GPU shortage,stories,1,True
+2022-10-01,GPU shortage,stories,0,True
+2022-11-01,GPU shortage,stories,0,True
+2022-12-01,GPU shortage,stories,0,True
+2023-01-01,GPU shortage,stories,0,True
+2023-02-01,GPU shortage,stories,0,True
+2023-03-01,GPU shortage,stories,0,True
+2023-04-01,GPU shortage,stories,0,True
+2023-05-01,GPU shortage,stories,0,True
+2023-06-01,GPU shortage,stories,0,True
+2023-07-01,GPU shortage,stories,0,True
+2023-08-01,GPU shortage,stories,3,True
+2023-09-01,GPU shortage,stories,0,True
+2023-10-01,GPU shortage,stories,1,True
+2023-11-01,GPU shortage,stories,1,True
+2023-12-01,GPU shortage,stories,2,True
+2024-01-01,GPU shortage,stories,1,True
+2024-02-01,GPU shortage,stories,0,True
+2024-03-01,GPU shortage,stories,0,True
+2024-04-01,GPU shortage,stories,0,True
+2024-05-01,GPU shortage,stories,0,True
+2024-06-01,GPU shortage,stories,0,True
+2024-07-01,GPU shortage,stories,0,True
+2024-08-01,GPU shortage,stories,0,True
+2024-09-01,GPU shortage,stories,0,True
+2024-10-01,GPU shortage,stories,0,True
+2024-11-01,GPU shortage,stories,0,True
+2024-12-01,GPU shortage,stories,0,True
+2025-01-01,GPU shortage,stories,0,True
+2025-02-01,GPU shortage,stories,0,True
+2025-03-01,GPU shortage,stories,0,True
+2025-04-01,GPU shortage,stories,0,True
+2025-05-01,GPU shortage,stories,0,True
+2025-06-01,GPU shortage,stories,0,True
+2025-07-01,GPU shortage,stories,0,True
+2025-08-01,GPU shortage,stories,0,True
+2025-09-01,GPU shortage,stories,0,True
+2025-10-01,GPU shortage,stories,0,True
+2025-11-01,GPU shortage,stories,0,True
+2025-12-01,GPU shortage,stories,0,True
+2026-01-01,GPU shortage,stories,0,True
+2026-02-01,GPU shortage,stories,0,True
+2026-03-01,GPU shortage,stories,0,True
+2026-04-01,GPU shortage,stories,1,True
+2026-05-01,GPU shortage,stories,0,True
+2026-06-01,GPU shortage,stories,0,True
+2026-07-01,GPU shortage,stories,2,True
+2026-08-01,GPU shortage,stories,0,True
+2026-09-01,GPU shortage,stories,0,True
+2026-10-01,GPU shortage,stories,0,True
+2015-01-01,HBM,comments,0,True
+2015-02-01,HBM,comments,0,True
+2015-03-01,HBM,comments,0,True
+2015-04-01,HBM,comments,0,True
+2015-05-01,HBM,comments,8,True
+2015-06-01,HBM,comments,2,True
+2015-07-01,HBM,comments,7,True
+2015-08-01,HBM,comments,3,True
+2015-09-01,HBM,comments,0,True
+2015-10-01,HBM,comments,3,True
+2015-11-01,HBM,comments,2,True
+2015-12-01,HBM,comments,2,True
+2016-01-01,HBM,comments,2,True
+2016-02-01,HBM,comments,1,True
+2016-03-01,HBM,comments,6,True
+2016-04-01,HBM,comments,3,True
+2016-05-01,HBM,comments,6,True
+2016-06-01,HBM,comments,6,True
+2016-07-01,HBM,comments,6,True
+2016-08-01,HBM,comments,7,True
+2016-09-01,HBM,comments,1,True
+2016-10-01,HBM,comments,0,True
+2016-11-01,HBM,comments,3,True
+2016-12-01,HBM,comments,3,True
+2017-01-01,HBM,comments,0,True
+2017-02-01,HBM,comments,9,True
+2017-03-01,HBM,comments,6,True
+2017-04-01,HBM,comments,9,True
+2017-05-01,HBM,comments,3,True
+2017-06-01,HBM,comments,3,True
+2017-07-01,HBM,comments,3,True
+2017-08-01,HBM,comments,2,True
+2017-09-01,HBM,comments,2,True
+2017-10-01,HBM,comments,5,True
+2017-11-01,HBM,comments,10,True
+2017-12-01,HBM,comments,3,True
+2018-01-01,HBM,comments,8,True
+2018-02-01,HBM,comments,12,True
+2018-03-01,HBM,comments,6,True
+2018-04-01,HBM,comments,6,True
+2018-05-01,HBM,comments,3,True
+2018-06-01,HBM,comments,7,True
+2018-07-01,HBM,comments,2,True
+2018-08-01,HBM,comments,3,True
+2018-09-01,HBM,comments,0,True
+2018-10-01,HBM,comments,1,True
+2018-11-01,HBM,comments,3,True
+2018-12-01,HBM,comments,1,True
+2019-01-01,HBM,comments,7,True
+2019-02-01,HBM,comments,1,True
+2019-03-01,HBM,comments,1,True
+2019-04-01,HBM,comments,1,True
+2019-05-01,HBM,comments,1,True
+2019-06-01,HBM,comments,5,True
+2019-07-01,HBM,comments,5,True
+2019-08-01,HBM,comments,5,True
+2019-09-01,HBM,comments,6,True
+2019-10-01,HBM,comments,1,True
+2019-11-01,HBM,comments,5,True
+2019-12-01,HBM,comments,5,True
+2020-01-01,HBM,comments,4,True
+2020-02-01,HBM,comments,5,True
+2020-03-01,HBM,comments,5,True
+2020-04-01,HBM,comments,6,True
+2020-05-01,HBM,comments,3,True
+2020-06-01,HBM,comments,7,True
+2020-07-01,HBM,comments,3,True
+2020-08-01,HBM,comments,10,True
+2020-09-01,HBM,comments,6,True
+2020-10-01,HBM,comments,8,True
+2020-11-01,HBM,comments,31,True
+2020-12-01,HBM,comments,17,True
+2021-01-01,HBM,comments,6,True
+2021-02-01,HBM,comments,7,True
+2021-03-01,HBM,comments,3,True
+2021-04-01,HBM,comments,6,True
+2021-05-01,HBM,comments,4,True
+2021-06-01,HBM,comments,10,True
+2021-07-01,HBM,comments,7,True
+2021-08-01,HBM,comments,10,True
+2021-09-01,HBM,comments,2,True
+2021-10-01,HBM,comments,25,True
+2021-11-01,HBM,comments,8,True
+2021-12-01,HBM,comments,0,True
+2022-01-01,HBM,comments,6,True
+2022-02-01,HBM,comments,11,True
+2022-03-01,HBM,comments,9,True
+2022-04-01,HBM,comments,2,True
+2022-05-01,HBM,comments,5,True
+2022-06-01,HBM,comments,6,True
+2022-07-01,HBM,comments,8,True
+2022-08-01,HBM,comments,7,True
+2022-09-01,HBM,comments,7,True
+2022-10-01,HBM,comments,0,True
+2022-11-01,HBM,comments,2,True
+2022-12-01,HBM,comments,2,True
+2023-01-01,HBM,comments,9,True
+2023-02-01,HBM,comments,4,True
+2023-03-01,HBM,comments,21,True
+2023-04-01,HBM,comments,19,True
+2023-05-01,HBM,comments,16,True
+2023-06-01,HBM,comments,17,True
+2023-07-01,HBM,comments,20,True
+2023-08-01,HBM,comments,15,True
+2023-09-01,HBM,comments,14,True
+2023-10-01,HBM,comments,27,True
+2023-11-01,HBM,comments,20,True
+2023-12-01,HBM,comments,19,True
+2024-01-01,HBM,comments,12,True
+2024-02-01,HBM,comments,45,True
+2024-03-01,HBM,comments,20,True
+2024-04-01,HBM,comments,42,True
+2024-05-01,HBM,comments,14,True
+2024-06-01,HBM,comments,14,True
+2024-07-01,HBM,comments,12,True
+2024-08-01,HBM,comments,6,True
+2024-09-01,HBM,comments,8,True
+2024-10-01,HBM,comments,20,True
+2024-11-01,HBM,comments,33,True
+2024-12-01,HBM,comments,43,True
+2025-01-01,HBM,comments,15,True
+2025-02-01,HBM,comments,17,True
+2025-03-01,HBM,comments,11,True
+2025-04-01,HBM,comments,6,True
+2025-05-01,HBM,comments,9,True
+2025-06-01,HBM,comments,17,True
+2025-07-01,HBM,comments,18,True
+2025-08-01,HBM,comments,19,True
+2025-09-01,HBM,comments,27,True
+2025-10-01,HBM,comments,17,True
+2025-11-01,HBM,comments,33,True
+2025-12-01,HBM,comments,73,True
+2026-01-01,HBM,comments,28,True
+2026-02-01,HBM,comments,53,True
+2026-03-01,HBM,comments,23,True
+2026-04-01,HBM,comments,44,True
+2026-05-01,HBM,comments,50,True
+2026-06-01,HBM,comments,76,True
+2026-07-01,HBM,comments,47,True
+2026-08-01,HBM,comments,74,True
+2026-09-01,HBM,comments,102,True
+2026-10-01,HBM,comments,13,True
+2015-01-01,HBM,stories,0,True
+2015-02-01,HBM,stories,0,True
+2015-03-01,HBM,stories,0,True
+2015-04-01,HBM,stories,0,True
+2015-05-01,HBM,stories,3,True
+2015-06-01,HBM,stories,0,True
+2015-07-01,HBM,stories,1,True
+2015-08-01,HBM,stories,0,True
+2015-09-01,HBM,stories,0,True
+2015-10-01,HBM,stories,0,True
+2015-11-01,HBM,stories,0,True
+2015-12-01,HBM,stories,0,True
+2016-01-01,HBM,stories,1,True
+2016-02-01,HBM,stories,1,True
+2016-03-01,HBM,stories,0,True
+2016-04-01,HBM,stories,0,True
+2016-05-01,HBM,stories,0,True
+2016-06-01,HBM,stories,0,True
+2016-07-01,HBM,stories,0,True
+2016-08-01,HBM,stories,0,True
+2016-09-01,HBM,stories,1,True
+2016-10-01,HBM,stories,0,True
+2016-11-01,HBM,stories,0,True
+2016-12-01,HBM,stories,0,True
+2017-01-01,HBM,stories,0,True
+2017-02-01,HBM,stories,0,True
+2017-03-01,HBM,stories,0,True
+2017-04-01,HBM,stories,3,True
+2017-05-01,HBM,stories,0,True
+2017-06-01,HBM,stories,1,True
+2017-07-01,HBM,stories,0,True
+2017-08-01,HBM,stories,0,True
+2017-09-01,HBM,stories,0,True
+2017-10-01,HBM,stories,0,True
+2017-11-01,HBM,stories,0,True
+2017-12-01,HBM,stories,0,True
+2018-01-01,HBM,stories,0,True
+2018-02-01,HBM,stories,1,True
+2018-03-01,HBM,stories,1,True
+2018-04-01,HBM,stories,0,True
+2018-05-01,HBM,stories,1,True
+2018-06-01,HBM,stories,0,True
+2018-07-01,HBM,stories,0,True
+2018-08-01,HBM,stories,1,True
+2018-09-01,HBM,stories,0,True
+2018-10-01,HBM,stories,0,True
+2018-11-01,HBM,stories,0,True
+2018-12-01,HBM,stories,2,True
+2019-01-01,HBM,stories,0,True
+2019-02-01,HBM,stories,0,True
+2019-03-01,HBM,stories,0,True
+2019-04-01,HBM,stories,0,True
+2019-05-01,HBM,stories,1,True
+2019-06-01,HBM,stories,0,True
+2019-07-01,HBM,stories,0,True
+2019-08-01,HBM,stories,3,True
+2019-09-01,HBM,stories,0,True
+2019-10-01,HBM,stories,2,True
+2019-11-01,HBM,stories,0,True
+2019-12-01,HBM,stories,0,True
+2020-01-01,HBM,stories,0,True
+2020-02-01,HBM,stories,0,True
+2020-03-01,HBM,stories,2,True
+2020-04-01,HBM,stories,0,True
+2020-05-01,HBM,stories,0,True
+2020-06-01,HBM,stories,0,True
+2020-07-01,HBM,stories,0,True
+2020-08-01,HBM,stories,2,True
+2020-09-01,HBM,stories,0,True
+2020-10-01,HBM,stories,0,True
+2020-11-01,HBM,stories,1,True
+2020-12-01,HBM,stories,2,True
+2021-01-01,HBM,stories,0,True
+2021-02-01,HBM,stories,1,True
+2021-03-01,HBM,stories,0,True
+2021-04-01,HBM,stories,0,True
+2021-05-01,HBM,stories,0,True
+2021-06-01,HBM,stories,3,True
+2021-07-01,HBM,stories,2,True
+2021-08-01,HBM,stories,0,True
+2021-09-01,HBM,stories,0,True
+2021-10-01,HBM,stories,1,True
+2021-11-01,HBM,stories,0,True
+2021-12-01,HBM,stories,1,True
+2022-01-01,HBM,stories,1,True
+2022-02-01,HBM,stories,1,True
+2022-03-01,HBM,stories,0,True
+2022-04-01,HBM,stories,0,True
+2022-05-01,HBM,stories,1,True
+2022-06-01,HBM,stories,3,True
+2022-07-01,HBM,stories,1,True
+2022-08-01,HBM,stories,0,True
+2022-09-01,HBM,stories,0,True
+2022-10-01,HBM,stories,0,True
+2022-11-01,HBM,stories,4,True
+2022-12-01,HBM,stories,0,True
+2023-01-01,HBM,stories,0,True
+2023-02-01,HBM,stories,3,True
+2023-03-01,HBM,stories,0,True
+2023-04-01,HBM,stories,1,True
+2023-05-01,HBM,stories,0,True
+2023-06-01,HBM,stories,0,True
+2023-07-01,HBM,stories,6,True
+2023-08-01,HBM,stories,2,True
+2023-09-01,HBM,stories,0,True
+2023-10-01,HBM,stories,1,True
+2023-11-01,HBM,stories,3,True
+2023-12-01,HBM,stories,0,True
+2024-01-01,HBM,stories,1,True
+2024-02-01,HBM,stories,3,True
+2024-03-01,HBM,stories,1,True
+2024-04-01,HBM,stories,2,True
+2024-05-01,HBM,stories,3,True
+2024-06-01,HBM,stories,0,True
+2024-07-01,HBM,stories,0,True
+2024-08-01,HBM,stories,1,True
+2024-09-01,HBM,stories,0,True
+2024-10-01,HBM,stories,0,True
+2024-11-01,HBM,stories,3,True
+2024-12-01,HBM,stories,6,True
+2025-01-01,HBM,stories,1,True
+2025-02-01,HBM,stories,4,True
+2025-03-01,HBM,stories,0,True
+2025-04-01,HBM,stories,0,True
+2025-05-01,HBM,stories,2,True
+2025-06-01,HBM,stories,1,True
+2025-07-01,HBM,stories,1,True
+2025-08-01,HBM,stories,5,True
+2025-09-01,HBM,stories,4,True
+2025-10-01,HBM,stories,0,True
+2025-11-01,HBM,stories,3,True
+2025-12-01,HBM,stories,8,True
+2026-01-01,HBM,stories,4,True
+2026-02-01,HBM,stories,2,True
+2026-03-01,HBM,stories,4,True
+2026-04-01,HBM,stories,1,True
+2026-05-01,HBM,stories,1,True
+2026-06-01,HBM,stories,1,True
+2026-07-01,HBM,stories,6,True
+2026-08-01,HBM,stories,6,True
+2026-09-01,HBM,stories,3,True
+2026-10-01,HBM,stories,3,True
+2015-01-01,NAND,comments,11,True
+2015-02-01,NAND,comments,16,True
+2015-03-01,NAND,comments,7,True
+2015-04-01,NAND,comments,18,True
+2015-05-01,NAND,comments,19,True
+2015-06-01,NAND,comments,37,True
+2015-07-01,NAND,comments,22,True
+2015-08-01,NAND,comments,42,True
+2015-09-01,NAND,comments,7,True
+2015-10-01,NAND,comments,16,True
+2015-11-01,NAND,comments,13,True
+2015-12-01,NAND,comments,10,True
+2016-01-01,NAND,comments,6,True
+2016-02-01,NAND,comments,26,True
+2016-03-01,NAND,comments,88,True
+2016-04-01,NAND,comments,16,True
+2016-05-01,NAND,comments,30,True
+2016-06-01,NAND,comments,22,True
+2016-07-01,NAND,comments,16,True
+2016-08-01,NAND,comments,11,True
+2016-09-01,NAND,comments,26,True
+2016-10-01,NAND,comments,19,True
+2016-11-01,NAND,comments,16,True
+2016-12-01,NAND,comments,28,True
+2017-01-01,NAND,comments,31,True
+2017-02-01,NAND,comments,17,True
+2017-03-01,NAND,comments,23,True
+2017-04-01,NAND,comments,24,True
+2017-05-01,NAND,comments,13,True
+2017-06-01,NAND,comments,22,True
+2017-07-01,NAND,comments,16,True
+2017-08-01,NAND,comments,15,True
+2017-09-01,NAND,comments,15,True
+2017-10-01,NAND,comments,27,True
+2017-11-01,NAND,comments,14,True
+2017-12-01,NAND,comments,31,True
+2018-01-01,NAND,comments,15,True
+2018-02-01,NAND,comments,13,True
+2018-03-01,NAND,comments,18,True
+2018-04-01,NAND,comments,27,True
+2018-05-01,NAND,comments,32,True
+2018-06-01,NAND,comments,15,True
+2018-07-01,NAND,comments,18,True
+2018-08-01,NAND,comments,16,True
+2018-09-01,NAND,comments,9,True
+2018-10-01,NAND,comments,22,True
+2018-11-01,NAND,comments,44,True
+2018-12-01,NAND,comments,38,True
+2019-01-01,NAND,comments,16,True
+2019-02-01,NAND,comments,7,True
+2019-03-01,NAND,comments,15,True
+2019-04-01,NAND,comments,38,True
+2019-05-01,NAND,comments,24,True
+2019-06-01,NAND,comments,50,True
+2019-07-01,NAND,comments,25,True
+2019-08-01,NAND,comments,30,True
+2019-09-01,NAND,comments,34,True
+2019-10-01,NAND,comments,11,True
+2019-11-01,NAND,comments,15,True
+2019-12-01,NAND,comments,21,True
+2020-01-01,NAND,comments,25,True
+2020-02-01,NAND,comments,19,True
+2020-03-01,NAND,comments,25,True
+2020-04-01,NAND,comments,23,True
+2020-05-01,NAND,comments,20,True
+2020-06-01,NAND,comments,29,True
+2020-07-01,NAND,comments,18,True
+2020-08-01,NAND,comments,24,True
+2020-09-01,NAND,comments,35,True
+2020-10-01,NAND,comments,51,True
+2020-11-01,NAND,comments,29,True
+2020-12-01,NAND,comments,38,True
+2021-01-01,NAND,comments,49,True
+2021-02-01,NAND,comments,42,True
+2021-03-01,NAND,comments,48,True
+2021-04-01,NAND,comments,24,True
+2021-05-01,NAND,comments,24,True
+2021-06-01,NAND,comments,23,True
+2021-07-01,NAND,comments,27,True
+2021-08-01,NAND,comments,34,True
+2021-09-01,NAND,comments,22,True
+2021-10-01,NAND,comments,50,True
+2021-11-01,NAND,comments,42,True
+2021-12-01,NAND,comments,29,True
+2022-01-01,NAND,comments,23,True
+2022-02-01,NAND,comments,41,True
+2022-03-01,NAND,comments,20,True
+2022-04-01,NAND,comments,34,True
+2022-05-01,NAND,comments,33,True
+2022-06-01,NAND,comments,22,True
+2022-07-01,NAND,comments,63,True
+2022-08-01,NAND,comments,41,True
+2022-09-01,NAND,comments,32,True
+2022-10-01,NAND,comments,28,True
+2022-11-01,NAND,comments,25,True
+2022-12-01,NAND,comments,32,True
+2023-01-01,NAND,comments,37,True
+2023-02-01,NAND,comments,30,True
+2023-03-01,NAND,comments,45,True
+2023-04-01,NAND,comments,40,True
+2023-05-01,NAND,comments,66,True
+2023-06-01,NAND,comments,35,True
+2023-07-01,NAND,comments,32,True
+2023-08-01,NAND,comments,53,True
+2023-09-01,NAND,comments,22,True
+2023-10-01,NAND,comments,44,True
+2023-11-01,NAND,comments,33,True
+2023-12-01,NAND,comments,63,True
+2024-01-01,NAND,comments,39,True
+2024-02-01,NAND,comments,22,True
+2024-03-01,NAND,comments,33,True
+2024-04-01,NAND,comments,61,True
+2024-05-01,NAND,comments,50,True
+2024-06-01,NAND,comments,29,True
+2024-07-01,NAND,comments,38,True
+2024-08-01,NAND,comments,38,True
+2024-09-01,NAND,comments,55,True
+2024-10-01,NAND,comments,38,True
+2024-11-01,NAND,comments,60,True
+2024-12-01,NAND,comments,33,True
+2025-01-01,NAND,comments,41,True
+2025-02-01,NAND,comments,38,True
+2025-03-01,NAND,comments,29,True
+2025-04-01,NAND,comments,24,True
+2025-05-01,NAND,comments,31,True
+2025-06-01,NAND,comments,23,True
+2025-07-01,NAND,comments,27,True
+2025-08-01,NAND,comments,39,True
+2025-09-01,NAND,comments,23,True
+2025-10-01,NAND,comments,29,True
+2025-11-01,NAND,comments,51,True
+2025-12-01,NAND,comments,44,True
+2026-01-01,NAND,comments,39,True
+2026-02-01,NAND,comments,44,True
+2026-03-01,NAND,comments,70,True
+2026-04-01,NAND,comments,64,True
+2026-05-01,NAND,comments,34,True
+2026-06-01,NAND,comments,60,True
+2026-07-01,NAND,comments,27,True
+2026-08-01,NAND,comments,43,True
+2026-09-01,NAND,comments,28,True
+2026-10-01,NAND,comments,7,True
+2015-01-01,NAND,stories,0,True
+2015-02-01,NAND,stories,0,True
+2015-03-01,NAND,stories,9,True
+2015-04-01,NAND,stories,1,True
+2015-05-01,NAND,stories,4,True
+2015-06-01,NAND,stories,1,True
+2015-07-01,NAND,stories,3,True
+2015-08-01,NAND,stories,6,True
+2015-09-01,NAND,stories,1,True
+2015-10-01,NAND,stories,0,True
+2015-11-01,NAND,stories,0,True
+2015-12-01,NAND,stories,1,True
+2016-01-01,NAND,stories,0,True
+2016-02-01,NAND,stories,0,True
+2016-03-01,NAND,stories,5,True
+2016-04-01,NAND,stories,0,True
+2016-05-01,NAND,stories,2,True
+2016-06-01,NAND,stories,2,True
+2016-07-01,NAND,stories,1,True
+2016-08-01,NAND,stories,2,True
+2016-09-01,NAND,stories,7,True
+2016-10-01,NAND,stories,0,True
+2016-11-01,NAND,stories,3,True
+2016-12-01,NAND,stories,3,True
+2017-01-01,NAND,stories,4,True
+2017-02-01,NAND,stories,0,True
+2017-03-01,NAND,stories,0,True
+2017-04-01,NAND,stories,4,True
+2017-05-01,NAND,stories,5,True
+2017-06-01,NAND,stories,5,True
+2017-07-01,NAND,stories,5,True
+2017-08-01,NAND,stories,3,True
+2017-09-01,NAND,stories,0,True
+2017-10-01,NAND,stories,0,True
+2017-11-01,NAND,stories,1,True
+2017-12-01,NAND,stories,4,True
+2018-01-01,NAND,stories,3,True
+2018-02-01,NAND,stories,1,True
+2018-03-01,NAND,stories,3,True
+2018-04-01,NAND,stories,2,True
+2018-05-01,NAND,stories,5,True
+2018-06-01,NAND,stories,0,True
+2018-07-01,NAND,stories,1,True
+2018-08-01,NAND,stories,7,True
+2018-09-01,NAND,stories,3,True
+2018-10-01,NAND,stories,2,True
+2018-11-01,NAND,stories,1,True
+2018-12-01,NAND,stories,1,True
+2019-01-01,NAND,stories,2,True
+2019-02-01,NAND,stories,0,True
+2019-03-01,NAND,stories,0,True
+2019-04-01,NAND,stories,3,True
+2019-05-01,NAND,stories,0,True
+2019-06-01,NAND,stories,2,True
+2019-07-01,NAND,stories,2,True
+2019-08-01,NAND,stories,3,True
+2019-09-01,NAND,stories,2,True
+2019-10-01,NAND,stories,0,True
+2019-11-01,NAND,stories,3,True
+2019-12-01,NAND,stories,2,True
+2020-01-01,NAND,stories,3,True
+2020-02-01,NAND,stories,2,True
+2020-03-01,NAND,stories,1,True
+2020-04-01,NAND,stories,3,True
+2020-05-01,NAND,stories,2,True
+2020-06-01,NAND,stories,4,True
+2020-07-01,NAND,stories,2,True
+2020-08-01,NAND,stories,2,True
+2020-09-01,NAND,stories,3,True
+2020-10-01,NAND,stories,5,True
+2020-11-01,NAND,stories,7,True
+2020-12-01,NAND,stories,6,True
+2021-01-01,NAND,stories,3,True
+2021-02-01,NAND,stories,7,True
+2021-03-01,NAND,stories,4,True
+2021-04-01,NAND,stories,1,True
+2021-05-01,NAND,stories,2,True
+2021-06-01,NAND,stories,3,True
+2021-07-01,NAND,stories,1,True
+2021-08-01,NAND,stories,2,True
+2021-09-01,NAND,stories,4,True
+2021-10-01,NAND,stories,4,True
+2021-11-01,NAND,stories,1,True
+2021-12-01,NAND,stories,3,True
+2022-01-01,NAND,stories,2,True
+2022-02-01,NAND,stories,7,True
+2022-03-01,NAND,stories,1,True
+2022-04-01,NAND,stories,1,True
+2022-05-01,NAND,stories,3,True
+2022-06-01,NAND,stories,0,True
+2022-07-01,NAND,stories,3,True
+2022-08-01,NAND,stories,6,True
+2022-09-01,NAND,stories,1,True
+2022-10-01,NAND,stories,2,True
+2022-11-01,NAND,stories,2,True
+2022-12-01,NAND,stories,4,True
+2023-01-01,NAND,stories,1,True
+2023-02-01,NAND,stories,0,True
+2023-03-01,NAND,stories,2,True
+2023-04-01,NAND,stories,4,True
+2023-05-01,NAND,stories,2,True
+2023-06-01,NAND,stories,2,True
+2023-07-01,NAND,stories,2,True
+2023-08-01,NAND,stories,2,True
+2023-09-01,NAND,stories,0,True
+2023-10-01,NAND,stories,7,True
+2023-11-01,NAND,stories,3,True
+2023-12-01,NAND,stories,1,True
+2024-01-01,NAND,stories,4,True
+2024-02-01,NAND,stories,3,True
+2024-03-01,NAND,stories,2,True
+2024-04-01,NAND,stories,5,True
+2024-05-01,NAND,stories,2,True
+2024-06-01,NAND,stories,2,True
+2024-07-01,NAND,stories,3,True
+2024-08-01,NAND,stories,1,True
+2024-09-01,NAND,stories,1,True
+2024-10-01,NAND,stories,1,True
+2024-11-01,NAND,stories,4,True
+2024-12-01,NAND,stories,4,True
+2025-01-01,NAND,stories,1,True
+2025-02-01,NAND,stories,1,True
+2025-03-01,NAND,stories,2,True
+2025-04-01,NAND,stories,0,True
+2025-05-01,NAND,stories,1,True
+2025-06-01,NAND,stories,1,True
+2025-07-01,NAND,stories,1,True
+2025-08-01,NAND,stories,3,True
+2025-09-01,NAND,stories,1,True
+2025-10-01,NAND,stories,3,True
+2025-11-01,NAND,stories,2,True
+2025-12-01,NAND,stories,3,True
+2026-01-01,NAND,stories,6,True
+2026-02-01,NAND,stories,3,True
+2026-03-01,NAND,stories,2,True
+2026-04-01,NAND,stories,1,True
+2026-05-01,NAND,stories,2,True
+2026-06-01,NAND,stories,3,True
+2026-07-01,NAND,stories,1,True
+2026-08-01,NAND,stories,6,True
+2026-09-01,NAND,stories,7,True
+2026-10-01,NAND,stories,1,True
+2015-01-01,RAM prices,comments,1,True
+2015-02-01,RAM prices,comments,0,True
+2015-03-01,RAM prices,comments,1,True
+2015-04-01,RAM prices,comments,0,True
+2015-05-01,RAM prices,comments,0,True
+2015-06-01,RAM prices,comments,0,True
+2015-07-01,RAM prices,comments,0,True
+2015-08-01,RAM prices,comments,0,True
+2015-09-01,RAM prices,comments,1,True
+2015-10-01,RAM prices,comments,0,True
+2015-11-01,RAM prices,comments,0,True
+2015-12-01,RAM prices,comments,1,True
+2016-01-01,RAM prices,comments,0,True
+2016-02-01,RAM prices,comments,0,True
+2016-03-01,RAM prices,comments,0,True
+2016-04-01,RAM prices,comments,0,True
+2016-05-01,RAM prices,comments,0,True
+2016-06-01,RAM prices,comments,3,True
+2016-07-01,RAM prices,comments,0,True
+2016-08-01,RAM prices,comments,0,True
+2016-09-01,RAM prices,comments,1,True
+2016-10-01,RAM prices,comments,1,True
+2016-11-01,RAM prices,comments,1,True
+2016-12-01,RAM prices,comments,0,True
+2017-01-01,RAM prices,comments,0,True
+2017-02-01,RAM prices,comments,0,True
+2017-03-01,RAM prices,comments,0,True
+2017-04-01,RAM prices,comments,0,True
+2017-05-01,RAM prices,comments,2,True
+2017-06-01,RAM prices,comments,1,True
+2017-07-01,RAM prices,comments,0,True
+2017-08-01,RAM prices,comments,0,True
+2017-09-01,RAM prices,comments,2,True
+2017-10-01,RAM prices,comments,2,True
+2017-11-01,RAM prices,comments,1,True
+2017-12-01,RAM prices,comments,1,True
+2018-01-01,RAM prices,comments,5,True
+2018-02-01,RAM prices,comments,5,True
+2018-03-01,RAM prices,comments,3,True
+2018-04-01,RAM prices,comments,1,True
+2018-05-01,RAM prices,comments,2,True
+2018-06-01,RAM prices,comments,4,True
+2018-07-01,RAM prices,comments,2,True
+2018-08-01,RAM prices,comments,1,True
+2018-09-01,RAM prices,comments,1,True
+2018-10-01,RAM prices,comments,2,True
+2018-11-01,RAM prices,comments,2,True
+2018-12-01,RAM prices,comments,1,True
+2019-01-01,RAM prices,comments,3,True
+2019-02-01,RAM prices,comments,3,True
+2019-03-01,RAM prices,comments,1,True
+2019-04-01,RAM prices,comments,0,True
+2019-05-01,RAM prices,comments,0,True
+2019-06-01,RAM prices,comments,2,True
+2019-07-01,RAM prices,comments,2,True
+2019-08-01,RAM prices,comments,1,True
+2019-09-01,RAM prices,comments,1,True
+2019-10-01,RAM prices,comments,0,True
+2019-11-01,RAM prices,comments,0,True
+2019-12-01,RAM prices,comments,0,True
+2020-01-01,RAM prices,comments,2,True
+2020-02-01,RAM prices,comments,2,True
+2020-03-01,RAM prices,comments,2,True
+2020-04-01,RAM prices,comments,1,True
+2020-05-01,RAM prices,comments,0,True
+2020-06-01,RAM prices,comments,4,True
+2020-07-01,RAM prices,comments,0,True
+2020-08-01,RAM prices,comments,1,True
+2020-09-01,RAM prices,comments,0,True
+2020-10-01,RAM prices,comments,1,True
+2020-11-01,RAM prices,comments,0,True
+2020-12-01,RAM prices,comments,1,True
+2021-01-01,RAM prices,comments,0,True
+2021-02-01,RAM prices,comments,2,True
+2021-03-01,RAM prices,comments,0,True
+2021-04-01,RAM prices,comments,2,True
+2021-05-01,RAM prices,comments,1,True
+2021-06-01,RAM prices,comments,0,True
+2021-07-01,RAM prices,comments,0,True
+2021-08-01,RAM prices,comments,0,True
+2021-09-01,RAM prices,comments,0,True
+2021-10-01,RAM prices,comments,2,True
+2021-11-01,RAM prices,comments,1,True
+2021-12-01,RAM prices,comments,1,True
+2022-01-01,RAM prices,comments,0,True
+2022-02-01,RAM prices,comments,1,True
+2022-03-01,RAM prices,comments,0,True
+2022-04-01,RAM prices,comments,0,True
+2022-05-01,RAM prices,comments,0,True
+2022-06-01,RAM prices,comments,3,True
+2022-07-01,RAM prices,comments,0,True
+2022-08-01,RAM prices,comments,0,True
+2022-09-01,RAM prices,comments,1,True
+2022-10-01,RAM prices,comments,0,True
+2022-11-01,RAM prices,comments,0,True
+2022-12-01,RAM prices,comments,0,True
+2023-01-01,RAM prices,comments,1,True
+2023-02-01,RAM prices,comments,0,True
+2023-03-01,RAM prices,comments,3,True
+2023-04-01,RAM prices,comments,1,True
+2023-05-01,RAM prices,comments,1,True
+2023-06-01,RAM prices,comments,1,True
+2023-07-01,RAM prices,comments,1,True
+2023-08-01,RAM prices,comments,0,True
+2023-09-01,RAM prices,comments,0,True
+2023-10-01,RAM prices,comments,3,True
+2023-11-01,RAM prices,comments,2,True
+2023-12-01,RAM prices,comments,0,True
+2024-01-01,RAM prices,comments,3,True
+2024-02-01,RAM prices,comments,3,True
+2024-03-01,RAM prices,comments,0,True
+2024-04-01,RAM prices,comments,2,True
+2024-05-01,RAM prices,comments,2,True
+2024-06-01,RAM prices,comments,2,True
+2024-07-01,RAM prices,comments,0,True
+2024-08-01,RAM prices,comments,0,True
+2024-09-01,RAM prices,comments,0,True
+2024-10-01,RAM prices,comments,1,True
+2024-11-01,RAM prices,comments,2,True
+2024-12-01,RAM prices,comments,1,True
+2025-01-01,RAM prices,comments,1,True
+2025-02-01,RAM prices,comments,0,True
+2025-03-01,RAM prices,comments,5,True
+2025-04-01,RAM prices,comments,0,True
+2025-05-01,RAM prices,comments,1,True
+2025-06-01,RAM prices,comments,1,True
+2025-07-01,RAM prices,comments,2,True
+2025-08-01,RAM prices,comments,2,True
+2025-09-01,RAM prices,comments,0,True
+2025-10-01,RAM prices,comments,0,True
+2025-11-01,RAM prices,comments,18,True
+2025-12-01,RAM prices,comments,89,True
+2026-01-01,RAM prices,comments,54,True
+2026-02-01,RAM prices,comments,55,True
+2026-03-01,RAM prices,comments,88,True
+2026-04-01,RAM prices,comments,47,True
+2026-05-01,RAM prices,comments,46,True
+2026-06-01,RAM prices,comments,76,True
+2026-07-01,RAM prices,comments,50,True
+2026-08-01,RAM prices,comments,65,True
+2026-09-01,RAM prices,comments,30,True
+2026-10-01,RAM prices,comments,5,True
+2015-01-01,RAM prices,stories,0,True
+2015-02-01,RAM prices,stories,0,True
+2015-03-01,RAM prices,stories,0,True
+2015-04-01,RAM prices,stories,0,True
+2015-05-01,RAM prices,stories,0,True
+2015-06-01,RAM prices,stories,0,True
+2015-07-01,RAM prices,stories,0,True
+2015-08-01,RAM prices,stories,0,True
+2015-09-01,RAM prices,stories,1,True
+2015-10-01,RAM prices,stories,0,True
+2015-11-01,RAM prices,stories,0,True
+2015-12-01,RAM prices,stories,0,True
+2016-01-01,RAM prices,stories,0,True
+2016-02-01,RAM prices,stories,0,True
+2016-03-01,RAM prices,stories,0,True
+2016-04-01,RAM prices,stories,0,True
+2016-05-01,RAM prices,stories,0,True
+2016-06-01,RAM prices,stories,0,True
+2016-07-01,RAM prices,stories,0,True
+2016-08-01,RAM prices,stories,0,True
+2016-09-01,RAM prices,stories,0,True
+2016-10-01,RAM prices,stories,0,True
+2016-11-01,RAM prices,stories,0,True
+2016-12-01,RAM prices,stories,0,True
+2017-01-01,RAM prices,stories,0,True
+2017-02-01,RAM prices,stories,0,True
+2017-03-01,RAM prices,stories,0,True
+2017-04-01,RAM prices,stories,0,True
+2017-05-01,RAM prices,stories,0,True
+2017-06-01,RAM prices,stories,0,True
+2017-07-01,RAM prices,stories,0,True
+2017-08-01,RAM prices,stories,0,True
+2017-09-01,RAM prices,stories,0,True
+2017-10-01,RAM prices,stories,0,True
+2017-11-01,RAM prices,stories,0,True
+2017-12-01,RAM prices,stories,0,True
+2018-01-01,RAM prices,stories,0,True
+2018-02-01,RAM prices,stories,0,True
+2018-03-01,RAM prices,stories,0,True
+2018-04-01,RAM prices,stories,0,True
+2018-05-01,RAM prices,stories,0,True
+2018-06-01,RAM prices,stories,1,True
+2018-07-01,RAM prices,stories,0,True
+2018-08-01,RAM prices,stories,0,True
+2018-09-01,RAM prices,stories,0,True
+2018-10-01,RAM prices,stories,0,True
+2018-11-01,RAM prices,stories,0,True
+2018-12-01,RAM prices,stories,0,True
+2019-01-01,RAM prices,stories,0,True
+2019-02-01,RAM prices,stories,1,True
+2019-03-01,RAM prices,stories,0,True
+2019-04-01,RAM prices,stories,0,True
+2019-05-01,RAM prices,stories,0,True
+2019-06-01,RAM prices,stories,0,True
+2019-07-01,RAM prices,stories,0,True
+2019-08-01,RAM prices,stories,0,True
+2019-09-01,RAM prices,stories,0,True
+2019-10-01,RAM prices,stories,0,True
+2019-11-01,RAM prices,stories,0,True
+2019-12-01,RAM prices,stories,1,True
+2020-01-01,RAM prices,stories,0,True
+2020-02-01,RAM prices,stories,0,True
+2020-03-01,RAM prices,stories,0,True
+2020-04-01,RAM prices,stories,0,True
+2020-05-01,RAM prices,stories,0,True
+2020-06-01,RAM prices,stories,0,True
+2020-07-01,RAM prices,stories,0,True
+2020-08-01,RAM prices,stories,0,True
+2020-09-01,RAM prices,stories,0,True
+2020-10-01,RAM prices,stories,0,True
+2020-11-01,RAM prices,stories,0,True
+2020-12-01,RAM prices,stories,0,True
+2021-01-01,RAM prices,stories,0,True
+2021-02-01,RAM prices,stories,0,True
+2021-03-01,RAM prices,stories,0,True
+2021-04-01,RAM prices,stories,0,True
+2021-05-01,RAM prices,stories,0,True
+2021-06-01,RAM prices,stories,0,True
+2021-07-01,RAM prices,stories,0,True
+2021-08-01,RAM prices,stories,0,True
+2021-09-01,RAM prices,stories,0,True
+2021-10-01,RAM prices,stories,1,True
+2021-11-01,RAM prices,stories,1,True
+2021-12-01,RAM prices,stories,0,True
+2022-01-01,RAM prices,stories,0,True
+2022-02-01,RAM prices,stories,0,True
+2022-03-01,RAM prices,stories,0,True
+2022-04-01,RAM prices,stories,0,True
+2022-05-01,RAM prices,stories,0,True
+2022-06-01,RAM prices,stories,1,True
+2022-07-01,RAM prices,stories,0,True
+2022-08-01,RAM prices,stories,0,True
+2022-09-01,RAM prices,stories,0,True
+2022-10-01,RAM prices,stories,0,True
+2022-11-01,RAM prices,stories,0,True
+2022-12-01,RAM prices,stories,0,True
+2023-01-01,RAM prices,stories,0,True
+2023-02-01,RAM prices,stories,0,True
+2023-03-01,RAM prices,stories,0,True
+2023-04-01,RAM prices,stories,0,True
+2023-05-01,RAM prices,stories,0,True
+2023-06-01,RAM prices,stories,0,True
+2023-07-01,RAM prices,stories,0,True
+2023-08-01,RAM prices,stories,0,True
+2023-09-01,RAM prices,stories,0,True
+2023-10-01,RAM prices,stories,0,True
+2023-11-01,RAM prices,stories,0,True
+2023-12-01,RAM prices,stories,0,True
+2024-01-01,RAM prices,stories,0,True
+2024-02-01,RAM prices,stories,1,True
+2024-03-01,RAM prices,stories,0,True
+2024-04-01,RAM prices,stories,0,True
+2024-05-01,RAM prices,stories,0,True
+2024-06-01,RAM prices,stories,0,True
+2024-07-01,RAM prices,stories,0,True
+2024-08-01,RAM prices,stories,0,True
+2024-09-01,RAM prices,stories,0,True
+2024-10-01,RAM prices,stories,0,True
+2024-11-01,RAM prices,stories,0,True
+2024-12-01,RAM prices,stories,0,True
+2025-01-01,RAM prices,stories,0,True
+2025-02-01,RAM prices,stories,0,True
+2025-03-01,RAM prices,stories,0,True
+2025-04-01,RAM prices,stories,0,True
+2025-05-01,RAM prices,stories,0,True
+2025-06-01,RAM prices,stories,0,True
+2025-07-01,RAM prices,stories,0,True
+2025-08-01,RAM prices,stories,0,True
+2025-09-01,RAM prices,stories,0,True
+2025-10-01,RAM prices,stories,0,True
+2025-11-01,RAM prices,stories,2,True
+2025-12-01,RAM prices,stories,7,True
+2026-01-01,RAM prices,stories,6,True
+2026-02-01,RAM prices,stories,1,True
+2026-03-01,RAM prices,stories,0,True
+2026-04-01,RAM prices,stories,1,True
+2026-05-01,RAM prices,stories,1,True
+2026-06-01,RAM prices,stories,9,True
+2026-07-01,RAM prices,stories,3,True
+2026-08-01,RAM prices,stories,1,True
+2026-09-01,RAM prices,stories,1,True
+2026-10-01,RAM prices,stories,0,True
+2015-01-01,RAM shortage,comments,0,True
+2015-02-01,RAM shortage,comments,0,True
+2015-03-01,RAM shortage,comments,0,True
+2015-04-01,RAM shortage,comments,2,True
+2015-05-01,RAM shortage,comments,0,True
+2015-06-01,RAM shortage,comments,0,True
+2015-07-01,RAM shortage,comments,0,True
+2015-08-01,RAM shortage,comments,0,True
+2015-09-01,RAM shortage,comments,0,True
+2015-10-01,RAM shortage,comments,0,True
+2015-11-01,RAM shortage,comments,0,True
+2015-12-01,RAM shortage,comments,0,True
+2016-01-01,RAM shortage,comments,0,True
+2016-02-01,RAM shortage,comments,0,True
+2016-03-01,RAM shortage,comments,0,True
+2016-04-01,RAM shortage,comments,0,True
+2016-05-01,RAM shortage,comments,0,True
+2016-06-01,RAM shortage,comments,1,True
+2016-07-01,RAM shortage,comments,0,True
+2016-08-01,RAM shortage,comments,0,True
+2016-09-01,RAM shortage,comments,0,True
+2016-10-01,RAM shortage,comments,0,True
+2016-11-01,RAM shortage,comments,1,True
+2016-12-01,RAM shortage,comments,0,True
+2017-01-01,RAM shortage,comments,0,True
+2017-02-01,RAM shortage,comments,0,True
+2017-03-01,RAM shortage,comments,0,True
+2017-04-01,RAM shortage,comments,0,True
+2017-05-01,RAM shortage,comments,0,True
+2017-06-01,RAM shortage,comments,0,True
+2017-07-01,RAM shortage,comments,0,True
+2017-08-01,RAM shortage,comments,0,True
+2017-09-01,RAM shortage,comments,0,True
+2017-10-01,RAM shortage,comments,0,True
+2017-11-01,RAM shortage,comments,0,True
+2017-12-01,RAM shortage,comments,0,True
+2018-01-01,RAM shortage,comments,5,True
+2018-02-01,RAM shortage,comments,0,True
+2018-03-01,RAM shortage,comments,0,True
+2018-04-01,RAM shortage,comments,0,True
+2018-05-01,RAM shortage,comments,0,True
+2018-06-01,RAM shortage,comments,0,True
+2018-07-01,RAM shortage,comments,0,True
+2018-08-01,RAM shortage,comments,1,True
+2018-09-01,RAM shortage,comments,0,True
+2018-10-01,RAM shortage,comments,0,True
+2018-11-01,RAM shortage,comments,0,True
+2018-12-01,RAM shortage,comments,0,True
+2019-01-01,RAM shortage,comments,0,True
+2019-02-01,RAM shortage,comments,0,True
+2019-03-01,RAM shortage,comments,0,True
+2019-04-01,RAM shortage,comments,0,True
+2019-05-01,RAM shortage,comments,0,True
+2019-06-01,RAM shortage,comments,0,True
+2019-07-01,RAM shortage,comments,0,True
+2019-08-01,RAM shortage,comments,0,True
+2019-09-01,RAM shortage,comments,0,True
+2019-10-01,RAM shortage,comments,0,True
+2019-11-01,RAM shortage,comments,0,True
+2019-12-01,RAM shortage,comments,0,True
+2020-01-01,RAM shortage,comments,0,True
+2020-02-01,RAM shortage,comments,0,True
+2020-03-01,RAM shortage,comments,0,True
+2020-04-01,RAM shortage,comments,0,True
+2020-05-01,RAM shortage,comments,0,True
+2020-06-01,RAM shortage,comments,0,True
+2020-07-01,RAM shortage,comments,0,True
+2020-08-01,RAM shortage,comments,1,True
+2020-09-01,RAM shortage,comments,0,True
+2020-10-01,RAM shortage,comments,0,True
+2020-11-01,RAM shortage,comments,0,True
+2020-12-01,RAM shortage,comments,0,True
+2021-01-01,RAM shortage,comments,0,True
+2021-02-01,RAM shortage,comments,0,True
+2021-03-01,RAM shortage,comments,0,True
+2021-04-01,RAM shortage,comments,0,True
+2021-05-01,RAM shortage,comments,1,True
+2021-06-01,RAM shortage,comments,0,True
+2021-07-01,RAM shortage,comments,0,True
+2021-08-01,RAM shortage,comments,0,True
+2021-09-01,RAM shortage,comments,0,True
+2021-10-01,RAM shortage,comments,0,True
+2021-11-01,RAM shortage,comments,0,True
+2021-12-01,RAM shortage,comments,0,True
+2022-01-01,RAM shortage,comments,0,True
+2022-02-01,RAM shortage,comments,0,True
+2022-03-01,RAM shortage,comments,0,True
+2022-04-01,RAM shortage,comments,0,True
+2022-05-01,RAM shortage,comments,0,True
+2022-06-01,RAM shortage,comments,0,True
+2022-07-01,RAM shortage,comments,0,True
+2022-08-01,RAM shortage,comments,0,True
+2022-09-01,RAM shortage,comments,0,True
+2022-10-01,RAM shortage,comments,0,True
+2022-11-01,RAM shortage,comments,0,True
+2022-12-01,RAM shortage,comments,0,True
+2023-01-01,RAM shortage,comments,0,True
+2023-02-01,RAM shortage,comments,0,True
+2023-03-01,RAM shortage,comments,0,True
+2023-04-01,RAM shortage,comments,0,True
+2023-05-01,RAM shortage,comments,0,True
+2023-06-01,RAM shortage,comments,0,True
+2023-07-01,RAM shortage,comments,0,True
+2023-08-01,RAM shortage,comments,0,True
+2023-09-01,RAM shortage,comments,0,True
+2023-10-01,RAM shortage,comments,1,True
+2023-11-01,RAM shortage,comments,0,True
+2023-12-01,RAM shortage,comments,0,True
+2024-01-01,RAM shortage,comments,0,True
+2024-02-01,RAM shortage,comments,0,True
+2024-03-01,RAM shortage,comments,0,True
+2024-04-01,RAM shortage,comments,0,True
+2024-05-01,RAM shortage,comments,0,True
+2024-06-01,RAM shortage,comments,0,True
+2024-07-01,RAM shortage,comments,0,True
+2024-08-01,RAM shortage,comments,0,True
+2024-09-01,RAM shortage,comments,0,True
+2024-10-01,RAM shortage,comments,0,True
+2024-11-01,RAM shortage,comments,0,True
+2024-12-01,RAM shortage,comments,0,True
+2025-01-01,RAM shortage,comments,0,True
+2025-02-01,RAM shortage,comments,0,True
+2025-03-01,RAM shortage,comments,0,True
+2025-04-01,RAM shortage,comments,0,True
+2025-05-01,RAM shortage,comments,1,True
+2025-06-01,RAM shortage,comments,0,True
+2025-07-01,RAM shortage,comments,0,True
+2025-08-01,RAM shortage,comments,1,True
+2025-09-01,RAM shortage,comments,0,True
+2025-10-01,RAM shortage,comments,0,True
+2025-11-01,RAM shortage,comments,0,True
+2025-12-01,RAM shortage,comments,16,True
+2026-01-01,RAM shortage,comments,9,True
+2026-02-01,RAM shortage,comments,18,True
+2026-03-01,RAM shortage,comments,24,True
+2026-04-01,RAM shortage,comments,9,True
+2026-05-01,RAM shortage,comments,18,True
+2026-06-01,RAM shortage,comments,27,True
+2026-07-01,RAM shortage,comments,9,True
+2026-08-01,RAM shortage,comments,5,True
+2026-09-01,RAM shortage,comments,8,True
+2026-10-01,RAM shortage,comments,2,True
+2015-01-01,RAM shortage,stories,0,True
+2015-02-01,RAM shortage,stories,0,True
+2015-03-01,RAM shortage,stories,0,True
+2015-04-01,RAM shortage,stories,0,True
+2015-05-01,RAM shortage,stories,0,True
+2015-06-01,RAM shortage,stories,0,True
+2015-07-01,RAM shortage,stories,0,True
+2015-08-01,RAM shortage,stories,0,True
+2015-09-01,RAM shortage,stories,0,True
+2015-10-01,RAM shortage,stories,0,True
+2015-11-01,RAM shortage,stories,0,True
+2015-12-01,RAM shortage,stories,0,True
+2016-01-01,RAM shortage,stories,0,True
+2016-02-01,RAM shortage,stories,0,True
+2016-03-01,RAM shortage,stories,0,True
+2016-04-01,RAM shortage,stories,0,True
+2016-05-01,RAM shortage,stories,0,True
+2016-06-01,RAM shortage,stories,0,True
+2016-07-01,RAM shortage,stories,0,True
+2016-08-01,RAM shortage,stories,0,True
+2016-09-01,RAM shortage,stories,0,True
+2016-10-01,RAM shortage,stories,0,True
+2016-11-01,RAM shortage,stories,2,True
+2016-12-01,RAM shortage,stories,0,True
+2017-01-01,RAM shortage,stories,0,True
+2017-02-01,RAM shortage,stories,0,True
+2017-03-01,RAM shortage,stories,0,True
+2017-04-01,RAM shortage,stories,0,True
+2017-05-01,RAM shortage,stories,0,True
+2017-06-01,RAM shortage,stories,0,True
+2017-07-01,RAM shortage,stories,0,True
+2017-08-01,RAM shortage,stories,0,True
+2017-09-01,RAM shortage,stories,0,True
+2017-10-01,RAM shortage,stories,0,True
+2017-11-01,RAM shortage,stories,0,True
+2017-12-01,RAM shortage,stories,0,True
+2018-01-01,RAM shortage,stories,0,True
+2018-02-01,RAM shortage,stories,0,True
+2018-03-01,RAM shortage,stories,0,True
+2018-04-01,RAM shortage,stories,0,True
+2018-05-01,RAM shortage,stories,0,True
+2018-06-01,RAM shortage,stories,0,True
+2018-07-01,RAM shortage,stories,0,True
+2018-08-01,RAM shortage,stories,0,True
+2018-09-01,RAM shortage,stories,0,True
+2018-10-01,RAM shortage,stories,0,True
+2018-11-01,RAM shortage,stories,0,True
+2018-12-01,RAM shortage,stories,0,True
+2019-01-01,RAM shortage,stories,0,True
+2019-02-01,RAM shortage,stories,0,True
+2019-03-01,RAM shortage,stories,0,True
+2019-04-01,RAM shortage,stories,0,True
+2019-05-01,RAM shortage,stories,0,True
+2019-06-01,RAM shortage,stories,0,True
+2019-07-01,RAM shortage,stories,0,True
+2019-08-01,RAM shortage,stories,0,True
+2019-09-01,RAM shortage,stories,0,True
+2019-10-01,RAM shortage,stories,0,True
+2019-11-01,RAM shortage,stories,0,True
+2019-12-01,RAM shortage,stories,0,True
+2020-01-01,RAM shortage,stories,0,True
+2020-02-01,RAM shortage,stories,0,True
+2020-03-01,RAM shortage,stories,0,True
+2020-04-01,RAM shortage,stories,0,True
+2020-05-01,RAM shortage,stories,0,True
+2020-06-01,RAM shortage,stories,0,True
+2020-07-01,RAM shortage,stories,0,True
+2020-08-01,RAM shortage,stories,0,True
+2020-09-01,RAM shortage,stories,0,True
+2020-10-01,RAM shortage,stories,0,True
+2020-11-01,RAM shortage,stories,0,True
+2020-12-01,RAM shortage,stories,0,True
+2021-01-01,RAM shortage,stories,0,True
+2021-02-01,RAM shortage,stories,0,True
+2021-03-01,RAM shortage,stories,0,True
+2021-04-01,RAM shortage,stories,0,True
+2021-05-01,RAM shortage,stories,1,True
+2021-06-01,RAM shortage,stories,0,True
+2021-07-01,RAM shortage,stories,0,True
+2021-08-01,RAM shortage,stories,0,True
+2021-09-01,RAM shortage,stories,0,True
+2021-10-01,RAM shortage,stories,0,True
+2021-11-01,RAM shortage,stories,0,True
+2021-12-01,RAM shortage,stories,0,True
+2022-01-01,RAM shortage,stories,0,True
+2022-02-01,RAM shortage,stories,0,True
+2022-03-01,RAM shortage,stories,0,True
+2022-04-01,RAM shortage,stories,0,True
+2022-05-01,RAM shortage,stories,0,True
+2022-06-01,RAM shortage,stories,0,True
+2022-07-01,RAM shortage,stories,0,True
+2022-08-01,RAM shortage,stories,0,True
+2022-09-01,RAM shortage,stories,0,True
+2022-10-01,RAM shortage,stories,0,True
+2022-11-01,RAM shortage,stories,0,True
+2022-12-01,RAM shortage,stories,0,True
+2023-01-01,RAM shortage,stories,0,True
+2023-02-01,RAM shortage,stories,0,True
+2023-03-01,RAM shortage,stories,0,True
+2023-04-01,RAM shortage,stories,0,True
+2023-05-01,RAM shortage,stories,0,True
+2023-06-01,RAM shortage,stories,0,True
+2023-07-01,RAM shortage,stories,0,True
+2023-08-01,RAM shortage,stories,0,True
+2023-09-01,RAM shortage,stories,0,True
+2023-10-01,RAM shortage,stories,0,True
+2023-11-01,RAM shortage,stories,0,True
+2023-12-01,RAM shortage,stories,0,True
+2024-01-01,RAM shortage,stories,0,True
+2024-02-01,RAM shortage,stories,0,True
+2024-03-01,RAM shortage,stories,0,True
+2024-04-01,RAM shortage,stories,0,True
+2024-05-01,RAM shortage,stories,0,True
+2024-06-01,RAM shortage,stories,0,True
+2024-07-01,RAM shortage,stories,0,True
+2024-08-01,RAM shortage,stories,0,True
+2024-09-01,RAM shortage,stories,0,True
+2024-10-01,RAM shortage,stories,0,True
+2024-11-01,RAM shortage,stories,0,True
+2024-12-01,RAM shortage,stories,0,True
+2025-01-01,RAM shortage,stories,0,True
+2025-02-01,RAM shortage,stories,0,True
+2025-03-01,RAM shortage,stories,0,True
+2025-04-01,RAM shortage,stories,0,True
+2025-05-01,RAM shortage,stories,0,True
+2025-06-01,RAM shortage,stories,0,True
+2025-07-01,RAM shortage,stories,0,True
+2025-08-01,RAM shortage,stories,0,True
+2025-09-01,RAM shortage,stories,0,True
+2025-10-01,RAM shortage,stories,0,True
+2025-11-01,RAM shortage,stories,0,True
+2025-12-01,RAM shortage,stories,4,True
+2026-01-01,RAM shortage,stories,5,True
+2026-02-01,RAM shortage,stories,5,True
+2026-03-01,RAM shortage,stories,4,True
+2026-04-01,RAM shortage,stories,3,True
+2026-05-01,RAM shortage,stories,0,True
+2026-06-01,RAM shortage,stories,1,True
+2026-07-01,RAM shortage,stories,0,True
+2026-08-01,RAM shortage,stories,0,True
+2026-09-01,RAM shortage,stories,0,True
+2026-10-01,RAM shortage,stories,1,True
+2015-01-01,SSD prices,comments,0,True
+2015-02-01,SSD prices,comments,0,True
+2015-03-01,SSD prices,comments,0,True
+2015-04-01,SSD prices,comments,0,True
+2015-05-01,SSD prices,comments,2,True
+2015-06-01,SSD prices,comments,2,True
+2015-07-01,SSD prices,comments,0,True
+2015-08-01,SSD prices,comments,1,True
+2015-09-01,SSD prices,comments,0,True
+2015-10-01,SSD prices,comments,3,True
+2015-11-01,SSD prices,comments,1,True
+2015-12-01,SSD prices,comments,0,True
+2016-01-01,SSD prices,comments,1,True
+2016-02-01,SSD prices,comments,1,True
+2016-03-01,SSD prices,comments,0,True
+2016-04-01,SSD prices,comments,0,True
+2016-05-01,SSD prices,comments,0,True
+2016-06-01,SSD prices,comments,0,True
+2016-07-01,SSD prices,comments,1,True
+2016-08-01,SSD prices,comments,2,True
+2016-09-01,SSD prices,comments,1,True
+2016-10-01,SSD prices,comments,1,True
+2016-11-01,SSD prices,comments,2,True
+2016-12-01,SSD prices,comments,0,True
+2017-01-01,SSD prices,comments,1,True
+2017-02-01,SSD prices,comments,0,True
+2017-03-01,SSD prices,comments,0,True
+2017-04-01,SSD prices,comments,2,True
+2017-05-01,SSD prices,comments,0,True
+2017-06-01,SSD prices,comments,0,True
+2017-07-01,SSD prices,comments,2,True
+2017-08-01,SSD prices,comments,0,True
+2017-09-01,SSD prices,comments,0,True
+2017-10-01,SSD prices,comments,0,True
+2017-11-01,SSD prices,comments,0,True
+2017-12-01,SSD prices,comments,0,True
+2018-01-01,SSD prices,comments,0,True
+2018-02-01,SSD prices,comments,1,True
+2018-03-01,SSD prices,comments,1,True
+2018-04-01,SSD prices,comments,0,True
+2018-05-01,SSD prices,comments,1,True
+2018-06-01,SSD prices,comments,0,True
+2018-07-01,SSD prices,comments,1,True
+2018-08-01,SSD prices,comments,1,True
+2018-09-01,SSD prices,comments,2,True
+2018-10-01,SSD prices,comments,2,True
+2018-11-01,SSD prices,comments,4,True
+2018-12-01,SSD prices,comments,0,True
+2019-01-01,SSD prices,comments,0,True
+2019-02-01,SSD prices,comments,0,True
+2019-03-01,SSD prices,comments,2,True
+2019-04-01,SSD prices,comments,1,True
+2019-05-01,SSD prices,comments,2,True
+2019-06-01,SSD prices,comments,1,True
+2019-07-01,SSD prices,comments,2,True
+2019-08-01,SSD prices,comments,0,True
+2019-09-01,SSD prices,comments,1,True
+2019-10-01,SSD prices,comments,0,True
+2019-11-01,SSD prices,comments,2,True
+2019-12-01,SSD prices,comments,0,True
+2020-01-01,SSD prices,comments,3,True
+2020-02-01,SSD prices,comments,1,True
+2020-03-01,SSD prices,comments,0,True
+2020-04-01,SSD prices,comments,0,True
+2020-05-01,SSD prices,comments,1,True
+2020-06-01,SSD prices,comments,1,True
+2020-07-01,SSD prices,comments,0,True
+2020-08-01,SSD prices,comments,1,True
+2020-09-01,SSD prices,comments,1,True
+2020-10-01,SSD prices,comments,0,True
+2020-11-01,SSD prices,comments,2,True
+2020-12-01,SSD prices,comments,2,True
+2021-01-01,SSD prices,comments,0,True
+2021-02-01,SSD prices,comments,1,True
+2021-03-01,SSD prices,comments,0,True
+2021-04-01,SSD prices,comments,2,True
+2021-05-01,SSD prices,comments,0,True
+2021-06-01,SSD prices,comments,1,True
+2021-07-01,SSD prices,comments,2,True
+2021-08-01,SSD prices,comments,0,True
+2021-09-01,SSD prices,comments,0,True
+2021-10-01,SSD prices,comments,0,True
+2021-11-01,SSD prices,comments,0,True
+2021-12-01,SSD prices,comments,0,True
+2022-01-01,SSD prices,comments,1,True
+2022-02-01,SSD prices,comments,0,True
+2022-03-01,SSD prices,comments,0,True
+2022-04-01,SSD prices,comments,0,True
+2022-05-01,SSD prices,comments,2,True
+2022-06-01,SSD prices,comments,0,True
+2022-07-01,SSD prices,comments,3,True
+2022-08-01,SSD prices,comments,1,True
+2022-09-01,SSD prices,comments,0,True
+2022-10-01,SSD prices,comments,0,True
+2022-11-01,SSD prices,comments,2,True
+2022-12-01,SSD prices,comments,0,True
+2023-01-01,SSD prices,comments,0,True
+2023-02-01,SSD prices,comments,0,True
+2023-03-01,SSD prices,comments,1,True
+2023-04-01,SSD prices,comments,3,True
+2023-05-01,SSD prices,comments,3,True
+2023-06-01,SSD prices,comments,2,True
+2023-07-01,SSD prices,comments,1,True
+2023-08-01,SSD prices,comments,2,True
+2023-09-01,SSD prices,comments,3,True
+2023-10-01,SSD prices,comments,2,True
+2023-11-01,SSD prices,comments,2,True
+2023-12-01,SSD prices,comments,0,True
+2024-01-01,SSD prices,comments,0,True
+2024-02-01,SSD prices,comments,3,True
+2024-03-01,SSD prices,comments,1,True
+2024-04-01,SSD prices,comments,1,True
+2024-05-01,SSD prices,comments,3,True
+2024-06-01,SSD prices,comments,1,True
+2024-07-01,SSD prices,comments,4,True
+2024-08-01,SSD prices,comments,2,True
+2024-09-01,SSD prices,comments,0,True
+2024-10-01,SSD prices,comments,0,True
+2024-11-01,SSD prices,comments,1,True
+2024-12-01,SSD prices,comments,0,True
+2025-01-01,SSD prices,comments,0,True
+2025-02-01,SSD prices,comments,1,True
+2025-03-01,SSD prices,comments,1,True
+2025-04-01,SSD prices,comments,1,True
+2025-05-01,SSD prices,comments,0,True
+2025-06-01,SSD prices,comments,0,True
+2025-07-01,SSD prices,comments,0,True
+2025-08-01,SSD prices,comments,4,True
+2025-09-01,SSD prices,comments,0,True
+2025-10-01,SSD prices,comments,1,True
+2025-11-01,SSD prices,comments,6,True
+2025-12-01,SSD prices,comments,3,True
+2026-01-01,SSD prices,comments,4,True
+2026-02-01,SSD prices,comments,6,True
+2026-03-01,SSD prices,comments,8,True
+2026-04-01,SSD prices,comments,3,True
+2026-05-01,SSD prices,comments,5,True
+2026-06-01,SSD prices,comments,9,True
+2026-07-01,SSD prices,comments,5,True
+2026-08-01,SSD prices,comments,2,True
+2026-09-01,SSD prices,comments,3,True
+2026-10-01,SSD prices,comments,0,True
+2015-01-01,SSD prices,stories,0,True
+2015-02-01,SSD prices,stories,0,True
+2015-03-01,SSD prices,stories,0,True
+2015-04-01,SSD prices,stories,0,True
+2015-05-01,SSD prices,stories,0,True
+2015-06-01,SSD prices,stories,1,True
+2015-07-01,SSD prices,stories,0,True
+2015-08-01,SSD prices,stories,0,True
+2015-09-01,SSD prices,stories,0,True
+2015-10-01,SSD prices,stories,0,True
+2015-11-01,SSD prices,stories,0,True
+2015-12-01,SSD prices,stories,0,True
+2016-01-01,SSD prices,stories,0,True
+2016-02-01,SSD prices,stories,0,True
+2016-03-01,SSD prices,stories,0,True
+2016-04-01,SSD prices,stories,0,True
+2016-05-01,SSD prices,stories,0,True
+2016-06-01,SSD prices,stories,0,True
+2016-07-01,SSD prices,stories,0,True
+2016-08-01,SSD prices,stories,0,True
+2016-09-01,SSD prices,stories,0,True
+2016-10-01,SSD prices,stories,0,True
+2016-11-01,SSD prices,stories,0,True
+2016-12-01,SSD prices,stories,1,True
+2017-01-01,SSD prices,stories,0,True
+2017-02-01,SSD prices,stories,0,True
+2017-03-01,SSD prices,stories,1,True
+2017-04-01,SSD prices,stories,0,True
+2017-05-01,SSD prices,stories,0,True
+2017-06-01,SSD prices,stories,0,True
+2017-07-01,SSD prices,stories,0,True
+2017-08-01,SSD prices,stories,0,True
+2017-09-01,SSD prices,stories,0,True
+2017-10-01,SSD prices,stories,0,True
+2017-11-01,SSD prices,stories,0,True
+2017-12-01,SSD prices,stories,0,True
+2018-01-01,SSD prices,stories,0,True
+2018-02-01,SSD prices,stories,0,True
+2018-03-01,SSD prices,stories,0,True
+2018-04-01,SSD prices,stories,0,True
+2018-05-01,SSD prices,stories,0,True
+2018-06-01,SSD prices,stories,0,True
+2018-07-01,SSD prices,stories,0,True
+2018-08-01,SSD prices,stories,0,True
+2018-09-01,SSD prices,stories,0,True
+2018-10-01,SSD prices,stories,1,True
+2018-11-01,SSD prices,stories,0,True
+2018-12-01,SSD prices,stories,0,True
+2019-01-01,SSD prices,stories,0,True
+2019-02-01,SSD prices,stories,0,True
+2019-03-01,SSD prices,stories,0,True
+2019-04-01,SSD prices,stories,0,True
+2019-05-01,SSD prices,stories,0,True
+2019-06-01,SSD prices,stories,0,True
+2019-07-01,SSD prices,stories,1,True
+2019-08-01,SSD prices,stories,0,True
+2019-09-01,SSD prices,stories,0,True
+2019-10-01,SSD prices,stories,0,True
+2019-11-01,SSD prices,stories,0,True
+2019-12-01,SSD prices,stories,0,True
+2020-01-01,SSD prices,stories,1,True
+2020-02-01,SSD prices,stories,0,True
+2020-03-01,SSD prices,stories,0,True
+2020-04-01,SSD prices,stories,0,True
+2020-05-01,SSD prices,stories,0,True
+2020-06-01,SSD prices,stories,0,True
+2020-07-01,SSD prices,stories,0,True
+2020-08-01,SSD prices,stories,1,True
+2020-09-01,SSD prices,stories,0,True
+2020-10-01,SSD prices,stories,0,True
+2020-11-01,SSD prices,stories,0,True
+2020-12-01,SSD prices,stories,0,True
+2021-01-01,SSD prices,stories,0,True
+2021-02-01,SSD prices,stories,0,True
+2021-03-01,SSD prices,stories,0,True
+2021-04-01,SSD prices,stories,0,True
+2021-05-01,SSD prices,stories,0,True
+2021-06-01,SSD prices,stories,0,True
+2021-07-01,SSD prices,stories,0,True
+2021-08-01,SSD prices,stories,0,True
+2021-09-01,SSD prices,stories,0,True
+2021-10-01,SSD prices,stories,0,True
+2021-11-01,SSD prices,stories,0,True
+2021-12-01,SSD prices,stories,0,True
+2022-01-01,SSD prices,stories,0,True
+2022-02-01,SSD prices,stories,1,True
+2022-03-01,SSD prices,stories,0,True
+2022-04-01,SSD prices,stories,1,True
+2022-05-01,SSD prices,stories,0,True
+2022-06-01,SSD prices,stories,0,True
+2022-07-01,SSD prices,stories,0,True
+2022-08-01,SSD prices,stories,0,True
+2022-09-01,SSD prices,stories,0,True
+2022-10-01,SSD prices,stories,1,True
+2022-11-01,SSD prices,stories,1,True
+2022-12-01,SSD prices,stories,0,True
+2023-01-01,SSD prices,stories,0,True
+2023-02-01,SSD prices,stories,0,True
+2023-03-01,SSD prices,stories,1,True
+2023-04-01,SSD prices,stories,0,True
+2023-05-01,SSD prices,stories,0,True
+2023-06-01,SSD prices,stories,0,True
+2023-07-01,SSD prices,stories,0,True
+2023-08-01,SSD prices,stories,0,True
+2023-09-01,SSD prices,stories,0,True
+2023-10-01,SSD prices,stories,0,True
+2023-11-01,SSD prices,stories,0,True
+2023-12-01,SSD prices,stories,0,True
+2024-01-01,SSD prices,stories,1,True
+2024-02-01,SSD prices,stories,0,True
+2024-03-01,SSD prices,stories,0,True
+2024-04-01,SSD prices,stories,0,True
+2024-05-01,SSD prices,stories,0,True
+2024-06-01,SSD prices,stories,0,True
+2024-07-01,SSD prices,stories,0,True
+2024-08-01,SSD prices,stories,0,True
+2024-09-01,SSD prices,stories,0,True
+2024-10-01,SSD prices,stories,0,True
+2024-11-01,SSD prices,stories,0,True
+2024-12-01,SSD prices,stories,0,True
+2025-01-01,SSD prices,stories,0,True
+2025-02-01,SSD prices,stories,0,True
+2025-03-01,SSD prices,stories,0,True
+2025-04-01,SSD prices,stories,0,True
+2025-05-01,SSD prices,stories,0,True
+2025-06-01,SSD prices,stories,0,True
+2025-07-01,SSD prices,stories,0,True
+2025-08-01,SSD prices,stories,0,True
+2025-09-01,SSD prices,stories,0,True
+2025-10-01,SSD prices,stories,0,True
+2025-11-01,SSD prices,stories,0,True
+2025-12-01,SSD prices,stories,1,True
+2026-01-01,SSD prices,stories,1,True
+2026-02-01,SSD prices,stories,0,True
+2026-03-01,SSD prices,stories,0,True
+2026-04-01,SSD prices,stories,0,True
+2026-05-01,SSD prices,stories,1,True
+2026-06-01,SSD prices,stories,1,True
+2026-07-01,SSD prices,stories,0,True
+2026-08-01,SSD prices,stories,0,True
+2026-09-01,SSD prices,stories,0,True
+2026-10-01,SSD prices,stories,0,True
+2015-01-01,memory prices,comments,0,True
+2015-02-01,memory prices,comments,0,True
+2015-03-01,memory prices,comments,1,True
+2015-04-01,memory prices,comments,0,True
+2015-05-01,memory prices,comments,0,True
+2015-06-01,memory prices,comments,0,True
+2015-07-01,memory prices,comments,0,True
+2015-08-01,memory prices,comments,0,True
+2015-09-01,memory prices,comments,2,True
+2015-10-01,memory prices,comments,1,True
+2015-11-01,memory prices,comments,1,True
+2015-12-01,memory prices,comments,0,True
+2016-01-01,memory prices,comments,1,True
+2016-02-01,memory prices,comments,0,True
+2016-03-01,memory prices,comments,1,True
+2016-04-01,memory prices,comments,0,True
+2016-05-01,memory prices,comments,0,True
+2016-06-01,memory prices,comments,0,True
+2016-07-01,memory prices,comments,1,True
+2016-08-01,memory prices,comments,0,True
+2016-09-01,memory prices,comments,0,True
+2016-10-01,memory prices,comments,2,True
+2016-11-01,memory prices,comments,0,True
+2016-12-01,memory prices,comments,0,True
+2017-01-01,memory prices,comments,4,True
+2017-02-01,memory prices,comments,0,True
+2017-03-01,memory prices,comments,0,True
+2017-04-01,memory prices,comments,1,True
+2017-05-01,memory prices,comments,1,True
+2017-06-01,memory prices,comments,0,True
+2017-07-01,memory prices,comments,0,True
+2017-08-01,memory prices,comments,0,True
+2017-09-01,memory prices,comments,2,True
+2017-10-01,memory prices,comments,1,True
+2017-11-01,memory prices,comments,0,True
+2017-12-01,memory prices,comments,0,True
+2018-01-01,memory prices,comments,1,True
+2018-02-01,memory prices,comments,1,True
+2018-03-01,memory prices,comments,1,True
+2018-04-01,memory prices,comments,5,True
+2018-05-01,memory prices,comments,3,True
+2018-06-01,memory prices,comments,0,True
+2018-07-01,memory prices,comments,0,True
+2018-08-01,memory prices,comments,1,True
+2018-09-01,memory prices,comments,2,True
+2018-10-01,memory prices,comments,1,True
+2018-11-01,memory prices,comments,1,True
+2018-12-01,memory prices,comments,0,True
+2019-01-01,memory prices,comments,0,True
+2019-02-01,memory prices,comments,0,True
+2019-03-01,memory prices,comments,0,True
+2019-04-01,memory prices,comments,0,True
+2019-05-01,memory prices,comments,0,True
+2019-06-01,memory prices,comments,1,True
+2019-07-01,memory prices,comments,0,True
+2019-08-01,memory prices,comments,0,True
+2019-09-01,memory prices,comments,0,True
+2019-10-01,memory prices,comments,0,True
+2019-11-01,memory prices,comments,0,True
+2019-12-01,memory prices,comments,0,True
+2020-01-01,memory prices,comments,0,True
+2020-02-01,memory prices,comments,0,True
+2020-03-01,memory prices,comments,0,True
+2020-04-01,memory prices,comments,0,True
+2020-05-01,memory prices,comments,2,True
+2020-06-01,memory prices,comments,1,True
+2020-07-01,memory prices,comments,0,True
+2020-08-01,memory prices,comments,0,True
+2020-09-01,memory prices,comments,0,True
+2020-10-01,memory prices,comments,0,True
+2020-11-01,memory prices,comments,0,True
+2020-12-01,memory prices,comments,0,True
+2021-01-01,memory prices,comments,1,True
+2021-02-01,memory prices,comments,0,True
+2021-03-01,memory prices,comments,1,True
+2021-04-01,memory prices,comments,1,True
+2021-05-01,memory prices,comments,1,True
+2021-06-01,memory prices,comments,0,True
+2021-07-01,memory prices,comments,1,True
+2021-08-01,memory prices,comments,1,True
+2021-09-01,memory prices,comments,0,True
+2021-10-01,memory prices,comments,0,True
+2021-11-01,memory prices,comments,0,True
+2021-12-01,memory prices,comments,0,True
+2022-01-01,memory prices,comments,0,True
+2022-02-01,memory prices,comments,0,True
+2022-03-01,memory prices,comments,0,True
+2022-04-01,memory prices,comments,0,True
+2022-05-01,memory prices,comments,0,True
+2022-06-01,memory prices,comments,2,True
+2022-07-01,memory prices,comments,0,True
+2022-08-01,memory prices,comments,0,True
+2022-09-01,memory prices,comments,2,True
+2022-10-01,memory prices,comments,1,True
+2022-11-01,memory prices,comments,0,True
+2022-12-01,memory prices,comments,0,True
+2023-01-01,memory prices,comments,1,True
+2023-02-01,memory prices,comments,0,True
+2023-03-01,memory prices,comments,0,True
+2023-04-01,memory prices,comments,1,True
+2023-05-01,memory prices,comments,1,True
+2023-06-01,memory prices,comments,0,True
+2023-07-01,memory prices,comments,1,True
+2023-08-01,memory prices,comments,0,True
+2023-09-01,memory prices,comments,0,True
+2023-10-01,memory prices,comments,0,True
+2023-11-01,memory prices,comments,3,True
+2023-12-01,memory prices,comments,0,True
+2024-01-01,memory prices,comments,0,True
+2024-02-01,memory prices,comments,1,True
+2024-03-01,memory prices,comments,1,True
+2024-04-01,memory prices,comments,0,True
+2024-05-01,memory prices,comments,0,True
+2024-06-01,memory prices,comments,2,True
+2024-07-01,memory prices,comments,0,True
+2024-08-01,memory prices,comments,1,True
+2024-09-01,memory prices,comments,0,True
+2024-10-01,memory prices,comments,0,True
+2024-11-01,memory prices,comments,1,True
+2024-12-01,memory prices,comments,1,True
+2025-01-01,memory prices,comments,0,True
+2025-02-01,memory prices,comments,0,True
+2025-03-01,memory prices,comments,2,True
+2025-04-01,memory prices,comments,0,True
+2025-05-01,memory prices,comments,0,True
+2025-06-01,memory prices,comments,0,True
+2025-07-01,memory prices,comments,2,True
+2025-08-01,memory prices,comments,0,True
+2025-09-01,memory prices,comments,0,True
+2025-10-01,memory prices,comments,0,True
+2025-11-01,memory prices,comments,7,True
+2025-12-01,memory prices,comments,19,True
+2026-01-01,memory prices,comments,9,True
+2026-02-01,memory prices,comments,12,True
+2026-03-01,memory prices,comments,13,True
+2026-04-01,memory prices,comments,12,True
+2026-05-01,memory prices,comments,13,True
+2026-06-01,memory prices,comments,54,True
+2026-07-01,memory prices,comments,20,True
+2026-08-01,memory prices,comments,24,True
+2026-09-01,memory prices,comments,13,True
+2026-10-01,memory prices,comments,9,True
+2015-01-01,memory prices,stories,0,True
+2015-02-01,memory prices,stories,0,True
+2015-03-01,memory prices,stories,0,True
+2015-04-01,memory prices,stories,0,True
+2015-05-01,memory prices,stories,0,True
+2015-06-01,memory prices,stories,0,True
+2015-07-01,memory prices,stories,0,True
+2015-08-01,memory prices,stories,0,True
+2015-09-01,memory prices,stories,0,True
+2015-10-01,memory prices,stories,1,True
+2015-11-01,memory prices,stories,0,True
+2015-12-01,memory prices,stories,0,True
+2016-01-01,memory prices,stories,0,True
+2016-02-01,memory prices,stories,0,True
+2016-03-01,memory prices,stories,0,True
+2016-04-01,memory prices,stories,0,True
+2016-05-01,memory prices,stories,0,True
+2016-06-01,memory prices,stories,0,True
+2016-07-01,memory prices,stories,0,True
+2016-08-01,memory prices,stories,0,True
+2016-09-01,memory prices,stories,0,True
+2016-10-01,memory prices,stories,0,True
+2016-11-01,memory prices,stories,0,True
+2016-12-01,memory prices,stories,0,True
+2017-01-01,memory prices,stories,1,True
+2017-02-01,memory prices,stories,0,True
+2017-03-01,memory prices,stories,0,True
+2017-04-01,memory prices,stories,0,True
+2017-05-01,memory prices,stories,0,True
+2017-06-01,memory prices,stories,0,True
+2017-07-01,memory prices,stories,0,True
+2017-08-01,memory prices,stories,0,True
+2017-09-01,memory prices,stories,0,True
+2017-10-01,memory prices,stories,0,True
+2017-11-01,memory prices,stories,0,True
+2017-12-01,memory prices,stories,1,True
+2018-01-01,memory prices,stories,0,True
+2018-02-01,memory prices,stories,0,True
+2018-03-01,memory prices,stories,0,True
+2018-04-01,memory prices,stories,0,True
+2018-05-01,memory prices,stories,0,True
+2018-06-01,memory prices,stories,0,True
+2018-07-01,memory prices,stories,0,True
+2018-08-01,memory prices,stories,0,True
+2018-09-01,memory prices,stories,0,True
+2018-10-01,memory prices,stories,0,True
+2018-11-01,memory prices,stories,0,True
+2018-12-01,memory prices,stories,0,True
+2019-01-01,memory prices,stories,0,True
+2019-02-01,memory prices,stories,0,True
+2019-03-01,memory prices,stories,0,True
+2019-04-01,memory prices,stories,1,True
+2019-05-01,memory prices,stories,0,True
+2019-06-01,memory prices,stories,0,True
+2019-07-01,memory prices,stories,0,True
+2019-08-01,memory prices,stories,0,True
+2019-09-01,memory prices,stories,0,True
+2019-10-01,memory prices,stories,0,True
+2019-11-01,memory prices,stories,0,True
+2019-12-01,memory prices,stories,0,True
+2020-01-01,memory prices,stories,0,True
+2020-02-01,memory prices,stories,0,True
+2020-03-01,memory prices,stories,0,True
+2020-04-01,memory prices,stories,0,True
+2020-05-01,memory prices,stories,0,True
+2020-06-01,memory prices,stories,0,True
+2020-07-01,memory prices,stories,0,True
+2020-08-01,memory prices,stories,0,True
+2020-09-01,memory prices,stories,0,True
+2020-10-01,memory prices,stories,0,True
+2020-11-01,memory prices,stories,0,True
+2020-12-01,memory prices,stories,0,True
+2021-01-01,memory prices,stories,0,True
+2021-02-01,memory prices,stories,0,True
+2021-03-01,memory prices,stories,0,True
+2021-04-01,memory prices,stories,0,True
+2021-05-01,memory prices,stories,0,True
+2021-06-01,memory prices,stories,0,True
+2021-07-01,memory prices,stories,0,True
+2021-08-01,memory prices,stories,0,True
+2021-09-01,memory prices,stories,0,True
+2021-10-01,memory prices,stories,0,True
+2021-11-01,memory prices,stories,0,True
+2021-12-01,memory prices,stories,0,True
+2022-01-01,memory prices,stories,1,True
+2022-02-01,memory prices,stories,0,True
+2022-03-01,memory prices,stories,0,True
+2022-04-01,memory prices,stories,0,True
+2022-05-01,memory prices,stories,0,True
+2022-06-01,memory prices,stories,1,True
+2022-07-01,memory prices,stories,0,True
+2022-08-01,memory prices,stories,0,True
+2022-09-01,memory prices,stories,0,True
+2022-10-01,memory prices,stories,0,True
+2022-11-01,memory prices,stories,0,True
+2022-12-01,memory prices,stories,0,True
+2023-01-01,memory prices,stories,0,True
+2023-02-01,memory prices,stories,0,True
+2023-03-01,memory prices,stories,0,True
+2023-04-01,memory prices,stories,0,True
+2023-05-01,memory prices,stories,0,True
+2023-06-01,memory prices,stories,0,True
+2023-07-01,memory prices,stories,0,True
+2023-08-01,memory prices,stories,0,True
+2023-09-01,memory prices,stories,0,True
+2023-10-01,memory prices,stories,0,True
+2023-11-01,memory prices,stories,0,True
+2023-12-01,memory prices,stories,0,True
+2024-01-01,memory prices,stories,0,True
+2024-02-01,memory prices,stories,0,True
+2024-03-01,memory prices,stories,0,True
+2024-04-01,memory prices,stories,0,True
+2024-05-01,memory prices,stories,0,True
+2024-06-01,memory prices,stories,0,True
+2024-07-01,memory prices,stories,0,True
+2024-08-01,memory prices,stories,0,True
+2024-09-01,memory prices,stories,0,True
+2024-10-01,memory prices,stories,0,True
+2024-11-01,memory prices,stories,0,True
+2024-12-01,memory prices,stories,0,True
+2025-01-01,memory prices,stories,0,True
+2025-02-01,memory prices,stories,0,True
+2025-03-01,memory prices,stories,0,True
+2025-04-01,memory prices,stories,0,True
+2025-05-01,memory prices,stories,0,True
+2025-06-01,memory prices,stories,0,True
+2025-07-01,memory prices,stories,0,True
+2025-08-01,memory prices,stories,0,True
+2025-09-01,memory prices,stories,0,True
+2025-10-01,memory prices,stories,0,True
+2025-11-01,memory prices,stories,2,True
+2025-12-01,memory prices,stories,7,True
+2026-01-01,memory prices,stories,2,True
+2026-02-01,memory prices,stories,1,True
+2026-03-01,memory prices,stories,1,True
+2026-04-01,memory prices,stories,1,True
+2026-05-01,memory prices,stories,0,True
+2026-06-01,memory prices,stories,5,True
+2026-07-01,memory prices,stories,2,True
+2026-08-01,memory prices,stories,5,True
+2026-09-01,memory prices,stories,2,True
+2026-10-01,memory prices,stories,1,True
+2015-01-01,memory shortage,comments,0,True
+2015-02-01,memory shortage,comments,0,True
+2015-03-01,memory shortage,comments,0,True
+2015-04-01,memory shortage,comments,0,True
+2015-05-01,memory shortage,comments,0,True
+2015-06-01,memory shortage,comments,0,True
+2015-07-01,memory shortage,comments,0,True
+2015-08-01,memory shortage,comments,0,True
+2015-09-01,memory shortage,comments,1,True
+2015-10-01,memory shortage,comments,0,True
+2015-11-01,memory shortage,comments,0,True
+2015-12-01,memory shortage,comments,0,True
+2016-01-01,memory shortage,comments,0,True
+2016-02-01,memory shortage,comments,0,True
+2016-03-01,memory shortage,comments,0,True
+2016-04-01,memory shortage,comments,0,True
+2016-05-01,memory shortage,comments,0,True
+2016-06-01,memory shortage,comments,0,True
+2016-07-01,memory shortage,comments,1,True
+2016-08-01,memory shortage,comments,0,True
+2016-09-01,memory shortage,comments,0,True
+2016-10-01,memory shortage,comments,0,True
+2016-11-01,memory shortage,comments,0,True
+2016-12-01,memory shortage,comments,0,True
+2017-01-01,memory shortage,comments,0,True
+2017-02-01,memory shortage,comments,0,True
+2017-03-01,memory shortage,comments,0,True
+2017-04-01,memory shortage,comments,0,True
+2017-05-01,memory shortage,comments,0,True
+2017-06-01,memory shortage,comments,0,True
+2017-07-01,memory shortage,comments,0,True
+2017-08-01,memory shortage,comments,0,True
+2017-09-01,memory shortage,comments,0,True
+2017-10-01,memory shortage,comments,0,True
+2017-11-01,memory shortage,comments,0,True
+2017-12-01,memory shortage,comments,0,True
+2018-01-01,memory shortage,comments,0,True
+2018-02-01,memory shortage,comments,1,True
+2018-03-01,memory shortage,comments,1,True
+2018-04-01,memory shortage,comments,0,True
+2018-05-01,memory shortage,comments,0,True
+2018-06-01,memory shortage,comments,0,True
+2018-07-01,memory shortage,comments,0,True
+2018-08-01,memory shortage,comments,1,True
+2018-09-01,memory shortage,comments,0,True
+2018-10-01,memory shortage,comments,0,True
+2018-11-01,memory shortage,comments,0,True
+2018-12-01,memory shortage,comments,0,True
+2019-01-01,memory shortage,comments,0,True
+2019-02-01,memory shortage,comments,0,True
+2019-03-01,memory shortage,comments,0,True
+2019-04-01,memory shortage,comments,0,True
+2019-05-01,memory shortage,comments,0,True
+2019-06-01,memory shortage,comments,0,True
+2019-07-01,memory shortage,comments,0,True
+2019-08-01,memory shortage,comments,0,True
+2019-09-01,memory shortage,comments,0,True
+2019-10-01,memory shortage,comments,0,True
+2019-11-01,memory shortage,comments,0,True
+2019-12-01,memory shortage,comments,0,True
+2020-01-01,memory shortage,comments,0,True
+2020-02-01,memory shortage,comments,0,True
+2020-03-01,memory shortage,comments,0,True
+2020-04-01,memory shortage,comments,0,True
+2020-05-01,memory shortage,comments,0,True
+2020-06-01,memory shortage,comments,0,True
+2020-07-01,memory shortage,comments,0,True
+2020-08-01,memory shortage,comments,0,True
+2020-09-01,memory shortage,comments,0,True
+2020-10-01,memory shortage,comments,1,True
+2020-11-01,memory shortage,comments,0,True
+2020-12-01,memory shortage,comments,0,True
+2021-01-01,memory shortage,comments,0,True
+2021-02-01,memory shortage,comments,0,True
+2021-03-01,memory shortage,comments,1,True
+2021-04-01,memory shortage,comments,1,True
+2021-05-01,memory shortage,comments,0,True
+2021-06-01,memory shortage,comments,0,True
+2021-07-01,memory shortage,comments,0,True
+2021-08-01,memory shortage,comments,0,True
+2021-09-01,memory shortage,comments,0,True
+2021-10-01,memory shortage,comments,0,True
+2021-11-01,memory shortage,comments,0,True
+2021-12-01,memory shortage,comments,0,True
+2022-01-01,memory shortage,comments,0,True
+2022-02-01,memory shortage,comments,0,True
+2022-03-01,memory shortage,comments,0,True
+2022-04-01,memory shortage,comments,0,True
+2022-05-01,memory shortage,comments,0,True
+2022-06-01,memory shortage,comments,0,True
+2022-07-01,memory shortage,comments,0,True
+2022-08-01,memory shortage,comments,0,True
+2022-09-01,memory shortage,comments,1,True
+2022-10-01,memory shortage,comments,0,True
+2022-11-01,memory shortage,comments,0,True
+2022-12-01,memory shortage,comments,0,True
+2023-01-01,memory shortage,comments,0,True
+2023-02-01,memory shortage,comments,0,True
+2023-03-01,memory shortage,comments,0,True
+2023-04-01,memory shortage,comments,0,True
+2023-05-01,memory shortage,comments,0,True
+2023-06-01,memory shortage,comments,0,True
+2023-07-01,memory shortage,comments,0,True
+2023-08-01,memory shortage,comments,0,True
+2023-09-01,memory shortage,comments,0,True
+2023-10-01,memory shortage,comments,0,True
+2023-11-01,memory shortage,comments,0,True
+2023-12-01,memory shortage,comments,0,True
+2024-01-01,memory shortage,comments,0,True
+2024-02-01,memory shortage,comments,0,True
+2024-03-01,memory shortage,comments,0,True
+2024-04-01,memory shortage,comments,0,True
+2024-05-01,memory shortage,comments,0,True
+2024-06-01,memory shortage,comments,0,True
+2024-07-01,memory shortage,comments,0,True
+2024-08-01,memory shortage,comments,0,True
+2024-09-01,memory shortage,comments,0,True
+2024-10-01,memory shortage,comments,0,True
+2024-11-01,memory shortage,comments,0,True
+2024-12-01,memory shortage,comments,0,True
+2025-01-01,memory shortage,comments,0,True
+2025-02-01,memory shortage,comments,0,True
+2025-03-01,memory shortage,comments,0,True
+2025-04-01,memory shortage,comments,0,True
+2025-05-01,memory shortage,comments,0,True
+2025-06-01,memory shortage,comments,0,True
+2025-07-01,memory shortage,comments,1,True
+2025-08-01,memory shortage,comments,0,True
+2025-09-01,memory shortage,comments,0,True
+2025-10-01,memory shortage,comments,0,True
+2025-11-01,memory shortage,comments,1,True
+2025-12-01,memory shortage,comments,6,True
+2026-01-01,memory shortage,comments,4,True
+2026-02-01,memory shortage,comments,8,True
+2026-03-01,memory shortage,comments,9,True
+2026-04-01,memory shortage,comments,3,True
+2026-05-01,memory shortage,comments,13,True
+2026-06-01,memory shortage,comments,23,True
+2026-07-01,memory shortage,comments,4,True
+2026-08-01,memory shortage,comments,14,True
+2026-09-01,memory shortage,comments,5,True
+2026-10-01,memory shortage,comments,1,True
+2015-01-01,memory shortage,stories,0,True
+2015-02-01,memory shortage,stories,0,True
+2015-03-01,memory shortage,stories,0,True
+2015-04-01,memory shortage,stories,0,True
+2015-05-01,memory shortage,stories,0,True
+2015-06-01,memory shortage,stories,0,True
+2015-07-01,memory shortage,stories,0,True
+2015-08-01,memory shortage,stories,0,True
+2015-09-01,memory shortage,stories,0,True
+2015-10-01,memory shortage,stories,0,True
+2015-11-01,memory shortage,stories,0,True
+2015-12-01,memory shortage,stories,0,True
+2016-01-01,memory shortage,stories,0,True
+2016-02-01,memory shortage,stories,0,True
+2016-03-01,memory shortage,stories,0,True
+2016-04-01,memory shortage,stories,0,True
+2016-05-01,memory shortage,stories,0,True
+2016-06-01,memory shortage,stories,0,True
+2016-07-01,memory shortage,stories,0,True
+2016-08-01,memory shortage,stories,0,True
+2016-09-01,memory shortage,stories,0,True
+2016-10-01,memory shortage,stories,0,True
+2016-11-01,memory shortage,stories,0,True
+2016-12-01,memory shortage,stories,0,True
+2017-01-01,memory shortage,stories,0,True
+2017-02-01,memory shortage,stories,0,True
+2017-03-01,memory shortage,stories,0,True
+2017-04-01,memory shortage,stories,1,True
+2017-05-01,memory shortage,stories,0,True
+2017-06-01,memory shortage,stories,0,True
+2017-07-01,memory shortage,stories,0,True
+2017-08-01,memory shortage,stories,0,True
+2017-09-01,memory shortage,stories,0,True
+2017-10-01,memory shortage,stories,0,True
+2017-11-01,memory shortage,stories,0,True
+2017-12-01,memory shortage,stories,0,True
+2018-01-01,memory shortage,stories,0,True
+2018-02-01,memory shortage,stories,0,True
+2018-03-01,memory shortage,stories,0,True
+2018-04-01,memory shortage,stories,0,True
+2018-05-01,memory shortage,stories,0,True
+2018-06-01,memory shortage,stories,0,True
+2018-07-01,memory shortage,stories,0,True
+2018-08-01,memory shortage,stories,0,True
+2018-09-01,memory shortage,stories,0,True
+2018-10-01,memory shortage,stories,0,True
+2018-11-01,memory shortage,stories,0,True
+2018-12-01,memory shortage,stories,0,True
+2019-01-01,memory shortage,stories,0,True
+2019-02-01,memory shortage,stories,0,True
+2019-03-01,memory shortage,stories,0,True
+2019-04-01,memory shortage,stories,0,True
+2019-05-01,memory shortage,stories,0,True
+2019-06-01,memory shortage,stories,0,True
+2019-07-01,memory shortage,stories,0,True
+2019-08-01,memory shortage,stories,0,True
+2019-09-01,memory shortage,stories,0,True
+2019-10-01,memory shortage,stories,0,True
+2019-11-01,memory shortage,stories,0,True
+2019-12-01,memory shortage,stories,0,True
+2020-01-01,memory shortage,stories,0,True
+2020-02-01,memory shortage,stories,0,True
+2020-03-01,memory shortage,stories,0,True
+2020-04-01,memory shortage,stories,0,True
+2020-05-01,memory shortage,stories,0,True
+2020-06-01,memory shortage,stories,0,True
+2020-07-01,memory shortage,stories,0,True
+2020-08-01,memory shortage,stories,0,True
+2020-09-01,memory shortage,stories,0,True
+2020-10-01,memory shortage,stories,0,True
+2020-11-01,memory shortage,stories,0,True
+2020-12-01,memory shortage,stories,0,True
+2021-01-01,memory shortage,stories,0,True
+2021-02-01,memory shortage,stories,0,True
+2021-03-01,memory shortage,stories,0,True
+2021-04-01,memory shortage,stories,0,True
+2021-05-01,memory shortage,stories,0,True
+2021-06-01,memory shortage,stories,0,True
+2021-07-01,memory shortage,stories,0,True
+2021-08-01,memory shortage,stories,0,True
+2021-09-01,memory shortage,stories,0,True
+2021-10-01,memory shortage,stories,0,True
+2021-11-01,memory shortage,stories,0,True
+2021-12-01,memory shortage,stories,0,True
+2022-01-01,memory shortage,stories,0,True
+2022-02-01,memory shortage,stories,0,True
+2022-03-01,memory shortage,stories,0,True
+2022-04-01,memory shortage,stories,0,True
+2022-05-01,memory shortage,stories,0,True
+2022-06-01,memory shortage,stories,0,True
+2022-07-01,memory shortage,stories,0,True
+2022-08-01,memory shortage,stories,0,True
+2022-09-01,memory shortage,stories,0,True
+2022-10-01,memory shortage,stories,0,True
+2022-11-01,memory shortage,stories,0,True
+2022-12-01,memory shortage,stories,0,True
+2023-01-01,memory shortage,stories,0,True
+2023-02-01,memory shortage,stories,0,True
+2023-03-01,memory shortage,stories,0,True
+2023-04-01,memory shortage,stories,0,True
+2023-05-01,memory shortage,stories,0,True
+2023-06-01,memory shortage,stories,0,True
+2023-07-01,memory shortage,stories,0,True
+2023-08-01,memory shortage,stories,0,True
+2023-09-01,memory shortage,stories,0,True
+2023-10-01,memory shortage,stories,0,True
+2023-11-01,memory shortage,stories,0,True
+2023-12-01,memory shortage,stories,0,True
+2024-01-01,memory shortage,stories,0,True
+2024-02-01,memory shortage,stories,0,True
+2024-03-01,memory shortage,stories,0,True
+2024-04-01,memory shortage,stories,0,True
+2024-05-01,memory shortage,stories,0,True
+2024-06-01,memory shortage,stories,0,True
+2024-07-01,memory shortage,stories,0,True
+2024-08-01,memory shortage,stories,0,True
+2024-09-01,memory shortage,stories,0,True
+2024-10-01,memory shortage,stories,0,True
+2024-11-01,memory shortage,stories,0,True
+2024-12-01,memory shortage,stories,0,True
+2025-01-01,memory shortage,stories,0,True
+2025-02-01,memory shortage,stories,0,True
+2025-03-01,memory shortage,stories,0,True
+2025-04-01,memory shortage,stories,0,True
+2025-05-01,memory shortage,stories,0,True
+2025-06-01,memory shortage,stories,0,True
+2025-07-01,memory shortage,stories,0,True
+2025-08-01,memory shortage,stories,0,True
+2025-09-01,memory shortage,stories,0,True
+2025-10-01,memory shortage,stories,0,True
+2025-11-01,memory shortage,stories,3,True
+2025-12-01,memory shortage,stories,5,True
+2026-01-01,memory shortage,stories,2,True
+2026-02-01,memory shortage,stories,3,True
+2026-03-01,memory shortage,stories,3,True
+2026-04-01,memory shortage,stories,2,True
+2026-05-01,memory shortage,stories,5,True
+2026-06-01,memory shortage,stories,5,True
+2026-07-01,memory shortage,stories,7,True
+2026-08-01,memory shortage,stories,8,True
+2026-09-01,memory shortage,stories,3,True
+2026-10-01,memory shortage,stories,1,True

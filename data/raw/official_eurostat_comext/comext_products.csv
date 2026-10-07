@@ -1,0 +1,29 @@
+product,product_desc
+847170,Storage units for automatic data-processing machines
+84717020,Central storage units for automatic data-processing machines
+84717030,"Disk storage units for automatic data-processing machines, optical, incl. magneto-optical ""e.g. CD-ROM drives"" (excl. central storage units)"
+84717050,"Hard disk storage drives for automatic data-processing machines, neither optical nor magneto-optical (excl. central storage units)"
+84717070,"Disk storage units for automatic data-processing machines, neither optical nor magneto-optical (excl. hard disk storage drives and central storage units)"
+84717080,Magnetic tape storage units for automatic data-processing machines (excl. central storage units)
+84717098,"Storage units for automatic data-processing machines (excl. disk, magnetic tape and central storage units)"
+847180,"Units for automatic data-processing machines (excl. processing units, input or output units and storage units)"
+847330,"Parts and accessories of automatic data-processing machines or for other machines of heading 8471, n.e.s."
+84733020,"Electronic assemblies of automatic data-processing machines or for other machines of heading 8471, n.e.s."
+84733080,"Parts and accessories of automatic data-processing machines or for other machines of heading 8471, n.e.s. (excl. electronic assemblies)(2017-2500);Parts and accessories of automatic data-processing machines or for other machines of heading 8471, n.e.s. (excl. electronic assemblies)(2007-2016)"
+852351,"Solid-state, non-volatile data storage devices for recording data from an external source {flash memory cards or flash electronic storage cards} (excl. goods of chapter 37)"
+85235110,"Solid-state, non-volatile data storage devices for recording data from an external source {flash memory cards or flash electronic storage cards}, unrecorded"
+85235190,"Solid-state, non-volatile data storage devices {flash memory cards or flash electronic storage cards}, recorded"
+854231,"Electronic integrated circuits as processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits"
+85423111,"Electronic multi-component integrated circuits ""MCOs"" as processors and controllers as specified in note 12 (b) (4) to chapter 85, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits"
+85423119,"Electronic integrated circuits as processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits in the form of multichip integrated circuits consisting of two or more interconnected monolithic integrated circuits as specified in note 12 (b) (3) to chapter 85"
+85423190,"Electronic integrated circuits as processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits (excl. in the form of multichip or multi-component integrated circuits)"
+854232,Electronic integrated circuits as memories
+85423210,Electronic integrated circuits as memories in the form of multichip integrated circuits consisting of two or more interconnected monolithic integrated circuits as specified in note 8 (b) (3) to chapter 85
+85423231,"Electronic integrated circuits as dynamic random-access memories ""D-RAMs"", with a storage capacity of <= 512 Mbit (excl. in the form of multichip or multi-component integrated circuits)"
+85423239,"Electronic integrated circuits as dynamic random-access memories ""D-RAMs"", with a storage capacity of > 512 Mbit (excl. in the form of multichip or multi-component integrated circuits)"
+85423245,"Electronic integrated circuits as static random access memories ""static RAMs"", incl. cache random-access memories ""cache-RAMs"" (excl. in the form of multichip or multi-component integrated circuits)"
+85423255,"Electronic integrated circuits as UV erasable, programmable read-only memories ""EPROMs"" (excl. in the form of multichip or multi-component integrated circuits)"
+85423261,"Electronic integrated circuits as electrically erasable, programmable read-only memories ""flash E²PROMs"", with a storage capacity of <= 512 Mbit (excl. in the form of multichip or multi-component integrated circuits)"
+85423269,"Electronic integrated circuits as electrically erasable, programmable read-only memories ""flash E²PROMs"", with a storage capacity of > 512 Mbit (excl. in the form of multichip or multi-component integrated circuits)"
+85423275,"Electronic integrated circuits as electrically erasable, programmable read-only memories ""E2PROMs"" (excl. flash E²PROMs and in the form of multichip or multi-component integrated circuits)"
+85423290,"Memories in multicombinational forms such as stack D-RAMs and modules (excl. in the form of multichip or multi-component integrated circuits, and D-RAMs, S-Rams, cache-RAMs, EPROMs and flash E²PROMs)"

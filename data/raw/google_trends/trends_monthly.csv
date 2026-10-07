@@ -1,0 +1,2601 @@
+date,term,metric,value,geo,group,is_partial
+2016-01-01,CPU prices,search_interest_0_100,0,US,components,False
+2016-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2016-03-01,CPU prices,search_interest_0_100,0,US,components,False
+2016-04-01,CPU prices,search_interest_0_100,0,US,components,False
+2016-05-01,CPU prices,search_interest_0_100,0,US,components,False
+2016-06-01,CPU prices,search_interest_0_100,1,US,components,False
+2016-07-01,CPU prices,search_interest_0_100,0,US,components,False
+2016-08-01,CPU prices,search_interest_0_100,1,US,components,False
+2016-09-01,CPU prices,search_interest_0_100,0,US,components,False
+2016-10-01,CPU prices,search_interest_0_100,1,US,components,False
+2016-11-01,CPU prices,search_interest_0_100,0,US,components,False
+2016-12-01,CPU prices,search_interest_0_100,1,US,components,False
+2017-01-01,CPU prices,search_interest_0_100,0,US,components,False
+2017-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2017-03-01,CPU prices,search_interest_0_100,0,US,components,False
+2017-04-01,CPU prices,search_interest_0_100,0,US,components,False
+2017-05-01,CPU prices,search_interest_0_100,0,US,components,False
+2017-06-01,CPU prices,search_interest_0_100,0,US,components,False
+2017-07-01,CPU prices,search_interest_0_100,1,US,components,False
+2017-08-01,CPU prices,search_interest_0_100,0,US,components,False
+2017-09-01,CPU prices,search_interest_0_100,1,US,components,False
+2017-10-01,CPU prices,search_interest_0_100,1,US,components,False
+2017-11-01,CPU prices,search_interest_0_100,1,US,components,False
+2017-12-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-01-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-03-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-04-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-05-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-06-01,CPU prices,search_interest_0_100,0,US,components,False
+2018-07-01,CPU prices,search_interest_0_100,0,US,components,False
+2018-08-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-09-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-10-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-11-01,CPU prices,search_interest_0_100,1,US,components,False
+2018-12-01,CPU prices,search_interest_0_100,1,US,components,False
+2019-01-01,CPU prices,search_interest_0_100,1,US,components,False
+2019-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2019-03-01,CPU prices,search_interest_0_100,0,US,components,False
+2019-04-01,CPU prices,search_interest_0_100,0,US,components,False
+2019-05-01,CPU prices,search_interest_0_100,1,US,components,False
+2019-06-01,CPU prices,search_interest_0_100,1,US,components,False
+2019-07-01,CPU prices,search_interest_0_100,1,US,components,False
+2019-08-01,CPU prices,search_interest_0_100,0,US,components,False
+2019-09-01,CPU prices,search_interest_0_100,0,US,components,False
+2019-10-01,CPU prices,search_interest_0_100,1,US,components,False
+2019-11-01,CPU prices,search_interest_0_100,0,US,components,False
+2019-12-01,CPU prices,search_interest_0_100,1,US,components,False
+2020-01-01,CPU prices,search_interest_0_100,0,US,components,False
+2020-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2020-03-01,CPU prices,search_interest_0_100,1,US,components,False
+2020-04-01,CPU prices,search_interest_0_100,1,US,components,False
+2020-05-01,CPU prices,search_interest_0_100,1,US,components,False
+2020-06-01,CPU prices,search_interest_0_100,0,US,components,False
+2020-07-01,CPU prices,search_interest_0_100,0,US,components,False
+2020-08-01,CPU prices,search_interest_0_100,1,US,components,False
+2020-09-01,CPU prices,search_interest_0_100,1,US,components,False
+2020-10-01,CPU prices,search_interest_0_100,1,US,components,False
+2020-11-01,CPU prices,search_interest_0_100,1,US,components,False
+2020-12-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-01-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-03-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-04-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-05-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-06-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-07-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-08-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-09-01,CPU prices,search_interest_0_100,0,US,components,False
+2021-10-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-11-01,CPU prices,search_interest_0_100,1,US,components,False
+2021-12-01,CPU prices,search_interest_0_100,0,US,components,False
+2022-01-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-03-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-04-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-05-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-06-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-07-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-08-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-09-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-10-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-11-01,CPU prices,search_interest_0_100,1,US,components,False
+2022-12-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-01-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-03-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-04-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-05-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-06-01,CPU prices,search_interest_0_100,0,US,components,False
+2023-07-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-08-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-09-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-10-01,CPU prices,search_interest_0_100,1,US,components,False
+2023-11-01,CPU prices,search_interest_0_100,0,US,components,False
+2023-12-01,CPU prices,search_interest_0_100,1,US,components,False
+2024-01-01,CPU prices,search_interest_0_100,1,US,components,False
+2024-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2024-03-01,CPU prices,search_interest_0_100,1,US,components,False
+2024-04-01,CPU prices,search_interest_0_100,1,US,components,False
+2024-05-01,CPU prices,search_interest_0_100,1,US,components,False
+2024-06-01,CPU prices,search_interest_0_100,0,US,components,False
+2024-07-01,CPU prices,search_interest_0_100,0,US,components,False
+2024-08-01,CPU prices,search_interest_0_100,0,US,components,False
+2024-09-01,CPU prices,search_interest_0_100,1,US,components,False
+2024-10-01,CPU prices,search_interest_0_100,1,US,components,False
+2024-11-01,CPU prices,search_interest_0_100,1,US,components,False
+2024-12-01,CPU prices,search_interest_0_100,1,US,components,False
+2025-01-01,CPU prices,search_interest_0_100,1,US,components,False
+2025-02-01,CPU prices,search_interest_0_100,1,US,components,False
+2025-03-01,CPU prices,search_interest_0_100,1,US,components,False
+2025-04-01,CPU prices,search_interest_0_100,1,US,components,False
+2025-05-01,CPU prices,search_interest_0_100,1,US,components,False
+2025-06-01,CPU prices,search_interest_0_100,2,US,components,False
+2025-07-01,CPU prices,search_interest_0_100,4,US,components,False
+2025-08-01,CPU prices,search_interest_0_100,3,US,components,False
+2025-09-01,CPU prices,search_interest_0_100,1,US,components,False
+2025-10-01,CPU prices,search_interest_0_100,2,US,components,False
+2025-11-01,CPU prices,search_interest_0_100,6,US,components,False
+2025-12-01,CPU prices,search_interest_0_100,13,US,components,False
+2026-01-01,CPU prices,search_interest_0_100,12,US,components,False
+2026-02-01,CPU prices,search_interest_0_100,12,US,components,False
+2026-03-01,CPU prices,search_interest_0_100,13,US,components,False
+2026-04-01,CPU prices,search_interest_0_100,10,US,components,False
+2026-05-01,CPU prices,search_interest_0_100,9,US,components,False
+2026-06-01,CPU prices,search_interest_0_100,12,US,components,False
+2026-07-01,CPU prices,search_interest_0_100,7,US,components,False
+2026-08-01,CPU prices,search_interest_0_100,3,US,components,False
+2026-09-01,CPU prices,search_interest_0_100,3,US,components,False
+2026-10-01,CPU prices,search_interest_0_100,2,US,components,True
+2016-01-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-02-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-03-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-04-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-05-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-06-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-07-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-08-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-09-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-10-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-11-01,GPU prices,search_interest_0_100,0,US,components,False
+2016-12-01,GPU prices,search_interest_0_100,0,US,components,False
+2017-01-01,GPU prices,search_interest_0_100,0,US,components,False
+2017-02-01,GPU prices,search_interest_0_100,0,US,components,False
+2017-03-01,GPU prices,search_interest_0_100,0,US,components,False
+2017-04-01,GPU prices,search_interest_0_100,0,US,components,False
+2017-05-01,GPU prices,search_interest_0_100,0,US,components,False
+2017-06-01,GPU prices,search_interest_0_100,1,US,components,False
+2017-07-01,GPU prices,search_interest_0_100,3,US,components,False
+2017-08-01,GPU prices,search_interest_0_100,1,US,components,False
+2017-09-01,GPU prices,search_interest_0_100,1,US,components,False
+2017-10-01,GPU prices,search_interest_0_100,1,US,components,False
+2017-11-01,GPU prices,search_interest_0_100,1,US,components,False
+2017-12-01,GPU prices,search_interest_0_100,1,US,components,False
+2018-01-01,GPU prices,search_interest_0_100,9,US,components,False
+2018-02-01,GPU prices,search_interest_0_100,10,US,components,False
+2018-03-01,GPU prices,search_interest_0_100,8,US,components,False
+2018-04-01,GPU prices,search_interest_0_100,7,US,components,False
+2018-05-01,GPU prices,search_interest_0_100,5,US,components,False
+2018-06-01,GPU prices,search_interest_0_100,3,US,components,False
+2018-07-01,GPU prices,search_interest_0_100,3,US,components,False
+2018-08-01,GPU prices,search_interest_0_100,2,US,components,False
+2018-09-01,GPU prices,search_interest_0_100,2,US,components,False
+2018-10-01,GPU prices,search_interest_0_100,1,US,components,False
+2018-11-01,GPU prices,search_interest_0_100,1,US,components,False
+2018-12-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-01-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-02-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-03-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-04-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-05-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-06-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-07-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-08-01,GPU prices,search_interest_0_100,0,US,components,False
+2019-09-01,GPU prices,search_interest_0_100,0,US,components,False
+2019-10-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-11-01,GPU prices,search_interest_0_100,1,US,components,False
+2019-12-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-01-01,GPU prices,search_interest_0_100,0,US,components,False
+2020-02-01,GPU prices,search_interest_0_100,0,US,components,False
+2020-03-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-04-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-05-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-06-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-07-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-08-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-09-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-10-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-11-01,GPU prices,search_interest_0_100,1,US,components,False
+2020-12-01,GPU prices,search_interest_0_100,2,US,components,False
+2021-01-01,GPU prices,search_interest_0_100,4,US,components,False
+2021-02-01,GPU prices,search_interest_0_100,4,US,components,False
+2021-03-01,GPU prices,search_interest_0_100,5,US,components,False
+2021-04-01,GPU prices,search_interest_0_100,5,US,components,False
+2021-05-01,GPU prices,search_interest_0_100,5,US,components,False
+2021-06-01,GPU prices,search_interest_0_100,7,US,components,False
+2021-07-01,GPU prices,search_interest_0_100,8,US,components,False
+2021-08-01,GPU prices,search_interest_0_100,6,US,components,False
+2021-09-01,GPU prices,search_interest_0_100,5,US,components,False
+2021-10-01,GPU prices,search_interest_0_100,4,US,components,False
+2021-11-01,GPU prices,search_interest_0_100,5,US,components,False
+2021-12-01,GPU prices,search_interest_0_100,4,US,components,False
+2022-01-01,GPU prices,search_interest_0_100,6,US,components,False
+2022-02-01,GPU prices,search_interest_0_100,8,US,components,False
+2022-03-01,GPU prices,search_interest_0_100,11,US,components,False
+2022-04-01,GPU prices,search_interest_0_100,8,US,components,False
+2022-05-01,GPU prices,search_interest_0_100,5,US,components,False
+2022-06-01,GPU prices,search_interest_0_100,6,US,components,False
+2022-07-01,GPU prices,search_interest_0_100,5,US,components,False
+2022-08-01,GPU prices,search_interest_0_100,4,US,components,False
+2022-09-01,GPU prices,search_interest_0_100,5,US,components,False
+2022-10-01,GPU prices,search_interest_0_100,3,US,components,False
+2022-11-01,GPU prices,search_interest_0_100,3,US,components,False
+2022-12-01,GPU prices,search_interest_0_100,2,US,components,False
+2023-01-01,GPU prices,search_interest_0_100,2,US,components,False
+2023-02-01,GPU prices,search_interest_0_100,2,US,components,False
+2023-03-01,GPU prices,search_interest_0_100,2,US,components,False
+2023-04-01,GPU prices,search_interest_0_100,2,US,components,False
+2023-05-01,GPU prices,search_interest_0_100,1,US,components,False
+2023-06-01,GPU prices,search_interest_0_100,1,US,components,False
+2023-07-01,GPU prices,search_interest_0_100,1,US,components,False
+2023-08-01,GPU prices,search_interest_0_100,2,US,components,False
+2023-09-01,GPU prices,search_interest_0_100,1,US,components,False
+2023-10-01,GPU prices,search_interest_0_100,1,US,components,False
+2023-11-01,GPU prices,search_interest_0_100,2,US,components,False
+2023-12-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-01-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-02-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-03-01,GPU prices,search_interest_0_100,2,US,components,False
+2024-04-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-05-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-06-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-07-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-08-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-09-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-10-01,GPU prices,search_interest_0_100,1,US,components,False
+2024-11-01,GPU prices,search_interest_0_100,2,US,components,False
+2024-12-01,GPU prices,search_interest_0_100,2,US,components,False
+2025-01-01,GPU prices,search_interest_0_100,4,US,components,False
+2025-02-01,GPU prices,search_interest_0_100,4,US,components,False
+2025-03-01,GPU prices,search_interest_0_100,3,US,components,False
+2025-04-01,GPU prices,search_interest_0_100,3,US,components,False
+2025-05-01,GPU prices,search_interest_0_100,3,US,components,False
+2025-06-01,GPU prices,search_interest_0_100,4,US,components,False
+2025-07-01,GPU prices,search_interest_0_100,8,US,components,False
+2025-08-01,GPU prices,search_interest_0_100,6,US,components,False
+2025-09-01,GPU prices,search_interest_0_100,4,US,components,False
+2025-10-01,GPU prices,search_interest_0_100,4,US,components,False
+2025-11-01,GPU prices,search_interest_0_100,14,US,components,False
+2025-12-01,GPU prices,search_interest_0_100,29,US,components,False
+2026-01-01,GPU prices,search_interest_0_100,29,US,components,False
+2026-02-01,GPU prices,search_interest_0_100,21,US,components,False
+2026-03-01,GPU prices,search_interest_0_100,28,US,components,False
+2026-04-01,GPU prices,search_interest_0_100,20,US,components,False
+2026-05-01,GPU prices,search_interest_0_100,22,US,components,False
+2026-06-01,GPU prices,search_interest_0_100,26,US,components,False
+2026-07-01,GPU prices,search_interest_0_100,17,US,components,False
+2026-08-01,GPU prices,search_interest_0_100,9,US,components,False
+2026-09-01,GPU prices,search_interest_0_100,6,US,components,False
+2026-10-01,GPU prices,search_interest_0_100,4,US,components,True
+2016-01-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-02-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-03-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-04-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-05-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-06-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-07-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-08-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-09-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-10-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-11-01,GPU shortage,search_interest_0_100,0,US,components,False
+2016-12-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-01-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-02-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-03-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-04-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-05-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-06-01,GPU shortage,search_interest_0_100,1,US,components,False
+2017-07-01,GPU shortage,search_interest_0_100,1,US,components,False
+2017-08-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-09-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-10-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-11-01,GPU shortage,search_interest_0_100,0,US,components,False
+2017-12-01,GPU shortage,search_interest_0_100,0,US,components,False
+2018-01-01,GPU shortage,search_interest_0_100,2,US,components,False
+2018-02-01,GPU shortage,search_interest_0_100,1,US,components,False
+2018-03-01,GPU shortage,search_interest_0_100,1,US,components,False
+2018-04-01,GPU shortage,search_interest_0_100,0,US,components,False
+2018-05-01,GPU shortage,search_interest_0_100,0,US,components,False
+2018-06-01,GPU shortage,search_interest_0_100,0,US,components,False
+2018-07-01,GPU shortage,search_interest_0_100,0,US,components,False
+2018-08-01,GPU shortage,search_interest_0_100,0,US,components,False
+2018-09-01,GPU shortage,search_interest_0_100,0,US,components,False
+2018-10-01,GPU shortage,search_interest_0_100,0,US,components,False
+2018-11-01,GPU shortage,search_interest_0_100,0,US,components,False
+2018-12-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-01-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-02-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-03-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-04-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-05-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-06-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-07-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-08-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-09-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-10-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-11-01,GPU shortage,search_interest_0_100,0,US,components,False
+2019-12-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-01-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-02-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-03-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-04-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-05-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-06-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-07-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-08-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-09-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-10-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-11-01,GPU shortage,search_interest_0_100,0,US,components,False
+2020-12-01,GPU shortage,search_interest_0_100,1,US,components,False
+2021-01-01,GPU shortage,search_interest_0_100,2,US,components,False
+2021-02-01,GPU shortage,search_interest_0_100,4,US,components,False
+2021-03-01,GPU shortage,search_interest_0_100,6,US,components,False
+2021-04-01,GPU shortage,search_interest_0_100,7,US,components,False
+2021-05-01,GPU shortage,search_interest_0_100,6,US,components,False
+2021-06-01,GPU shortage,search_interest_0_100,7,US,components,False
+2021-07-01,GPU shortage,search_interest_0_100,5,US,components,False
+2021-08-01,GPU shortage,search_interest_0_100,4,US,components,False
+2021-09-01,GPU shortage,search_interest_0_100,4,US,components,False
+2021-10-01,GPU shortage,search_interest_0_100,3,US,components,False
+2021-11-01,GPU shortage,search_interest_0_100,2,US,components,False
+2021-12-01,GPU shortage,search_interest_0_100,3,US,components,False
+2022-01-01,GPU shortage,search_interest_0_100,4,US,components,False
+2022-02-01,GPU shortage,search_interest_0_100,3,US,components,False
+2022-03-01,GPU shortage,search_interest_0_100,2,US,components,False
+2022-04-01,GPU shortage,search_interest_0_100,2,US,components,False
+2022-05-01,GPU shortage,search_interest_0_100,1,US,components,False
+2022-06-01,GPU shortage,search_interest_0_100,1,US,components,False
+2022-07-01,GPU shortage,search_interest_0_100,1,US,components,False
+2022-08-01,GPU shortage,search_interest_0_100,0,US,components,False
+2022-09-01,GPU shortage,search_interest_0_100,0,US,components,False
+2022-10-01,GPU shortage,search_interest_0_100,0,US,components,False
+2022-11-01,GPU shortage,search_interest_0_100,0,US,components,False
+2022-12-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-01-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-02-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-03-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-04-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-05-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-06-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-07-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-08-01,GPU shortage,search_interest_0_100,1,US,components,False
+2023-09-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-10-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-11-01,GPU shortage,search_interest_0_100,0,US,components,False
+2023-12-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-01-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-02-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-03-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-04-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-05-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-06-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-07-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-08-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-09-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-10-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-11-01,GPU shortage,search_interest_0_100,0,US,components,False
+2024-12-01,GPU shortage,search_interest_0_100,0,US,components,False
+2025-01-01,GPU shortage,search_interest_0_100,0,US,components,False
+2025-02-01,GPU shortage,search_interest_0_100,1,US,components,False
+2025-03-01,GPU shortage,search_interest_0_100,1,US,components,False
+2025-04-01,GPU shortage,search_interest_0_100,1,US,components,False
+2025-05-01,GPU shortage,search_interest_0_100,0,US,components,False
+2025-06-01,GPU shortage,search_interest_0_100,0,US,components,False
+2025-07-01,GPU shortage,search_interest_0_100,1,US,components,False
+2025-08-01,GPU shortage,search_interest_0_100,1,US,components,False
+2025-09-01,GPU shortage,search_interest_0_100,0,US,components,False
+2025-10-01,GPU shortage,search_interest_0_100,0,US,components,False
+2025-11-01,GPU shortage,search_interest_0_100,2,US,components,False
+2025-12-01,GPU shortage,search_interest_0_100,3,US,components,False
+2026-01-01,GPU shortage,search_interest_0_100,3,US,components,False
+2026-02-01,GPU shortage,search_interest_0_100,3,US,components,False
+2026-03-01,GPU shortage,search_interest_0_100,4,US,components,False
+2026-04-01,GPU shortage,search_interest_0_100,4,US,components,False
+2026-05-01,GPU shortage,search_interest_0_100,4,US,components,False
+2026-06-01,GPU shortage,search_interest_0_100,4,US,components,False
+2026-07-01,GPU shortage,search_interest_0_100,2,US,components,False
+2026-08-01,GPU shortage,search_interest_0_100,1,US,components,False
+2026-09-01,GPU shortage,search_interest_0_100,1,US,components,False
+2026-10-01,GPU shortage,search_interest_0_100,0,US,components,True
+2016-01-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-02-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-03-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-04-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-05-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-06-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-07-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-08-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-09-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-10-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-11-01,RAM prices,search_interest_0_100,4,US,components,False
+2016-12-01,RAM prices,search_interest_0_100,4,US,components,False
+2017-01-01,RAM prices,search_interest_0_100,4,US,components,False
+2017-02-01,RAM prices,search_interest_0_100,5,US,components,False
+2017-03-01,RAM prices,search_interest_0_100,4,US,components,False
+2017-04-01,RAM prices,search_interest_0_100,4,US,components,False
+2017-05-01,RAM prices,search_interest_0_100,4,US,components,False
+2017-06-01,RAM prices,search_interest_0_100,5,US,components,False
+2017-07-01,RAM prices,search_interest_0_100,5,US,components,False
+2017-08-01,RAM prices,search_interest_0_100,4,US,components,False
+2017-09-01,RAM prices,search_interest_0_100,5,US,components,False
+2017-10-01,RAM prices,search_interest_0_100,5,US,components,False
+2017-11-01,RAM prices,search_interest_0_100,6,US,components,False
+2017-12-01,RAM prices,search_interest_0_100,6,US,components,False
+2018-01-01,RAM prices,search_interest_0_100,7,US,components,False
+2018-02-01,RAM prices,search_interest_0_100,7,US,components,False
+2018-03-01,RAM prices,search_interest_0_100,6,US,components,False
+2018-04-01,RAM prices,search_interest_0_100,6,US,components,False
+2018-05-01,RAM prices,search_interest_0_100,7,US,components,False
+2018-06-01,RAM prices,search_interest_0_100,5,US,components,False
+2018-07-01,RAM prices,search_interest_0_100,5,US,components,False
+2018-08-01,RAM prices,search_interest_0_100,5,US,components,False
+2018-09-01,RAM prices,search_interest_0_100,5,US,components,False
+2018-10-01,RAM prices,search_interest_0_100,5,US,components,False
+2018-11-01,RAM prices,search_interest_0_100,5,US,components,False
+2018-12-01,RAM prices,search_interest_0_100,5,US,components,False
+2019-01-01,RAM prices,search_interest_0_100,4,US,components,False
+2019-02-01,RAM prices,search_interest_0_100,5,US,components,False
+2019-03-01,RAM prices,search_interest_0_100,4,US,components,False
+2019-04-01,RAM prices,search_interest_0_100,4,US,components,False
+2019-05-01,RAM prices,search_interest_0_100,4,US,components,False
+2019-06-01,RAM prices,search_interest_0_100,4,US,components,False
+2019-07-01,RAM prices,search_interest_0_100,4,US,components,False
+2019-08-01,RAM prices,search_interest_0_100,3,US,components,False
+2019-09-01,RAM prices,search_interest_0_100,4,US,components,False
+2019-10-01,RAM prices,search_interest_0_100,4,US,components,False
+2019-11-01,RAM prices,search_interest_0_100,4,US,components,False
+2019-12-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-01-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-02-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-03-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-04-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-05-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-06-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-07-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-08-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-09-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-10-01,RAM prices,search_interest_0_100,3,US,components,False
+2020-11-01,RAM prices,search_interest_0_100,4,US,components,False
+2020-12-01,RAM prices,search_interest_0_100,4,US,components,False
+2021-01-01,RAM prices,search_interest_0_100,4,US,components,False
+2021-02-01,RAM prices,search_interest_0_100,4,US,components,False
+2021-03-01,RAM prices,search_interest_0_100,5,US,components,False
+2021-04-01,RAM prices,search_interest_0_100,4,US,components,False
+2021-05-01,RAM prices,search_interest_0_100,5,US,components,False
+2021-06-01,RAM prices,search_interest_0_100,5,US,components,False
+2021-07-01,RAM prices,search_interest_0_100,4,US,components,False
+2021-08-01,RAM prices,search_interest_0_100,4,US,components,False
+2021-09-01,RAM prices,search_interest_0_100,3,US,components,False
+2021-10-01,RAM prices,search_interest_0_100,5,US,components,False
+2021-11-01,RAM prices,search_interest_0_100,4,US,components,False
+2021-12-01,RAM prices,search_interest_0_100,4,US,components,False
+2022-01-01,RAM prices,search_interest_0_100,4,US,components,False
+2022-02-01,RAM prices,search_interest_0_100,6,US,components,False
+2022-03-01,RAM prices,search_interest_0_100,7,US,components,False
+2022-04-01,RAM prices,search_interest_0_100,5,US,components,False
+2022-05-01,RAM prices,search_interest_0_100,6,US,components,False
+2022-06-01,RAM prices,search_interest_0_100,6,US,components,False
+2022-07-01,RAM prices,search_interest_0_100,4,US,components,False
+2022-08-01,RAM prices,search_interest_0_100,5,US,components,False
+2022-09-01,RAM prices,search_interest_0_100,4,US,components,False
+2022-10-01,RAM prices,search_interest_0_100,5,US,components,False
+2022-11-01,RAM prices,search_interest_0_100,4,US,components,False
+2022-12-01,RAM prices,search_interest_0_100,4,US,components,False
+2023-01-01,RAM prices,search_interest_0_100,4,US,components,False
+2023-02-01,RAM prices,search_interest_0_100,4,US,components,False
+2023-03-01,RAM prices,search_interest_0_100,4,US,components,False
+2023-04-01,RAM prices,search_interest_0_100,4,US,components,False
+2023-05-01,RAM prices,search_interest_0_100,3,US,components,False
+2023-06-01,RAM prices,search_interest_0_100,4,US,components,False
+2023-07-01,RAM prices,search_interest_0_100,3,US,components,False
+2023-08-01,RAM prices,search_interest_0_100,3,US,components,False
+2023-09-01,RAM prices,search_interest_0_100,4,US,components,False
+2023-10-01,RAM prices,search_interest_0_100,3,US,components,False
+2023-11-01,RAM prices,search_interest_0_100,4,US,components,False
+2023-12-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-01-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-02-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-03-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-04-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-05-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-06-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-07-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-08-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-09-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-10-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-11-01,RAM prices,search_interest_0_100,3,US,components,False
+2024-12-01,RAM prices,search_interest_0_100,3,US,components,False
+2025-01-01,RAM prices,search_interest_0_100,4,US,components,False
+2025-02-01,RAM prices,search_interest_0_100,4,US,components,False
+2025-03-01,RAM prices,search_interest_0_100,4,US,components,False
+2025-04-01,RAM prices,search_interest_0_100,4,US,components,False
+2025-05-01,RAM prices,search_interest_0_100,4,US,components,False
+2025-06-01,RAM prices,search_interest_0_100,5,US,components,False
+2025-07-01,RAM prices,search_interest_0_100,12,US,components,False
+2025-08-01,RAM prices,search_interest_0_100,8,US,components,False
+2025-09-01,RAM prices,search_interest_0_100,6,US,components,False
+2025-10-01,RAM prices,search_interest_0_100,8,US,components,False
+2025-11-01,RAM prices,search_interest_0_100,35,US,components,False
+2025-12-01,RAM prices,search_interest_0_100,100,US,components,False
+2026-01-01,RAM prices,search_interest_0_100,58,US,components,False
+2026-02-01,RAM prices,search_interest_0_100,59,US,components,False
+2026-03-01,RAM prices,search_interest_0_100,65,US,components,False
+2026-04-01,RAM prices,search_interest_0_100,51,US,components,False
+2026-05-01,RAM prices,search_interest_0_100,42,US,components,False
+2026-06-01,RAM prices,search_interest_0_100,45,US,components,False
+2026-07-01,RAM prices,search_interest_0_100,34,US,components,False
+2026-08-01,RAM prices,search_interest_0_100,26,US,components,False
+2026-09-01,RAM prices,search_interest_0_100,21,US,components,False
+2026-10-01,RAM prices,search_interest_0_100,19,US,components,True
+2016-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-02-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-03-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-04-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-05-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-06-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-07-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-08-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-09-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-10-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-11-01,SSD prices,search_interest_0_100,1,US,components,False
+2016-12-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-02-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-03-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-04-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-05-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-06-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-07-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-08-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-09-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-10-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-11-01,SSD prices,search_interest_0_100,1,US,components,False
+2017-12-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-02-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-03-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-04-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-05-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-06-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-07-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-08-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-09-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-10-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-11-01,SSD prices,search_interest_0_100,1,US,components,False
+2018-12-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-02-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-03-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-04-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-05-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-06-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-07-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-08-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-09-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-10-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-11-01,SSD prices,search_interest_0_100,1,US,components,False
+2019-12-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-02-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-03-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-04-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-05-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-06-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-07-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-08-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-09-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-10-01,SSD prices,search_interest_0_100,0,US,components,False
+2020-11-01,SSD prices,search_interest_0_100,1,US,components,False
+2020-12-01,SSD prices,search_interest_0_100,1,US,components,False
+2021-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2021-02-01,SSD prices,search_interest_0_100,0,US,components,False
+2021-03-01,SSD prices,search_interest_0_100,0,US,components,False
+2021-04-01,SSD prices,search_interest_0_100,1,US,components,False
+2021-05-01,SSD prices,search_interest_0_100,1,US,components,False
+2021-06-01,SSD prices,search_interest_0_100,1,US,components,False
+2021-07-01,SSD prices,search_interest_0_100,1,US,components,False
+2021-08-01,SSD prices,search_interest_0_100,0,US,components,False
+2021-09-01,SSD prices,search_interest_0_100,0,US,components,False
+2021-10-01,SSD prices,search_interest_0_100,0,US,components,False
+2021-11-01,SSD prices,search_interest_0_100,0,US,components,False
+2021-12-01,SSD prices,search_interest_0_100,0,US,components,False
+2022-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2022-02-01,SSD prices,search_interest_0_100,1,US,components,False
+2022-03-01,SSD prices,search_interest_0_100,1,US,components,False
+2022-04-01,SSD prices,search_interest_0_100,1,US,components,False
+2022-05-01,SSD prices,search_interest_0_100,0,US,components,False
+2022-06-01,SSD prices,search_interest_0_100,0,US,components,False
+2022-07-01,SSD prices,search_interest_0_100,1,US,components,False
+2022-08-01,SSD prices,search_interest_0_100,0,US,components,False
+2022-09-01,SSD prices,search_interest_0_100,1,US,components,False
+2022-10-01,SSD prices,search_interest_0_100,1,US,components,False
+2022-11-01,SSD prices,search_interest_0_100,1,US,components,False
+2022-12-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-02-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-03-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-04-01,SSD prices,search_interest_0_100,0,US,components,False
+2023-05-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-06-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-07-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-08-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-09-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-10-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-11-01,SSD prices,search_interest_0_100,1,US,components,False
+2023-12-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-02-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-03-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-04-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-05-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-06-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-07-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-08-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-09-01,SSD prices,search_interest_0_100,0,US,components,False
+2024-10-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-11-01,SSD prices,search_interest_0_100,1,US,components,False
+2024-12-01,SSD prices,search_interest_0_100,1,US,components,False
+2025-01-01,SSD prices,search_interest_0_100,1,US,components,False
+2025-02-01,SSD prices,search_interest_0_100,1,US,components,False
+2025-03-01,SSD prices,search_interest_0_100,1,US,components,False
+2025-04-01,SSD prices,search_interest_0_100,1,US,components,False
+2025-05-01,SSD prices,search_interest_0_100,1,US,components,False
+2025-06-01,SSD prices,search_interest_0_100,2,US,components,False
+2025-07-01,SSD prices,search_interest_0_100,6,US,components,False
+2025-08-01,SSD prices,search_interest_0_100,3,US,components,False
+2025-09-01,SSD prices,search_interest_0_100,2,US,components,False
+2025-10-01,SSD prices,search_interest_0_100,2,US,components,False
+2025-11-01,SSD prices,search_interest_0_100,8,US,components,False
+2025-12-01,SSD prices,search_interest_0_100,19,US,components,False
+2026-01-01,SSD prices,search_interest_0_100,18,US,components,False
+2026-02-01,SSD prices,search_interest_0_100,18,US,components,False
+2026-03-01,SSD prices,search_interest_0_100,18,US,components,False
+2026-04-01,SSD prices,search_interest_0_100,14,US,components,False
+2026-05-01,SSD prices,search_interest_0_100,16,US,components,False
+2026-06-01,SSD prices,search_interest_0_100,22,US,components,False
+2026-07-01,SSD prices,search_interest_0_100,14,US,components,False
+2026-08-01,SSD prices,search_interest_0_100,8,US,components,False
+2026-09-01,SSD prices,search_interest_0_100,5,US,components,False
+2026-10-01,SSD prices,search_interest_0_100,4,US,components,True
+2016-01-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-04-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-05-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-07-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-08-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-09-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-10-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-11-01,CPU prices,search_interest_0_100,1,world,components,False
+2016-12-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-01-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-04-01,CPU prices,search_interest_0_100,0,world,components,False
+2017-05-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-07-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-08-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-09-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-10-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-11-01,CPU prices,search_interest_0_100,1,world,components,False
+2017-12-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-01-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-04-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-05-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-07-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-08-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-09-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-10-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-11-01,CPU prices,search_interest_0_100,1,world,components,False
+2018-12-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-01-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-04-01,CPU prices,search_interest_0_100,0,world,components,False
+2019-05-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-07-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-08-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-09-01,CPU prices,search_interest_0_100,0,world,components,False
+2019-10-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-11-01,CPU prices,search_interest_0_100,1,world,components,False
+2019-12-01,CPU prices,search_interest_0_100,0,world,components,False
+2020-01-01,CPU prices,search_interest_0_100,0,world,components,False
+2020-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-04-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-05-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-07-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-08-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-09-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-10-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-11-01,CPU prices,search_interest_0_100,1,world,components,False
+2020-12-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-01-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-04-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-05-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-07-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-08-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-09-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-10-01,CPU prices,search_interest_0_100,1,world,components,False
+2021-11-01,CPU prices,search_interest_0_100,0,world,components,False
+2021-12-01,CPU prices,search_interest_0_100,0,world,components,False
+2022-01-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-04-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-05-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-07-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-08-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-09-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-10-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-11-01,CPU prices,search_interest_0_100,1,world,components,False
+2022-12-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-01-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-04-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-05-01,CPU prices,search_interest_0_100,0,world,components,False
+2023-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-07-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-08-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-09-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-10-01,CPU prices,search_interest_0_100,1,world,components,False
+2023-11-01,CPU prices,search_interest_0_100,0,world,components,False
+2023-12-01,CPU prices,search_interest_0_100,0,world,components,False
+2024-01-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-04-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-05-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-07-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-08-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-09-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-10-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-11-01,CPU prices,search_interest_0_100,1,world,components,False
+2024-12-01,CPU prices,search_interest_0_100,1,world,components,False
+2025-01-01,CPU prices,search_interest_0_100,1,world,components,False
+2025-02-01,CPU prices,search_interest_0_100,1,world,components,False
+2025-03-01,CPU prices,search_interest_0_100,1,world,components,False
+2025-04-01,CPU prices,search_interest_0_100,1,world,components,False
+2025-05-01,CPU prices,search_interest_0_100,1,world,components,False
+2025-06-01,CPU prices,search_interest_0_100,1,world,components,False
+2025-07-01,CPU prices,search_interest_0_100,2,world,components,False
+2025-08-01,CPU prices,search_interest_0_100,12,world,components,False
+2025-09-01,CPU prices,search_interest_0_100,13,world,components,False
+2025-10-01,CPU prices,search_interest_0_100,9,world,components,False
+2025-11-01,CPU prices,search_interest_0_100,11,world,components,False
+2025-12-01,CPU prices,search_interest_0_100,18,world,components,False
+2026-01-01,CPU prices,search_interest_0_100,16,world,components,False
+2026-02-01,CPU prices,search_interest_0_100,14,world,components,False
+2026-03-01,CPU prices,search_interest_0_100,15,world,components,False
+2026-04-01,CPU prices,search_interest_0_100,13,world,components,False
+2026-05-01,CPU prices,search_interest_0_100,14,world,components,False
+2026-06-01,CPU prices,search_interest_0_100,15,world,components,False
+2026-07-01,CPU prices,search_interest_0_100,10,world,components,False
+2026-08-01,CPU prices,search_interest_0_100,7,world,components,False
+2026-09-01,CPU prices,search_interest_0_100,7,world,components,False
+2026-10-01,CPU prices,search_interest_0_100,2,world,components,True
+2016-01-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-02-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-03-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-04-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-05-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-06-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-07-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-08-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-09-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-10-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-11-01,GPU prices,search_interest_0_100,0,world,components,False
+2016-12-01,GPU prices,search_interest_0_100,0,world,components,False
+2017-01-01,GPU prices,search_interest_0_100,0,world,components,False
+2017-02-01,GPU prices,search_interest_0_100,0,world,components,False
+2017-03-01,GPU prices,search_interest_0_100,0,world,components,False
+2017-04-01,GPU prices,search_interest_0_100,0,world,components,False
+2017-05-01,GPU prices,search_interest_0_100,0,world,components,False
+2017-06-01,GPU prices,search_interest_0_100,1,world,components,False
+2017-07-01,GPU prices,search_interest_0_100,2,world,components,False
+2017-08-01,GPU prices,search_interest_0_100,1,world,components,False
+2017-09-01,GPU prices,search_interest_0_100,1,world,components,False
+2017-10-01,GPU prices,search_interest_0_100,1,world,components,False
+2017-11-01,GPU prices,search_interest_0_100,1,world,components,False
+2017-12-01,GPU prices,search_interest_0_100,1,world,components,False
+2018-01-01,GPU prices,search_interest_0_100,5,world,components,False
+2018-02-01,GPU prices,search_interest_0_100,6,world,components,False
+2018-03-01,GPU prices,search_interest_0_100,6,world,components,False
+2018-04-01,GPU prices,search_interest_0_100,5,world,components,False
+2018-05-01,GPU prices,search_interest_0_100,4,world,components,False
+2018-06-01,GPU prices,search_interest_0_100,2,world,components,False
+2018-07-01,GPU prices,search_interest_0_100,2,world,components,False
+2018-08-01,GPU prices,search_interest_0_100,2,world,components,False
+2018-09-01,GPU prices,search_interest_0_100,1,world,components,False
+2018-10-01,GPU prices,search_interest_0_100,1,world,components,False
+2018-11-01,GPU prices,search_interest_0_100,1,world,components,False
+2018-12-01,GPU prices,search_interest_0_100,1,world,components,False
+2019-01-01,GPU prices,search_interest_0_100,1,world,components,False
+2019-02-01,GPU prices,search_interest_0_100,1,world,components,False
+2019-03-01,GPU prices,search_interest_0_100,1,world,components,False
+2019-04-01,GPU prices,search_interest_0_100,0,world,components,False
+2019-05-01,GPU prices,search_interest_0_100,0,world,components,False
+2019-06-01,GPU prices,search_interest_0_100,1,world,components,False
+2019-07-01,GPU prices,search_interest_0_100,0,world,components,False
+2019-08-01,GPU prices,search_interest_0_100,0,world,components,False
+2019-09-01,GPU prices,search_interest_0_100,0,world,components,False
+2019-10-01,GPU prices,search_interest_0_100,0,world,components,False
+2019-11-01,GPU prices,search_interest_0_100,0,world,components,False
+2019-12-01,GPU prices,search_interest_0_100,0,world,components,False
+2020-01-01,GPU prices,search_interest_0_100,0,world,components,False
+2020-02-01,GPU prices,search_interest_0_100,0,world,components,False
+2020-03-01,GPU prices,search_interest_0_100,0,world,components,False
+2020-04-01,GPU prices,search_interest_0_100,1,world,components,False
+2020-05-01,GPU prices,search_interest_0_100,1,world,components,False
+2020-06-01,GPU prices,search_interest_0_100,1,world,components,False
+2020-07-01,GPU prices,search_interest_0_100,1,world,components,False
+2020-08-01,GPU prices,search_interest_0_100,1,world,components,False
+2020-09-01,GPU prices,search_interest_0_100,1,world,components,False
+2020-10-01,GPU prices,search_interest_0_100,1,world,components,False
+2020-11-01,GPU prices,search_interest_0_100,1,world,components,False
+2020-12-01,GPU prices,search_interest_0_100,1,world,components,False
+2021-01-01,GPU prices,search_interest_0_100,2,world,components,False
+2021-02-01,GPU prices,search_interest_0_100,3,world,components,False
+2021-03-01,GPU prices,search_interest_0_100,3,world,components,False
+2021-04-01,GPU prices,search_interest_0_100,3,world,components,False
+2021-05-01,GPU prices,search_interest_0_100,4,world,components,False
+2021-06-01,GPU prices,search_interest_0_100,6,world,components,False
+2021-07-01,GPU prices,search_interest_0_100,7,world,components,False
+2021-08-01,GPU prices,search_interest_0_100,5,world,components,False
+2021-09-01,GPU prices,search_interest_0_100,4,world,components,False
+2021-10-01,GPU prices,search_interest_0_100,4,world,components,False
+2021-11-01,GPU prices,search_interest_0_100,4,world,components,False
+2021-12-01,GPU prices,search_interest_0_100,4,world,components,False
+2022-01-01,GPU prices,search_interest_0_100,6,world,components,False
+2022-02-01,GPU prices,search_interest_0_100,7,world,components,False
+2022-03-01,GPU prices,search_interest_0_100,9,world,components,False
+2022-04-01,GPU prices,search_interest_0_100,7,world,components,False
+2022-05-01,GPU prices,search_interest_0_100,5,world,components,False
+2022-06-01,GPU prices,search_interest_0_100,5,world,components,False
+2022-07-01,GPU prices,search_interest_0_100,4,world,components,False
+2022-08-01,GPU prices,search_interest_0_100,3,world,components,False
+2022-09-01,GPU prices,search_interest_0_100,4,world,components,False
+2022-10-01,GPU prices,search_interest_0_100,2,world,components,False
+2022-11-01,GPU prices,search_interest_0_100,2,world,components,False
+2022-12-01,GPU prices,search_interest_0_100,2,world,components,False
+2023-01-01,GPU prices,search_interest_0_100,2,world,components,False
+2023-02-01,GPU prices,search_interest_0_100,2,world,components,False
+2023-03-01,GPU prices,search_interest_0_100,1,world,components,False
+2023-04-01,GPU prices,search_interest_0_100,1,world,components,False
+2023-05-01,GPU prices,search_interest_0_100,1,world,components,False
+2023-06-01,GPU prices,search_interest_0_100,1,world,components,False
+2023-07-01,GPU prices,search_interest_0_100,1,world,components,False
+2023-08-01,GPU prices,search_interest_0_100,1,world,components,False
+2023-09-01,GPU prices,search_interest_0_100,1,world,components,False
+2023-10-01,GPU prices,search_interest_0_100,1,world,components,False
+2023-11-01,GPU prices,search_interest_0_100,1,world,components,False
+2023-12-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-01-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-02-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-03-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-04-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-05-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-06-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-07-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-08-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-09-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-10-01,GPU prices,search_interest_0_100,1,world,components,False
+2024-11-01,GPU prices,search_interest_0_100,2,world,components,False
+2024-12-01,GPU prices,search_interest_0_100,2,world,components,False
+2025-01-01,GPU prices,search_interest_0_100,3,world,components,False
+2025-02-01,GPU prices,search_interest_0_100,2,world,components,False
+2025-03-01,GPU prices,search_interest_0_100,2,world,components,False
+2025-04-01,GPU prices,search_interest_0_100,2,world,components,False
+2025-05-01,GPU prices,search_interest_0_100,2,world,components,False
+2025-06-01,GPU prices,search_interest_0_100,2,world,components,False
+2025-07-01,GPU prices,search_interest_0_100,4,world,components,False
+2025-08-01,GPU prices,search_interest_0_100,28,world,components,False
+2025-09-01,GPU prices,search_interest_0_100,25,world,components,False
+2025-10-01,GPU prices,search_interest_0_100,19,world,components,False
+2025-11-01,GPU prices,search_interest_0_100,25,world,components,False
+2025-12-01,GPU prices,search_interest_0_100,41,world,components,False
+2026-01-01,GPU prices,search_interest_0_100,38,world,components,False
+2026-02-01,GPU prices,search_interest_0_100,28,world,components,False
+2026-03-01,GPU prices,search_interest_0_100,34,world,components,False
+2026-04-01,GPU prices,search_interest_0_100,29,world,components,False
+2026-05-01,GPU prices,search_interest_0_100,33,world,components,False
+2026-06-01,GPU prices,search_interest_0_100,36,world,components,False
+2026-07-01,GPU prices,search_interest_0_100,26,world,components,False
+2026-08-01,GPU prices,search_interest_0_100,22,world,components,False
+2026-09-01,GPU prices,search_interest_0_100,17,world,components,False
+2026-10-01,GPU prices,search_interest_0_100,4,world,components,True
+2016-01-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-02-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-03-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-04-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-05-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-06-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-07-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-08-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-09-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-10-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-11-01,GPU shortage,search_interest_0_100,0,world,components,False
+2016-12-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-01-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-02-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-03-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-04-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-05-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-06-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-07-01,GPU shortage,search_interest_0_100,1,world,components,False
+2017-08-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-09-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-10-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-11-01,GPU shortage,search_interest_0_100,0,world,components,False
+2017-12-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-01-01,GPU shortage,search_interest_0_100,1,world,components,False
+2018-02-01,GPU shortage,search_interest_0_100,1,world,components,False
+2018-03-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-04-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-05-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-06-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-07-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-08-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-09-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-10-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-11-01,GPU shortage,search_interest_0_100,0,world,components,False
+2018-12-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-01-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-02-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-03-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-04-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-05-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-06-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-07-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-08-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-09-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-10-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-11-01,GPU shortage,search_interest_0_100,0,world,components,False
+2019-12-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-01-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-02-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-03-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-04-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-05-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-06-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-07-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-08-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-09-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-10-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-11-01,GPU shortage,search_interest_0_100,0,world,components,False
+2020-12-01,GPU shortage,search_interest_0_100,1,world,components,False
+2021-01-01,GPU shortage,search_interest_0_100,1,world,components,False
+2021-02-01,GPU shortage,search_interest_0_100,2,world,components,False
+2021-03-01,GPU shortage,search_interest_0_100,4,world,components,False
+2021-04-01,GPU shortage,search_interest_0_100,4,world,components,False
+2021-05-01,GPU shortage,search_interest_0_100,4,world,components,False
+2021-06-01,GPU shortage,search_interest_0_100,4,world,components,False
+2021-07-01,GPU shortage,search_interest_0_100,3,world,components,False
+2021-08-01,GPU shortage,search_interest_0_100,2,world,components,False
+2021-09-01,GPU shortage,search_interest_0_100,2,world,components,False
+2021-10-01,GPU shortage,search_interest_0_100,2,world,components,False
+2021-11-01,GPU shortage,search_interest_0_100,2,world,components,False
+2021-12-01,GPU shortage,search_interest_0_100,2,world,components,False
+2022-01-01,GPU shortage,search_interest_0_100,2,world,components,False
+2022-02-01,GPU shortage,search_interest_0_100,2,world,components,False
+2022-03-01,GPU shortage,search_interest_0_100,1,world,components,False
+2022-04-01,GPU shortage,search_interest_0_100,1,world,components,False
+2022-05-01,GPU shortage,search_interest_0_100,0,world,components,False
+2022-06-01,GPU shortage,search_interest_0_100,0,world,components,False
+2022-07-01,GPU shortage,search_interest_0_100,0,world,components,False
+2022-08-01,GPU shortage,search_interest_0_100,0,world,components,False
+2022-09-01,GPU shortage,search_interest_0_100,0,world,components,False
+2022-10-01,GPU shortage,search_interest_0_100,0,world,components,False
+2022-11-01,GPU shortage,search_interest_0_100,0,world,components,False
+2022-12-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-01-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-02-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-03-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-04-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-05-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-06-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-07-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-08-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-09-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-10-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-11-01,GPU shortage,search_interest_0_100,0,world,components,False
+2023-12-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-01-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-02-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-03-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-04-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-05-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-06-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-07-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-08-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-09-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-10-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-11-01,GPU shortage,search_interest_0_100,0,world,components,False
+2024-12-01,GPU shortage,search_interest_0_100,0,world,components,False
+2025-01-01,GPU shortage,search_interest_0_100,0,world,components,False
+2025-02-01,GPU shortage,search_interest_0_100,1,world,components,False
+2025-03-01,GPU shortage,search_interest_0_100,1,world,components,False
+2025-04-01,GPU shortage,search_interest_0_100,0,world,components,False
+2025-05-01,GPU shortage,search_interest_0_100,0,world,components,False
+2025-06-01,GPU shortage,search_interest_0_100,0,world,components,False
+2025-07-01,GPU shortage,search_interest_0_100,0,world,components,False
+2025-08-01,GPU shortage,search_interest_0_100,3,world,components,False
+2025-09-01,GPU shortage,search_interest_0_100,2,world,components,False
+2025-10-01,GPU shortage,search_interest_0_100,3,world,components,False
+2025-11-01,GPU shortage,search_interest_0_100,4,world,components,False
+2025-12-01,GPU shortage,search_interest_0_100,5,world,components,False
+2026-01-01,GPU shortage,search_interest_0_100,4,world,components,False
+2026-02-01,GPU shortage,search_interest_0_100,3,world,components,False
+2026-03-01,GPU shortage,search_interest_0_100,7,world,components,False
+2026-04-01,GPU shortage,search_interest_0_100,6,world,components,False
+2026-05-01,GPU shortage,search_interest_0_100,6,world,components,False
+2026-06-01,GPU shortage,search_interest_0_100,7,world,components,False
+2026-07-01,GPU shortage,search_interest_0_100,4,world,components,False
+2026-08-01,GPU shortage,search_interest_0_100,3,world,components,False
+2026-09-01,GPU shortage,search_interest_0_100,2,world,components,False
+2026-10-01,GPU shortage,search_interest_0_100,0,world,components,True
+2016-01-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-02-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-03-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-04-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-05-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-06-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-07-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-08-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-09-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-10-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-11-01,RAM prices,search_interest_0_100,3,world,components,False
+2016-12-01,RAM prices,search_interest_0_100,3,world,components,False
+2017-01-01,RAM prices,search_interest_0_100,3,world,components,False
+2017-02-01,RAM prices,search_interest_0_100,3,world,components,False
+2017-03-01,RAM prices,search_interest_0_100,3,world,components,False
+2017-04-01,RAM prices,search_interest_0_100,3,world,components,False
+2017-05-01,RAM prices,search_interest_0_100,3,world,components,False
+2017-06-01,RAM prices,search_interest_0_100,3,world,components,False
+2017-07-01,RAM prices,search_interest_0_100,3,world,components,False
+2017-08-01,RAM prices,search_interest_0_100,3,world,components,False
+2017-09-01,RAM prices,search_interest_0_100,4,world,components,False
+2017-10-01,RAM prices,search_interest_0_100,4,world,components,False
+2017-11-01,RAM prices,search_interest_0_100,4,world,components,False
+2017-12-01,RAM prices,search_interest_0_100,4,world,components,False
+2018-01-01,RAM prices,search_interest_0_100,5,world,components,False
+2018-02-01,RAM prices,search_interest_0_100,5,world,components,False
+2018-03-01,RAM prices,search_interest_0_100,4,world,components,False
+2018-04-01,RAM prices,search_interest_0_100,4,world,components,False
+2018-05-01,RAM prices,search_interest_0_100,5,world,components,False
+2018-06-01,RAM prices,search_interest_0_100,4,world,components,False
+2018-07-01,RAM prices,search_interest_0_100,4,world,components,False
+2018-08-01,RAM prices,search_interest_0_100,4,world,components,False
+2018-09-01,RAM prices,search_interest_0_100,4,world,components,False
+2018-10-01,RAM prices,search_interest_0_100,4,world,components,False
+2018-11-01,RAM prices,search_interest_0_100,3,world,components,False
+2018-12-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-01-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-02-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-03-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-04-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-05-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-06-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-07-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-08-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-09-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-10-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-11-01,RAM prices,search_interest_0_100,3,world,components,False
+2019-12-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-01-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-02-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-03-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-04-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-05-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-06-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-07-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-08-01,RAM prices,search_interest_0_100,4,world,components,False
+2020-09-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-10-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-11-01,RAM prices,search_interest_0_100,3,world,components,False
+2020-12-01,RAM prices,search_interest_0_100,2,world,components,False
+2021-01-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-02-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-03-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-04-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-05-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-06-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-07-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-08-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-09-01,RAM prices,search_interest_0_100,2,world,components,False
+2021-10-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-11-01,RAM prices,search_interest_0_100,3,world,components,False
+2021-12-01,RAM prices,search_interest_0_100,2,world,components,False
+2022-01-01,RAM prices,search_interest_0_100,3,world,components,False
+2022-02-01,RAM prices,search_interest_0_100,3,world,components,False
+2022-03-01,RAM prices,search_interest_0_100,4,world,components,False
+2022-04-01,RAM prices,search_interest_0_100,3,world,components,False
+2022-05-01,RAM prices,search_interest_0_100,3,world,components,False
+2022-06-01,RAM prices,search_interest_0_100,3,world,components,False
+2022-07-01,RAM prices,search_interest_0_100,3,world,components,False
+2022-08-01,RAM prices,search_interest_0_100,3,world,components,False
+2022-09-01,RAM prices,search_interest_0_100,3,world,components,False
+2022-10-01,RAM prices,search_interest_0_100,3,world,components,False
+2022-11-01,RAM prices,search_interest_0_100,2,world,components,False
+2022-12-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-01-01,RAM prices,search_interest_0_100,3,world,components,False
+2023-02-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-03-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-04-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-05-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-06-01,RAM prices,search_interest_0_100,3,world,components,False
+2023-07-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-08-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-09-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-10-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-11-01,RAM prices,search_interest_0_100,2,world,components,False
+2023-12-01,RAM prices,search_interest_0_100,2,world,components,False
+2024-01-01,RAM prices,search_interest_0_100,3,world,components,False
+2024-02-01,RAM prices,search_interest_0_100,3,world,components,False
+2024-03-01,RAM prices,search_interest_0_100,2,world,components,False
+2024-04-01,RAM prices,search_interest_0_100,2,world,components,False
+2024-05-01,RAM prices,search_interest_0_100,2,world,components,False
+2024-06-01,RAM prices,search_interest_0_100,2,world,components,False
+2024-07-01,RAM prices,search_interest_0_100,2,world,components,False
+2024-08-01,RAM prices,search_interest_0_100,3,world,components,False
+2024-09-01,RAM prices,search_interest_0_100,2,world,components,False
+2024-10-01,RAM prices,search_interest_0_100,2,world,components,False
+2024-11-01,RAM prices,search_interest_0_100,2,world,components,False
+2024-12-01,RAM prices,search_interest_0_100,2,world,components,False
+2025-01-01,RAM prices,search_interest_0_100,3,world,components,False
+2025-02-01,RAM prices,search_interest_0_100,3,world,components,False
+2025-03-01,RAM prices,search_interest_0_100,3,world,components,False
+2025-04-01,RAM prices,search_interest_0_100,3,world,components,False
+2025-05-01,RAM prices,search_interest_0_100,3,world,components,False
+2025-06-01,RAM prices,search_interest_0_100,3,world,components,False
+2025-07-01,RAM prices,search_interest_0_100,6,world,components,False
+2025-08-01,RAM prices,search_interest_0_100,27,world,components,False
+2025-09-01,RAM prices,search_interest_0_100,30,world,components,False
+2025-10-01,RAM prices,search_interest_0_100,19,world,components,False
+2025-11-01,RAM prices,search_interest_0_100,39,world,components,False
+2025-12-01,RAM prices,search_interest_0_100,100,world,components,False
+2026-01-01,RAM prices,search_interest_0_100,63,world,components,False
+2026-02-01,RAM prices,search_interest_0_100,53,world,components,False
+2026-03-01,RAM prices,search_interest_0_100,59,world,components,False
+2026-04-01,RAM prices,search_interest_0_100,65,world,components,False
+2026-05-01,RAM prices,search_interest_0_100,56,world,components,False
+2026-06-01,RAM prices,search_interest_0_100,55,world,components,False
+2026-07-01,RAM prices,search_interest_0_100,43,world,components,False
+2026-08-01,RAM prices,search_interest_0_100,44,world,components,False
+2026-09-01,RAM prices,search_interest_0_100,40,world,components,False
+2026-10-01,RAM prices,search_interest_0_100,17,world,components,True
+2016-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-02-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-06-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-07-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-08-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-09-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-10-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-11-01,SSD prices,search_interest_0_100,1,world,components,False
+2016-12-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-02-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-06-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-07-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-08-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-09-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-10-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-11-01,SSD prices,search_interest_0_100,1,world,components,False
+2017-12-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-02-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-06-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-07-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-08-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-09-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-10-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-11-01,SSD prices,search_interest_0_100,1,world,components,False
+2018-12-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-02-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-06-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-07-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-08-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-09-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-10-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-11-01,SSD prices,search_interest_0_100,1,world,components,False
+2019-12-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-02-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-06-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-07-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-08-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-09-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-10-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-11-01,SSD prices,search_interest_0_100,1,world,components,False
+2020-12-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-02-01,SSD prices,search_interest_0_100,0,world,components,False
+2021-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-06-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-07-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-08-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-09-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-10-01,SSD prices,search_interest_0_100,1,world,components,False
+2021-11-01,SSD prices,search_interest_0_100,0,world,components,False
+2021-12-01,SSD prices,search_interest_0_100,0,world,components,False
+2022-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-02-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-06-01,SSD prices,search_interest_0_100,0,world,components,False
+2022-07-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-08-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-09-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-10-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-11-01,SSD prices,search_interest_0_100,1,world,components,False
+2022-12-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-02-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-06-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-07-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-08-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-09-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-10-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-11-01,SSD prices,search_interest_0_100,1,world,components,False
+2023-12-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-02-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-06-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-07-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-08-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-09-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-10-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-11-01,SSD prices,search_interest_0_100,1,world,components,False
+2024-12-01,SSD prices,search_interest_0_100,1,world,components,False
+2025-01-01,SSD prices,search_interest_0_100,1,world,components,False
+2025-02-01,SSD prices,search_interest_0_100,1,world,components,False
+2025-03-01,SSD prices,search_interest_0_100,1,world,components,False
+2025-04-01,SSD prices,search_interest_0_100,1,world,components,False
+2025-05-01,SSD prices,search_interest_0_100,1,world,components,False
+2025-06-01,SSD prices,search_interest_0_100,1,world,components,False
+2025-07-01,SSD prices,search_interest_0_100,3,world,components,False
+2025-08-01,SSD prices,search_interest_0_100,20,world,components,False
+2025-09-01,SSD prices,search_interest_0_100,24,world,components,False
+2025-10-01,SSD prices,search_interest_0_100,14,world,components,False
+2025-11-01,SSD prices,search_interest_0_100,16,world,components,False
+2025-12-01,SSD prices,search_interest_0_100,28,world,components,False
+2026-01-01,SSD prices,search_interest_0_100,23,world,components,False
+2026-02-01,SSD prices,search_interest_0_100,21,world,components,False
+2026-03-01,SSD prices,search_interest_0_100,23,world,components,False
+2026-04-01,SSD prices,search_interest_0_100,21,world,components,False
+2026-05-01,SSD prices,search_interest_0_100,24,world,components,False
+2026-06-01,SSD prices,search_interest_0_100,28,world,components,False
+2026-07-01,SSD prices,search_interest_0_100,23,world,components,False
+2026-08-01,SSD prices,search_interest_0_100,20,world,components,False
+2026-09-01,SSD prices,search_interest_0_100,16,world,components,False
+2026-10-01,SSD prices,search_interest_0_100,4,world,components,True
+2016-01-01,DDR4,search_interest_0_100,5,US,memory,False
+2016-02-01,DDR4,search_interest_0_100,5,US,memory,False
+2016-03-01,DDR4,search_interest_0_100,5,US,memory,False
+2016-04-01,DDR4,search_interest_0_100,5,US,memory,False
+2016-05-01,DDR4,search_interest_0_100,5,US,memory,False
+2016-06-01,DDR4,search_interest_0_100,6,US,memory,False
+2016-07-01,DDR4,search_interest_0_100,6,US,memory,False
+2016-08-01,DDR4,search_interest_0_100,5,US,memory,False
+2016-09-01,DDR4,search_interest_0_100,5,US,memory,False
+2016-10-01,DDR4,search_interest_0_100,5,US,memory,False
+2016-11-01,DDR4,search_interest_0_100,7,US,memory,False
+2016-12-01,DDR4,search_interest_0_100,7,US,memory,False
+2017-01-01,DDR4,search_interest_0_100,7,US,memory,False
+2017-02-01,DDR4,search_interest_0_100,7,US,memory,False
+2017-03-01,DDR4,search_interest_0_100,7,US,memory,False
+2017-04-01,DDR4,search_interest_0_100,8,US,memory,False
+2017-05-01,DDR4,search_interest_0_100,7,US,memory,False
+2017-06-01,DDR4,search_interest_0_100,7,US,memory,False
+2017-07-01,DDR4,search_interest_0_100,7,US,memory,False
+2017-08-01,DDR4,search_interest_0_100,7,US,memory,False
+2017-09-01,DDR4,search_interest_0_100,6,US,memory,False
+2017-10-01,DDR4,search_interest_0_100,7,US,memory,False
+2017-11-01,DDR4,search_interest_0_100,10,US,memory,False
+2017-12-01,DDR4,search_interest_0_100,9,US,memory,False
+2018-01-01,DDR4,search_interest_0_100,8,US,memory,False
+2018-02-01,DDR4,search_interest_0_100,8,US,memory,False
+2018-03-01,DDR4,search_interest_0_100,9,US,memory,False
+2018-04-01,DDR4,search_interest_0_100,7,US,memory,False
+2018-05-01,DDR4,search_interest_0_100,7,US,memory,False
+2018-06-01,DDR4,search_interest_0_100,8,US,memory,False
+2018-07-01,DDR4,search_interest_0_100,9,US,memory,False
+2018-08-01,DDR4,search_interest_0_100,8,US,memory,False
+2018-09-01,DDR4,search_interest_0_100,7,US,memory,False
+2018-10-01,DDR4,search_interest_0_100,7,US,memory,False
+2018-11-01,DDR4,search_interest_0_100,11,US,memory,False
+2018-12-01,DDR4,search_interest_0_100,9,US,memory,False
+2019-01-01,DDR4,search_interest_0_100,8,US,memory,False
+2019-02-01,DDR4,search_interest_0_100,8,US,memory,False
+2019-03-01,DDR4,search_interest_0_100,7,US,memory,False
+2019-04-01,DDR4,search_interest_0_100,7,US,memory,False
+2019-05-01,DDR4,search_interest_0_100,7,US,memory,False
+2019-06-01,DDR4,search_interest_0_100,7,US,memory,False
+2019-07-01,DDR4,search_interest_0_100,8,US,memory,False
+2019-08-01,DDR4,search_interest_0_100,7,US,memory,False
+2019-09-01,DDR4,search_interest_0_100,7,US,memory,False
+2019-10-01,DDR4,search_interest_0_100,7,US,memory,False
+2019-11-01,DDR4,search_interest_0_100,8,US,memory,False
+2019-12-01,DDR4,search_interest_0_100,10,US,memory,False
+2020-01-01,DDR4,search_interest_0_100,8,US,memory,False
+2020-02-01,DDR4,search_interest_0_100,8,US,memory,False
+2020-03-01,DDR4,search_interest_0_100,8,US,memory,False
+2020-04-01,DDR4,search_interest_0_100,11,US,memory,False
+2020-05-01,DDR4,search_interest_0_100,12,US,memory,False
+2020-06-01,DDR4,search_interest_0_100,10,US,memory,False
+2020-07-01,DDR4,search_interest_0_100,10,US,memory,False
+2020-08-01,DDR4,search_interest_0_100,10,US,memory,False
+2020-09-01,DDR4,search_interest_0_100,9,US,memory,False
+2020-10-01,DDR4,search_interest_0_100,8,US,memory,False
+2020-11-01,DDR4,search_interest_0_100,10,US,memory,False
+2020-12-01,DDR4,search_interest_0_100,12,US,memory,False
+2021-01-01,DDR4,search_interest_0_100,10,US,memory,False
+2021-02-01,DDR4,search_interest_0_100,8,US,memory,False
+2021-03-01,DDR4,search_interest_0_100,8,US,memory,False
+2021-04-01,DDR4,search_interest_0_100,7,US,memory,False
+2021-05-01,DDR4,search_interest_0_100,7,US,memory,False
+2021-06-01,DDR4,search_interest_0_100,7,US,memory,False
+2021-07-01,DDR4,search_interest_0_100,7,US,memory,False
+2021-08-01,DDR4,search_interest_0_100,6,US,memory,False
+2021-09-01,DDR4,search_interest_0_100,7,US,memory,False
+2021-10-01,DDR4,search_interest_0_100,6,US,memory,False
+2021-11-01,DDR4,search_interest_0_100,9,US,memory,False
+2021-12-01,DDR4,search_interest_0_100,9,US,memory,False
+2022-01-01,DDR4,search_interest_0_100,10,US,memory,False
+2022-02-01,DDR4,search_interest_0_100,12,US,memory,False
+2022-03-01,DDR4,search_interest_0_100,11,US,memory,False
+2022-04-01,DDR4,search_interest_0_100,10,US,memory,False
+2022-05-01,DDR4,search_interest_0_100,8,US,memory,False
+2022-06-01,DDR4,search_interest_0_100,8,US,memory,False
+2022-07-01,DDR4,search_interest_0_100,10,US,memory,False
+2022-08-01,DDR4,search_interest_0_100,9,US,memory,False
+2022-09-01,DDR4,search_interest_0_100,9,US,memory,False
+2022-10-01,DDR4,search_interest_0_100,10,US,memory,False
+2022-11-01,DDR4,search_interest_0_100,13,US,memory,False
+2022-12-01,DDR4,search_interest_0_100,13,US,memory,False
+2023-01-01,DDR4,search_interest_0_100,11,US,memory,False
+2023-02-01,DDR4,search_interest_0_100,12,US,memory,False
+2023-03-01,DDR4,search_interest_0_100,10,US,memory,False
+2023-04-01,DDR4,search_interest_0_100,9,US,memory,False
+2023-05-01,DDR4,search_interest_0_100,8,US,memory,False
+2023-06-01,DDR4,search_interest_0_100,8,US,memory,False
+2023-07-01,DDR4,search_interest_0_100,10,US,memory,False
+2023-08-01,DDR4,search_interest_0_100,9,US,memory,False
+2023-09-01,DDR4,search_interest_0_100,9,US,memory,False
+2023-10-01,DDR4,search_interest_0_100,9,US,memory,False
+2023-11-01,DDR4,search_interest_0_100,13,US,memory,False
+2023-12-01,DDR4,search_interest_0_100,13,US,memory,False
+2024-01-01,DDR4,search_interest_0_100,11,US,memory,False
+2024-02-01,DDR4,search_interest_0_100,10,US,memory,False
+2024-03-01,DDR4,search_interest_0_100,10,US,memory,False
+2024-04-01,DDR4,search_interest_0_100,8,US,memory,False
+2024-05-01,DDR4,search_interest_0_100,8,US,memory,False
+2024-06-01,DDR4,search_interest_0_100,9,US,memory,False
+2024-07-01,DDR4,search_interest_0_100,9,US,memory,False
+2024-08-01,DDR4,search_interest_0_100,9,US,memory,False
+2024-09-01,DDR4,search_interest_0_100,9,US,memory,False
+2024-10-01,DDR4,search_interest_0_100,9,US,memory,False
+2024-11-01,DDR4,search_interest_0_100,12,US,memory,False
+2024-12-01,DDR4,search_interest_0_100,15,US,memory,False
+2025-01-01,DDR4,search_interest_0_100,12,US,memory,False
+2025-02-01,DDR4,search_interest_0_100,11,US,memory,False
+2025-03-01,DDR4,search_interest_0_100,11,US,memory,False
+2025-04-01,DDR4,search_interest_0_100,9,US,memory,False
+2025-05-01,DDR4,search_interest_0_100,10,US,memory,False
+2025-06-01,DDR4,search_interest_0_100,11,US,memory,False
+2025-07-01,DDR4,search_interest_0_100,20,US,memory,False
+2025-08-01,DDR4,search_interest_0_100,14,US,memory,False
+2025-09-01,DDR4,search_interest_0_100,12,US,memory,False
+2025-10-01,DDR4,search_interest_0_100,13,US,memory,False
+2025-11-01,DDR4,search_interest_0_100,26,US,memory,False
+2025-12-01,DDR4,search_interest_0_100,43,US,memory,False
+2026-01-01,DDR4,search_interest_0_100,33,US,memory,False
+2026-02-01,DDR4,search_interest_0_100,29,US,memory,False
+2026-03-01,DDR4,search_interest_0_100,34,US,memory,False
+2026-04-01,DDR4,search_interest_0_100,86,US,memory,False
+2026-05-01,DDR4,search_interest_0_100,61,US,memory,False
+2026-06-01,DDR4,search_interest_0_100,63,US,memory,False
+2026-07-01,DDR4,search_interest_0_100,28,US,memory,False
+2026-08-01,DDR4,search_interest_0_100,23,US,memory,False
+2026-09-01,DDR4,search_interest_0_100,21,US,memory,False
+2026-10-01,DDR4,search_interest_0_100,19,US,memory,True
+2016-01-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-02-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-03-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-04-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-05-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-06-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-07-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-08-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-09-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-10-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-11-01,DDR5,search_interest_0_100,1,US,memory,False
+2016-12-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-01-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-02-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-03-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-04-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-05-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-06-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-07-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-08-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-09-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-10-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-11-01,DDR5,search_interest_0_100,1,US,memory,False
+2017-12-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-01-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-02-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-03-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-04-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-05-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-06-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-07-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-08-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-09-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-10-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-11-01,DDR5,search_interest_0_100,1,US,memory,False
+2018-12-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-01-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-02-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-03-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-04-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-05-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-06-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-07-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-08-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-09-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-10-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-11-01,DDR5,search_interest_0_100,1,US,memory,False
+2019-12-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-01-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-02-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-03-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-04-01,DDR5,search_interest_0_100,2,US,memory,False
+2020-05-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-06-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-07-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-08-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-09-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-10-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-11-01,DDR5,search_interest_0_100,1,US,memory,False
+2020-12-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-01-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-02-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-03-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-04-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-05-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-06-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-07-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-08-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-09-01,DDR5,search_interest_0_100,1,US,memory,False
+2021-10-01,DDR5,search_interest_0_100,3,US,memory,False
+2021-11-01,DDR5,search_interest_0_100,6,US,memory,False
+2021-12-01,DDR5,search_interest_0_100,6,US,memory,False
+2022-01-01,DDR5,search_interest_0_100,5,US,memory,False
+2022-02-01,DDR5,search_interest_0_100,5,US,memory,False
+2022-03-01,DDR5,search_interest_0_100,5,US,memory,False
+2022-04-01,DDR5,search_interest_0_100,5,US,memory,False
+2022-05-01,DDR5,search_interest_0_100,4,US,memory,False
+2022-06-01,DDR5,search_interest_0_100,4,US,memory,False
+2022-07-01,DDR5,search_interest_0_100,5,US,memory,False
+2022-08-01,DDR5,search_interest_0_100,5,US,memory,False
+2022-09-01,DDR5,search_interest_0_100,6,US,memory,False
+2022-10-01,DDR5,search_interest_0_100,7,US,memory,False
+2022-11-01,DDR5,search_interest_0_100,9,US,memory,False
+2022-12-01,DDR5,search_interest_0_100,8,US,memory,False
+2023-01-01,DDR5,search_interest_0_100,8,US,memory,False
+2023-02-01,DDR5,search_interest_0_100,8,US,memory,False
+2023-03-01,DDR5,search_interest_0_100,8,US,memory,False
+2023-04-01,DDR5,search_interest_0_100,7,US,memory,False
+2023-05-01,DDR5,search_interest_0_100,6,US,memory,False
+2023-06-01,DDR5,search_interest_0_100,7,US,memory,False
+2023-07-01,DDR5,search_interest_0_100,8,US,memory,False
+2023-08-01,DDR5,search_interest_0_100,7,US,memory,False
+2023-09-01,DDR5,search_interest_0_100,8,US,memory,False
+2023-10-01,DDR5,search_interest_0_100,8,US,memory,False
+2023-11-01,DDR5,search_interest_0_100,13,US,memory,False
+2023-12-01,DDR5,search_interest_0_100,12,US,memory,False
+2024-01-01,DDR5,search_interest_0_100,10,US,memory,False
+2024-02-01,DDR5,search_interest_0_100,10,US,memory,False
+2024-03-01,DDR5,search_interest_0_100,9,US,memory,False
+2024-04-01,DDR5,search_interest_0_100,8,US,memory,False
+2024-05-01,DDR5,search_interest_0_100,8,US,memory,False
+2024-06-01,DDR5,search_interest_0_100,8,US,memory,False
+2024-07-01,DDR5,search_interest_0_100,10,US,memory,False
+2024-08-01,DDR5,search_interest_0_100,9,US,memory,False
+2024-09-01,DDR5,search_interest_0_100,9,US,memory,False
+2024-10-01,DDR5,search_interest_0_100,9,US,memory,False
+2024-11-01,DDR5,search_interest_0_100,16,US,memory,False
+2024-12-01,DDR5,search_interest_0_100,18,US,memory,False
+2025-01-01,DDR5,search_interest_0_100,15,US,memory,False
+2025-02-01,DDR5,search_interest_0_100,14,US,memory,False
+2025-03-01,DDR5,search_interest_0_100,13,US,memory,False
+2025-04-01,DDR5,search_interest_0_100,11,US,memory,False
+2025-05-01,DDR5,search_interest_0_100,11,US,memory,False
+2025-06-01,DDR5,search_interest_0_100,12,US,memory,False
+2025-07-01,DDR5,search_interest_0_100,20,US,memory,False
+2025-08-01,DDR5,search_interest_0_100,16,US,memory,False
+2025-09-01,DDR5,search_interest_0_100,13,US,memory,False
+2025-10-01,DDR5,search_interest_0_100,15,US,memory,False
+2025-11-01,DDR5,search_interest_0_100,47,US,memory,False
+2025-12-01,DDR5,search_interest_0_100,72,US,memory,False
+2026-01-01,DDR5,search_interest_0_100,43,US,memory,False
+2026-02-01,DDR5,search_interest_0_100,100,US,memory,False
+2026-03-01,DDR5,search_interest_0_100,46,US,memory,False
+2026-04-01,DDR5,search_interest_0_100,98,US,memory,False
+2026-05-01,DDR5,search_interest_0_100,84,US,memory,False
+2026-06-01,DDR5,search_interest_0_100,92,US,memory,False
+2026-07-01,DDR5,search_interest_0_100,42,US,memory,False
+2026-08-01,DDR5,search_interest_0_100,35,US,memory,False
+2026-09-01,DDR5,search_interest_0_100,29,US,memory,False
+2026-10-01,DDR5,search_interest_0_100,34,US,memory,True
+2016-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-04-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-07-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-09-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-11-01,RAM prices,search_interest_0_100,1,US,memory,False
+2016-12-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-04-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-07-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-09-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-11-01,RAM prices,search_interest_0_100,1,US,memory,False
+2017-12-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-04-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-07-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-09-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-11-01,RAM prices,search_interest_0_100,1,US,memory,False
+2018-12-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-04-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-07-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-09-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-11-01,RAM prices,search_interest_0_100,1,US,memory,False
+2019-12-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-04-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-07-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-09-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-11-01,RAM prices,search_interest_0_100,1,US,memory,False
+2020-12-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-04-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-07-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-09-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-11-01,RAM prices,search_interest_0_100,1,US,memory,False
+2021-12-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-04-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-07-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-09-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-11-01,RAM prices,search_interest_0_100,1,US,memory,False
+2022-12-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-04-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-07-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-09-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-11-01,RAM prices,search_interest_0_100,1,US,memory,False
+2023-12-01,RAM prices,search_interest_0_100,1,US,memory,False
+2024-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2024-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2024-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2024-04-01,RAM prices,search_interest_0_100,0,US,memory,False
+2024-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2024-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2024-07-01,RAM prices,search_interest_0_100,0,US,memory,False
+2024-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2024-09-01,RAM prices,search_interest_0_100,0,US,memory,False
+2024-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2024-11-01,RAM prices,search_interest_0_100,1,US,memory,False
+2024-12-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-01-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-02-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-03-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-04-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-05-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-06-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-07-01,RAM prices,search_interest_0_100,2,US,memory,False
+2025-08-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-09-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-10-01,RAM prices,search_interest_0_100,1,US,memory,False
+2025-11-01,RAM prices,search_interest_0_100,6,US,memory,False
+2025-12-01,RAM prices,search_interest_0_100,17,US,memory,False
+2026-01-01,RAM prices,search_interest_0_100,10,US,memory,False
+2026-02-01,RAM prices,search_interest_0_100,10,US,memory,False
+2026-03-01,RAM prices,search_interest_0_100,11,US,memory,False
+2026-04-01,RAM prices,search_interest_0_100,9,US,memory,False
+2026-05-01,RAM prices,search_interest_0_100,7,US,memory,False
+2026-06-01,RAM prices,search_interest_0_100,8,US,memory,False
+2026-07-01,RAM prices,search_interest_0_100,6,US,memory,False
+2026-08-01,RAM prices,search_interest_0_100,5,US,memory,False
+2026-09-01,RAM prices,search_interest_0_100,4,US,memory,False
+2026-10-01,RAM prices,search_interest_0_100,3,US,memory,True
+2016-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-11-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2016-12-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-11-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2017-12-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-11-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2018-12-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-11-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2019-12-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-11-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2020-12-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-11-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2021-12-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-11-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2022-12-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-11-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2023-12-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-11-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2024-12-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-01-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-02-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-03-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-04-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-05-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-06-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-07-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-08-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-10-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2025-11-01,RAM shortage,search_interest_0_100,1,US,memory,False
+2025-12-01,RAM shortage,search_interest_0_100,3,US,memory,False
+2026-01-01,RAM shortage,search_interest_0_100,2,US,memory,False
+2026-02-01,RAM shortage,search_interest_0_100,2,US,memory,False
+2026-03-01,RAM shortage,search_interest_0_100,2,US,memory,False
+2026-04-01,RAM shortage,search_interest_0_100,1,US,memory,False
+2026-05-01,RAM shortage,search_interest_0_100,1,US,memory,False
+2026-06-01,RAM shortage,search_interest_0_100,1,US,memory,False
+2026-07-01,RAM shortage,search_interest_0_100,1,US,memory,False
+2026-08-01,RAM shortage,search_interest_0_100,1,US,memory,False
+2026-09-01,RAM shortage,search_interest_0_100,0,US,memory,False
+2026-10-01,RAM shortage,search_interest_0_100,0,US,memory,True
+2016-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-06-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-07-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-08-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-09-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-10-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-11-01,memory prices,search_interest_0_100,0,US,memory,False
+2016-12-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-06-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-07-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-08-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-09-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-10-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-11-01,memory prices,search_interest_0_100,0,US,memory,False
+2017-12-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-06-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-07-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-08-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-09-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-10-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-11-01,memory prices,search_interest_0_100,0,US,memory,False
+2018-12-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-06-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-07-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-08-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-09-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-10-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-11-01,memory prices,search_interest_0_100,0,US,memory,False
+2019-12-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-06-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-07-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-08-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-09-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-10-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-11-01,memory prices,search_interest_0_100,0,US,memory,False
+2020-12-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-06-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-07-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-08-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-09-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-10-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-11-01,memory prices,search_interest_0_100,0,US,memory,False
+2021-12-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-06-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-07-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-08-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-09-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-10-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-11-01,memory prices,search_interest_0_100,0,US,memory,False
+2022-12-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-06-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-07-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-08-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-09-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-10-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-11-01,memory prices,search_interest_0_100,0,US,memory,False
+2023-12-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-06-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-07-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-08-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-09-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-10-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-11-01,memory prices,search_interest_0_100,0,US,memory,False
+2024-12-01,memory prices,search_interest_0_100,0,US,memory,False
+2025-01-01,memory prices,search_interest_0_100,0,US,memory,False
+2025-02-01,memory prices,search_interest_0_100,0,US,memory,False
+2025-03-01,memory prices,search_interest_0_100,0,US,memory,False
+2025-04-01,memory prices,search_interest_0_100,0,US,memory,False
+2025-05-01,memory prices,search_interest_0_100,0,US,memory,False
+2025-06-01,memory prices,search_interest_0_100,1,US,memory,False
+2025-07-01,memory prices,search_interest_0_100,2,US,memory,False
+2025-08-01,memory prices,search_interest_0_100,1,US,memory,False
+2025-09-01,memory prices,search_interest_0_100,1,US,memory,False
+2025-10-01,memory prices,search_interest_0_100,1,US,memory,False
+2025-11-01,memory prices,search_interest_0_100,3,US,memory,False
+2025-12-01,memory prices,search_interest_0_100,6,US,memory,False
+2026-01-01,memory prices,search_interest_0_100,6,US,memory,False
+2026-02-01,memory prices,search_interest_0_100,6,US,memory,False
+2026-03-01,memory prices,search_interest_0_100,8,US,memory,False
+2026-04-01,memory prices,search_interest_0_100,7,US,memory,False
+2026-05-01,memory prices,search_interest_0_100,8,US,memory,False
+2026-06-01,memory prices,search_interest_0_100,12,US,memory,False
+2026-07-01,memory prices,search_interest_0_100,9,US,memory,False
+2026-08-01,memory prices,search_interest_0_100,3,US,memory,False
+2026-09-01,memory prices,search_interest_0_100,2,US,memory,False
+2026-10-01,memory prices,search_interest_0_100,1,US,memory,True
+2016-01-01,DDR4,search_interest_0_100,7,world,memory,False
+2016-02-01,DDR4,search_interest_0_100,8,world,memory,False
+2016-03-01,DDR4,search_interest_0_100,8,world,memory,False
+2016-04-01,DDR4,search_interest_0_100,8,world,memory,False
+2016-05-01,DDR4,search_interest_0_100,8,world,memory,False
+2016-06-01,DDR4,search_interest_0_100,9,world,memory,False
+2016-07-01,DDR4,search_interest_0_100,9,world,memory,False
+2016-08-01,DDR4,search_interest_0_100,9,world,memory,False
+2016-09-01,DDR4,search_interest_0_100,10,world,memory,False
+2016-10-01,DDR4,search_interest_0_100,10,world,memory,False
+2016-11-01,DDR4,search_interest_0_100,11,world,memory,False
+2016-12-01,DDR4,search_interest_0_100,12,world,memory,False
+2017-01-01,DDR4,search_interest_0_100,12,world,memory,False
+2017-02-01,DDR4,search_interest_0_100,12,world,memory,False
+2017-03-01,DDR4,search_interest_0_100,13,world,memory,False
+2017-04-01,DDR4,search_interest_0_100,13,world,memory,False
+2017-05-01,DDR4,search_interest_0_100,11,world,memory,False
+2017-06-01,DDR4,search_interest_0_100,12,world,memory,False
+2017-07-01,DDR4,search_interest_0_100,12,world,memory,False
+2017-08-01,DDR4,search_interest_0_100,13,world,memory,False
+2017-09-01,DDR4,search_interest_0_100,12,world,memory,False
+2017-10-01,DDR4,search_interest_0_100,14,world,memory,False
+2017-11-01,DDR4,search_interest_0_100,18,world,memory,False
+2017-12-01,DDR4,search_interest_0_100,18,world,memory,False
+2018-01-01,DDR4,search_interest_0_100,17,world,memory,False
+2018-02-01,DDR4,search_interest_0_100,16,world,memory,False
+2018-03-01,DDR4,search_interest_0_100,15,world,memory,False
+2018-04-01,DDR4,search_interest_0_100,14,world,memory,False
+2018-05-01,DDR4,search_interest_0_100,14,world,memory,False
+2018-06-01,DDR4,search_interest_0_100,14,world,memory,False
+2018-07-01,DDR4,search_interest_0_100,15,world,memory,False
+2018-08-01,DDR4,search_interest_0_100,15,world,memory,False
+2018-09-01,DDR4,search_interest_0_100,15,world,memory,False
+2018-10-01,DDR4,search_interest_0_100,15,world,memory,False
+2018-11-01,DDR4,search_interest_0_100,19,world,memory,False
+2018-12-01,DDR4,search_interest_0_100,17,world,memory,False
+2019-01-01,DDR4,search_interest_0_100,17,world,memory,False
+2019-02-01,DDR4,search_interest_0_100,17,world,memory,False
+2019-03-01,DDR4,search_interest_0_100,16,world,memory,False
+2019-04-01,DDR4,search_interest_0_100,14,world,memory,False
+2019-05-01,DDR4,search_interest_0_100,14,world,memory,False
+2019-06-01,DDR4,search_interest_0_100,15,world,memory,False
+2019-07-01,DDR4,search_interest_0_100,17,world,memory,False
+2019-08-01,DDR4,search_interest_0_100,16,world,memory,False
+2019-09-01,DDR4,search_interest_0_100,16,world,memory,False
+2019-10-01,DDR4,search_interest_0_100,15,world,memory,False
+2019-11-01,DDR4,search_interest_0_100,18,world,memory,False
+2019-12-01,DDR4,search_interest_0_100,19,world,memory,False
+2020-01-01,DDR4,search_interest_0_100,18,world,memory,False
+2020-02-01,DDR4,search_interest_0_100,17,world,memory,False
+2020-03-01,DDR4,search_interest_0_100,16,world,memory,False
+2020-04-01,DDR4,search_interest_0_100,22,world,memory,False
+2020-05-01,DDR4,search_interest_0_100,24,world,memory,False
+2020-06-01,DDR4,search_interest_0_100,24,world,memory,False
+2020-07-01,DDR4,search_interest_0_100,23,world,memory,False
+2020-08-01,DDR4,search_interest_0_100,22,world,memory,False
+2020-09-01,DDR4,search_interest_0_100,22,world,memory,False
+2020-10-01,DDR4,search_interest_0_100,21,world,memory,False
+2020-11-01,DDR4,search_interest_0_100,23,world,memory,False
+2020-12-01,DDR4,search_interest_0_100,22,world,memory,False
+2021-01-01,DDR4,search_interest_0_100,21,world,memory,False
+2021-02-01,DDR4,search_interest_0_100,20,world,memory,False
+2021-03-01,DDR4,search_interest_0_100,20,world,memory,False
+2021-04-01,DDR4,search_interest_0_100,18,world,memory,False
+2021-05-01,DDR4,search_interest_0_100,18,world,memory,False
+2021-06-01,DDR4,search_interest_0_100,19,world,memory,False
+2021-07-01,DDR4,search_interest_0_100,18,world,memory,False
+2021-08-01,DDR4,search_interest_0_100,18,world,memory,False
+2021-09-01,DDR4,search_interest_0_100,16,world,memory,False
+2021-10-01,DDR4,search_interest_0_100,17,world,memory,False
+2021-11-01,DDR4,search_interest_0_100,20,world,memory,False
+2021-12-01,DDR4,search_interest_0_100,19,world,memory,False
+2022-01-01,DDR4,search_interest_0_100,27,world,memory,False
+2022-02-01,DDR4,search_interest_0_100,28,world,memory,False
+2022-03-01,DDR4,search_interest_0_100,27,world,memory,False
+2022-04-01,DDR4,search_interest_0_100,24,world,memory,False
+2022-05-01,DDR4,search_interest_0_100,22,world,memory,False
+2022-06-01,DDR4,search_interest_0_100,22,world,memory,False
+2022-07-01,DDR4,search_interest_0_100,24,world,memory,False
+2022-08-01,DDR4,search_interest_0_100,22,world,memory,False
+2022-09-01,DDR4,search_interest_0_100,23,world,memory,False
+2022-10-01,DDR4,search_interest_0_100,23,world,memory,False
+2022-11-01,DDR4,search_interest_0_100,27,world,memory,False
+2022-12-01,DDR4,search_interest_0_100,27,world,memory,False
+2023-01-01,DDR4,search_interest_0_100,28,world,memory,False
+2023-02-01,DDR4,search_interest_0_100,27,world,memory,False
+2023-03-01,DDR4,search_interest_0_100,25,world,memory,False
+2023-04-01,DDR4,search_interest_0_100,23,world,memory,False
+2023-05-01,DDR4,search_interest_0_100,22,world,memory,False
+2023-06-01,DDR4,search_interest_0_100,22,world,memory,False
+2023-07-01,DDR4,search_interest_0_100,25,world,memory,False
+2023-08-01,DDR4,search_interest_0_100,25,world,memory,False
+2023-09-01,DDR4,search_interest_0_100,25,world,memory,False
+2023-10-01,DDR4,search_interest_0_100,24,world,memory,False
+2023-11-01,DDR4,search_interest_0_100,27,world,memory,False
+2023-12-01,DDR4,search_interest_0_100,28,world,memory,False
+2024-01-01,DDR4,search_interest_0_100,28,world,memory,False
+2024-02-01,DDR4,search_interest_0_100,26,world,memory,False
+2024-03-01,DDR4,search_interest_0_100,26,world,memory,False
+2024-04-01,DDR4,search_interest_0_100,22,world,memory,False
+2024-05-01,DDR4,search_interest_0_100,23,world,memory,False
+2024-06-01,DDR4,search_interest_0_100,24,world,memory,False
+2024-07-01,DDR4,search_interest_0_100,24,world,memory,False
+2024-08-01,DDR4,search_interest_0_100,25,world,memory,False
+2024-09-01,DDR4,search_interest_0_100,25,world,memory,False
+2024-10-01,DDR4,search_interest_0_100,26,world,memory,False
+2024-11-01,DDR4,search_interest_0_100,30,world,memory,False
+2024-12-01,DDR4,search_interest_0_100,30,world,memory,False
+2025-01-01,DDR4,search_interest_0_100,29,world,memory,False
+2025-02-01,DDR4,search_interest_0_100,29,world,memory,False
+2025-03-01,DDR4,search_interest_0_100,27,world,memory,False
+2025-04-01,DDR4,search_interest_0_100,25,world,memory,False
+2025-05-01,DDR4,search_interest_0_100,25,world,memory,False
+2025-06-01,DDR4,search_interest_0_100,26,world,memory,False
+2025-07-01,DDR4,search_interest_0_100,29,world,memory,False
+2025-08-01,DDR4,search_interest_0_100,45,world,memory,False
+2025-09-01,DDR4,search_interest_0_100,50,world,memory,False
+2025-10-01,DDR4,search_interest_0_100,49,world,memory,False
+2025-11-01,DDR4,search_interest_0_100,58,world,memory,False
+2025-12-01,DDR4,search_interest_0_100,76,world,memory,False
+2026-01-01,DDR4,search_interest_0_100,64,world,memory,False
+2026-02-01,DDR4,search_interest_0_100,58,world,memory,False
+2026-03-01,DDR4,search_interest_0_100,59,world,memory,False
+2026-04-01,DDR4,search_interest_0_100,71,world,memory,False
+2026-05-01,DDR4,search_interest_0_100,62,world,memory,False
+2026-06-01,DDR4,search_interest_0_100,61,world,memory,False
+2026-07-01,DDR4,search_interest_0_100,53,world,memory,False
+2026-08-01,DDR4,search_interest_0_100,66,world,memory,False
+2026-09-01,DDR4,search_interest_0_100,64,world,memory,False
+2026-10-01,DDR4,search_interest_0_100,45,world,memory,True
+2016-01-01,DDR5,search_interest_0_100,4,world,memory,False
+2016-02-01,DDR5,search_interest_0_100,4,world,memory,False
+2016-03-01,DDR5,search_interest_0_100,4,world,memory,False
+2016-04-01,DDR5,search_interest_0_100,3,world,memory,False
+2016-05-01,DDR5,search_interest_0_100,4,world,memory,False
+2016-06-01,DDR5,search_interest_0_100,4,world,memory,False
+2016-07-01,DDR5,search_interest_0_100,4,world,memory,False
+2016-08-01,DDR5,search_interest_0_100,3,world,memory,False
+2016-09-01,DDR5,search_interest_0_100,4,world,memory,False
+2016-10-01,DDR5,search_interest_0_100,4,world,memory,False
+2016-11-01,DDR5,search_interest_0_100,4,world,memory,False
+2016-12-01,DDR5,search_interest_0_100,4,world,memory,False
+2017-01-01,DDR5,search_interest_0_100,4,world,memory,False
+2017-02-01,DDR5,search_interest_0_100,3,world,memory,False
+2017-03-01,DDR5,search_interest_0_100,3,world,memory,False
+2017-04-01,DDR5,search_interest_0_100,3,world,memory,False
+2017-05-01,DDR5,search_interest_0_100,3,world,memory,False
+2017-06-01,DDR5,search_interest_0_100,3,world,memory,False
+2017-07-01,DDR5,search_interest_0_100,3,world,memory,False
+2017-08-01,DDR5,search_interest_0_100,3,world,memory,False
+2017-09-01,DDR5,search_interest_0_100,3,world,memory,False
+2017-10-01,DDR5,search_interest_0_100,3,world,memory,False
+2017-11-01,DDR5,search_interest_0_100,4,world,memory,False
+2017-12-01,DDR5,search_interest_0_100,4,world,memory,False
+2018-01-01,DDR5,search_interest_0_100,4,world,memory,False
+2018-02-01,DDR5,search_interest_0_100,3,world,memory,False
+2018-03-01,DDR5,search_interest_0_100,3,world,memory,False
+2018-04-01,DDR5,search_interest_0_100,3,world,memory,False
+2018-05-01,DDR5,search_interest_0_100,3,world,memory,False
+2018-06-01,DDR5,search_interest_0_100,3,world,memory,False
+2018-07-01,DDR5,search_interest_0_100,3,world,memory,False
+2018-08-01,DDR5,search_interest_0_100,3,world,memory,False
+2018-09-01,DDR5,search_interest_0_100,3,world,memory,False
+2018-10-01,DDR5,search_interest_0_100,2,world,memory,False
+2018-11-01,DDR5,search_interest_0_100,3,world,memory,False
+2018-12-01,DDR5,search_interest_0_100,3,world,memory,False
+2019-01-01,DDR5,search_interest_0_100,3,world,memory,False
+2019-02-01,DDR5,search_interest_0_100,3,world,memory,False
+2019-03-01,DDR5,search_interest_0_100,2,world,memory,False
+2019-04-01,DDR5,search_interest_0_100,2,world,memory,False
+2019-05-01,DDR5,search_interest_0_100,2,world,memory,False
+2019-06-01,DDR5,search_interest_0_100,2,world,memory,False
+2019-07-01,DDR5,search_interest_0_100,2,world,memory,False
+2019-08-01,DDR5,search_interest_0_100,2,world,memory,False
+2019-09-01,DDR5,search_interest_0_100,2,world,memory,False
+2019-10-01,DDR5,search_interest_0_100,2,world,memory,False
+2019-11-01,DDR5,search_interest_0_100,2,world,memory,False
+2019-12-01,DDR5,search_interest_0_100,2,world,memory,False
+2020-01-01,DDR5,search_interest_0_100,3,world,memory,False
+2020-02-01,DDR5,search_interest_0_100,2,world,memory,False
+2020-03-01,DDR5,search_interest_0_100,2,world,memory,False
+2020-04-01,DDR5,search_interest_0_100,3,world,memory,False
+2020-05-01,DDR5,search_interest_0_100,4,world,memory,False
+2020-06-01,DDR5,search_interest_0_100,4,world,memory,False
+2020-07-01,DDR5,search_interest_0_100,3,world,memory,False
+2020-08-01,DDR5,search_interest_0_100,3,world,memory,False
+2020-09-01,DDR5,search_interest_0_100,3,world,memory,False
+2020-10-01,DDR5,search_interest_0_100,3,world,memory,False
+2020-11-01,DDR5,search_interest_0_100,3,world,memory,False
+2020-12-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-01-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-02-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-03-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-04-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-05-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-06-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-07-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-08-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-09-01,DDR5,search_interest_0_100,3,world,memory,False
+2021-10-01,DDR5,search_interest_0_100,5,world,memory,False
+2021-11-01,DDR5,search_interest_0_100,9,world,memory,False
+2021-12-01,DDR5,search_interest_0_100,7,world,memory,False
+2022-01-01,DDR5,search_interest_0_100,9,world,memory,False
+2022-02-01,DDR5,search_interest_0_100,9,world,memory,False
+2022-03-01,DDR5,search_interest_0_100,8,world,memory,False
+2022-04-01,DDR5,search_interest_0_100,8,world,memory,False
+2022-05-01,DDR5,search_interest_0_100,7,world,memory,False
+2022-06-01,DDR5,search_interest_0_100,7,world,memory,False
+2022-07-01,DDR5,search_interest_0_100,7,world,memory,False
+2022-08-01,DDR5,search_interest_0_100,7,world,memory,False
+2022-09-01,DDR5,search_interest_0_100,8,world,memory,False
+2022-10-01,DDR5,search_interest_0_100,10,world,memory,False
+2022-11-01,DDR5,search_interest_0_100,11,world,memory,False
+2022-12-01,DDR5,search_interest_0_100,11,world,memory,False
+2023-01-01,DDR5,search_interest_0_100,11,world,memory,False
+2023-02-01,DDR5,search_interest_0_100,11,world,memory,False
+2023-03-01,DDR5,search_interest_0_100,11,world,memory,False
+2023-04-01,DDR5,search_interest_0_100,11,world,memory,False
+2023-05-01,DDR5,search_interest_0_100,10,world,memory,False
+2023-06-01,DDR5,search_interest_0_100,11,world,memory,False
+2023-07-01,DDR5,search_interest_0_100,12,world,memory,False
+2023-08-01,DDR5,search_interest_0_100,13,world,memory,False
+2023-09-01,DDR5,search_interest_0_100,14,world,memory,False
+2023-10-01,DDR5,search_interest_0_100,13,world,memory,False
+2023-11-01,DDR5,search_interest_0_100,17,world,memory,False
+2023-12-01,DDR5,search_interest_0_100,16,world,memory,False
+2024-01-01,DDR5,search_interest_0_100,17,world,memory,False
+2024-02-01,DDR5,search_interest_0_100,17,world,memory,False
+2024-03-01,DDR5,search_interest_0_100,16,world,memory,False
+2024-04-01,DDR5,search_interest_0_100,14,world,memory,False
+2024-05-01,DDR5,search_interest_0_100,15,world,memory,False
+2024-06-01,DDR5,search_interest_0_100,15,world,memory,False
+2024-07-01,DDR5,search_interest_0_100,17,world,memory,False
+2024-08-01,DDR5,search_interest_0_100,18,world,memory,False
+2024-09-01,DDR5,search_interest_0_100,17,world,memory,False
+2024-10-01,DDR5,search_interest_0_100,19,world,memory,False
+2024-11-01,DDR5,search_interest_0_100,24,world,memory,False
+2024-12-01,DDR5,search_interest_0_100,24,world,memory,False
+2025-01-01,DDR5,search_interest_0_100,24,world,memory,False
+2025-02-01,DDR5,search_interest_0_100,23,world,memory,False
+2025-03-01,DDR5,search_interest_0_100,22,world,memory,False
+2025-04-01,DDR5,search_interest_0_100,20,world,memory,False
+2025-05-01,DDR5,search_interest_0_100,21,world,memory,False
+2025-06-01,DDR5,search_interest_0_100,21,world,memory,False
+2025-07-01,DDR5,search_interest_0_100,24,world,memory,False
+2025-08-01,DDR5,search_interest_0_100,43,world,memory,False
+2025-09-01,DDR5,search_interest_0_100,48,world,memory,False
+2025-10-01,DDR5,search_interest_0_100,50,world,memory,False
+2025-11-01,DDR5,search_interest_0_100,75,world,memory,False
+2025-12-01,DDR5,search_interest_0_100,100,world,memory,False
+2026-01-01,DDR5,search_interest_0_100,64,world,memory,False
+2026-02-01,DDR5,search_interest_0_100,80,world,memory,False
+2026-03-01,DDR5,search_interest_0_100,61,world,memory,False
+2026-04-01,DDR5,search_interest_0_100,76,world,memory,False
+2026-05-01,DDR5,search_interest_0_100,71,world,memory,False
+2026-06-01,DDR5,search_interest_0_100,75,world,memory,False
+2026-07-01,DDR5,search_interest_0_100,64,world,memory,False
+2026-08-01,DDR5,search_interest_0_100,78,world,memory,False
+2026-09-01,DDR5,search_interest_0_100,76,world,memory,False
+2026-10-01,DDR5,search_interest_0_100,48,world,memory,True
+2016-01-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-02-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-03-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-04-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-05-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-06-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-07-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-08-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-09-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-10-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-11-01,RAM prices,search_interest_0_100,0,world,memory,False
+2016-12-01,RAM prices,search_interest_0_100,0,world,memory,False
+2017-01-01,RAM prices,search_interest_0_100,0,world,memory,False
+2017-02-01,RAM prices,search_interest_0_100,0,world,memory,False
+2017-03-01,RAM prices,search_interest_0_100,0,world,memory,False
+2017-04-01,RAM prices,search_interest_0_100,0,world,memory,False
+2017-05-01,RAM prices,search_interest_0_100,0,world,memory,False
+2017-06-01,RAM prices,search_interest_0_100,0,world,memory,False
+2017-07-01,RAM prices,search_interest_0_100,0,world,memory,False
+2017-08-01,RAM prices,search_interest_0_100,0,world,memory,False
+2017-09-01,RAM prices,search_interest_0_100,1,world,memory,False
+2017-10-01,RAM prices,search_interest_0_100,1,world,memory,False
+2017-11-01,RAM prices,search_interest_0_100,1,world,memory,False
+2017-12-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-01-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-02-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-03-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-04-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-05-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-06-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-07-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-08-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-09-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-10-01,RAM prices,search_interest_0_100,1,world,memory,False
+2018-11-01,RAM prices,search_interest_0_100,0,world,memory,False
+2018-12-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-01-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-02-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-03-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-04-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-05-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-06-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-07-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-08-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-09-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-10-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-11-01,RAM prices,search_interest_0_100,0,world,memory,False
+2019-12-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-01-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-02-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-03-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-04-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-05-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-06-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-07-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-08-01,RAM prices,search_interest_0_100,1,world,memory,False
+2020-09-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-10-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-11-01,RAM prices,search_interest_0_100,0,world,memory,False
+2020-12-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-01-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-02-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-03-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-04-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-05-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-06-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-07-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-08-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-09-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-10-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-11-01,RAM prices,search_interest_0_100,0,world,memory,False
+2021-12-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-01-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-02-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-03-01,RAM prices,search_interest_0_100,1,world,memory,False
+2022-04-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-05-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-06-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-07-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-08-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-09-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-10-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-11-01,RAM prices,search_interest_0_100,0,world,memory,False
+2022-12-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-01-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-02-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-03-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-04-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-05-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-06-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-07-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-08-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-09-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-10-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-11-01,RAM prices,search_interest_0_100,0,world,memory,False
+2023-12-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-01-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-02-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-03-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-04-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-05-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-06-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-07-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-08-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-09-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-10-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-11-01,RAM prices,search_interest_0_100,0,world,memory,False
+2024-12-01,RAM prices,search_interest_0_100,0,world,memory,False
+2025-01-01,RAM prices,search_interest_0_100,0,world,memory,False
+2025-02-01,RAM prices,search_interest_0_100,0,world,memory,False
+2025-03-01,RAM prices,search_interest_0_100,0,world,memory,False
+2025-04-01,RAM prices,search_interest_0_100,0,world,memory,False
+2025-05-01,RAM prices,search_interest_0_100,0,world,memory,False
+2025-06-01,RAM prices,search_interest_0_100,0,world,memory,False
+2025-07-01,RAM prices,search_interest_0_100,1,world,memory,False
+2025-08-01,RAM prices,search_interest_0_100,4,world,memory,False
+2025-09-01,RAM prices,search_interest_0_100,4,world,memory,False
+2025-10-01,RAM prices,search_interest_0_100,3,world,memory,False
+2025-11-01,RAM prices,search_interest_0_100,6,world,memory,False
+2025-12-01,RAM prices,search_interest_0_100,14,world,memory,False
+2026-01-01,RAM prices,search_interest_0_100,9,world,memory,False
+2026-02-01,RAM prices,search_interest_0_100,8,world,memory,False
+2026-03-01,RAM prices,search_interest_0_100,9,world,memory,False
+2026-04-01,RAM prices,search_interest_0_100,9,world,memory,False
+2026-05-01,RAM prices,search_interest_0_100,8,world,memory,False
+2026-06-01,RAM prices,search_interest_0_100,8,world,memory,False
+2026-07-01,RAM prices,search_interest_0_100,6,world,memory,False
+2026-08-01,RAM prices,search_interest_0_100,6,world,memory,False
+2026-09-01,RAM prices,search_interest_0_100,6,world,memory,False
+2026-10-01,RAM prices,search_interest_0_100,2,world,memory,True
+2016-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-11-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2016-12-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-11-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2017-12-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-11-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2018-12-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-11-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2019-12-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-11-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2020-12-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-11-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2021-12-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-11-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2022-12-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-11-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2023-12-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-11-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2024-12-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-01-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-02-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-03-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-04-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-05-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-06-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-07-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-08-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-09-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-10-01,RAM shortage,search_interest_0_100,0,world,memory,False
+2025-11-01,RAM shortage,search_interest_0_100,1,world,memory,False
+2025-12-01,RAM shortage,search_interest_0_100,2,world,memory,False
+2026-01-01,RAM shortage,search_interest_0_100,1,world,memory,False
+2026-02-01,RAM shortage,search_interest_0_100,1,world,memory,False
+2026-03-01,RAM shortage,search_interest_0_100,2,world,memory,False
+2026-04-01,RAM shortage,search_interest_0_100,1,world,memory,False
+2026-05-01,RAM shortage,search_interest_0_100,1,world,memory,False
+2026-06-01,RAM shortage,search_interest_0_100,1,world,memory,False
+2026-07-01,RAM shortage,search_interest_0_100,1,world,memory,False
+2026-08-01,RAM shortage,search_interest_0_100,1,world,memory,False
+2026-09-01,RAM shortage,search_interest_0_100,1,world,memory,False
+2026-10-01,RAM shortage,search_interest_0_100,0,world,memory,True
+2016-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-07-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-08-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-09-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-10-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-11-01,memory prices,search_interest_0_100,0,world,memory,False
+2016-12-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-07-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-08-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-09-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-10-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-11-01,memory prices,search_interest_0_100,0,world,memory,False
+2017-12-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-07-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-08-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-09-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-10-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-11-01,memory prices,search_interest_0_100,0,world,memory,False
+2018-12-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-07-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-08-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-09-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-10-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-11-01,memory prices,search_interest_0_100,0,world,memory,False
+2019-12-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-07-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-08-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-09-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-10-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-11-01,memory prices,search_interest_0_100,0,world,memory,False
+2020-12-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-07-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-08-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-09-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-10-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-11-01,memory prices,search_interest_0_100,0,world,memory,False
+2021-12-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-07-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-08-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-09-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-10-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-11-01,memory prices,search_interest_0_100,0,world,memory,False
+2022-12-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-07-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-08-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-09-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-10-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-11-01,memory prices,search_interest_0_100,0,world,memory,False
+2023-12-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-07-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-08-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-09-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-10-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-11-01,memory prices,search_interest_0_100,0,world,memory,False
+2024-12-01,memory prices,search_interest_0_100,0,world,memory,False
+2025-01-01,memory prices,search_interest_0_100,0,world,memory,False
+2025-02-01,memory prices,search_interest_0_100,0,world,memory,False
+2025-03-01,memory prices,search_interest_0_100,0,world,memory,False
+2025-04-01,memory prices,search_interest_0_100,0,world,memory,False
+2025-05-01,memory prices,search_interest_0_100,0,world,memory,False
+2025-06-01,memory prices,search_interest_0_100,0,world,memory,False
+2025-07-01,memory prices,search_interest_0_100,1,world,memory,False
+2025-08-01,memory prices,search_interest_0_100,5,world,memory,False
+2025-09-01,memory prices,search_interest_0_100,4,world,memory,False
+2025-10-01,memory prices,search_interest_0_100,3,world,memory,False
+2025-11-01,memory prices,search_interest_0_100,5,world,memory,False
+2025-12-01,memory prices,search_interest_0_100,7,world,memory,False
+2026-01-01,memory prices,search_interest_0_100,6,world,memory,False
+2026-02-01,memory prices,search_interest_0_100,6,world,memory,False
+2026-03-01,memory prices,search_interest_0_100,9,world,memory,False
+2026-04-01,memory prices,search_interest_0_100,9,world,memory,False
+2026-05-01,memory prices,search_interest_0_100,12,world,memory,False
+2026-06-01,memory prices,search_interest_0_100,15,world,memory,False
+2026-07-01,memory prices,search_interest_0_100,12,world,memory,False
+2026-08-01,memory prices,search_interest_0_100,8,world,memory,False
+2026-09-01,memory prices,search_interest_0_100,5,world,memory,False
+2026-10-01,memory prices,search_interest_0_100,1,world,memory,True

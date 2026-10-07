@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+# third-party data with rights notices: fetch scripts rebuild these locally
+data/raw/official_wsts/*.csv
+data/raw/official_wsts/*.xls*
+data/raw/dramexchange/dramexchange_prices.csv
+data/raw/dramexchange/_cache.jsonl.gz

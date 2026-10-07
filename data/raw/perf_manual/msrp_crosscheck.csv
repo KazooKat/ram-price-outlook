@@ -1,0 +1,7 @@
+model,wikipedia_launch_price_usd,manufacturer_price_usd,source_url,source_type,verbatim_quote,notes
+GeForce RTX 4090,1599,1599,https://nvidianews.nvidia.com/news/nvidia-delivers-quantum-leap-in-performance-introduces-new-era-of-neural-rendering-with-geforce-rtx-40-series,press_release,"starting at $1,599","Nvidia press release 2022-09-20"
+GeForce RTX 5090,1999,1999,https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics,press_release,"$1,999","Nvidia press release 2025-01-06 (CES 2025)"
+Ryzen 9 7950X,699,699,https://ir.amd.com/news-events/press-releases/detail/1089/amdlaunches-ryzen-7000-series-desktop-processors-with,press_release,"$699","AMD press release 2022-08-29; price is AMD's SEP"
+Radeon RX 9070 XT,599,599,https://ir.amd.com/news-events/press-releases/detail/1238/amd-unveils-next-generation-amd-rdna-4-architecture-with,press_release,"$599","AMD press release 2025-02-28; price is AMD's SEP"
+Core Ultra 9 285K,589,589,https://download.intel.com/newsroom/2024/client-computing/Intel-Core-Ultra-200S-Series-Presentation.pdf,manufacturer_launch_briefing,"$589 USD","Intel launch briefing deck (Oct 2024), price table; the 2024-10-10 press release itself lists no prices; Intel RCP"
+Ryzen 9 9950X,649,649,https://shop-us-en.amd.com/amd-ryzen-9-9950x-processor/,manufacturer_store_page,"$649","AMD store page, not a press release; AMD's 2024-06-02 Zen 5 press release gave no prices"

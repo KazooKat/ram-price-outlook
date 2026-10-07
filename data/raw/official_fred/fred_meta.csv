@@ -1,0 +1,73 @@
+series_id,group,title,units,seasonal_adjustment,frequency,first_date,last_date,n_obs
+PCU334413334413,ppi_semiconductors,Producer Price Index by Industry: Semiconductor and Related Device Manufacturing,Index Dec 1998=100,Not Seasonally Adjusted,Monthly,1967-01-01,2026-08-01,715
+PCU334413334413P,ppi_semiconductors,Producer Price Index by Industry: Semiconductor and Related Device Manufacturing: Primary Products,Index Dec 1998=100,Not Seasonally Adjusted,Monthly,1981-06-01,2026-08-01,543
+PCU3344133344131,ppi_semiconductors,Producer Price Index by Industry: Semiconductor and Related Device Manufacturing: Integrated Circuit Packages,Index Dec 1998=100,Not Seasonally Adjusted,Monthly,1975-12-01,2026-08-01,583
+PCU33441333441312,ppi_semiconductors,Producer Price Index by Industry: Semiconductor and Related Device Manufacturing: Microprocessors (Including Microcontrollers),Index Jun 2007=100,Not Seasonally Adjusted,Monthly,1981-06-01,2015-03-01,398
+PCU33441333441314,ppi_semiconductors,Producer Price Index by Industry: Semiconductors and Related Device Manufacturing: All Other Integrated Microcircuits (DISCONTINUED),Index Jun 2005=100,Not Seasonally Adjusted,Monthly,2005-06-01,2015-05-01,120
+PCU33443344,ppi_semiconductors,Producer Price Index by Industry: Semiconductor and Other Electronic Component Manufacturing,Index Dec 1984=100,Not Seasonally Adjusted,Monthly,1984-12-01,2026-08-01,501
+PCU334334,ppi_semiconductors,Producer Price Index by Industry: Computer and Electronic Product Manufacturing,Index Dec 2003=100,Not Seasonally Adjusted,Monthly,2003-12-01,2026-08-01,273
+WPU1178,ppi_semiconductors,Producer Price Index by Commodity: Machinery and Equipment: Electronic Components and Accessories,Index 1982=100,Not Seasonally Adjusted,Monthly,1965-12-01,2026-08-01,729
+WPU117839,ppi_semiconductors,"Producer Price Index by Commodity: Machinery and Equipment: Integrated Circuit Packages, Including Microprocessors",Index Jun 2005=100,Not Seasonally Adjusted,Monthly,2005-06-01,2026-08-01,255
+WPU117839111,ppi_semiconductors,Producer Price Index by Commodity: Machinery and Equipment: Microprocessors (Including Microcontrollers),Index Dec 2007=100,Not Seasonally Adjusted,Monthly,2007-12-01,2015-03-01,68
+WPU117839112,ppi_semiconductors,Producer Price Index by Commodity for Machinery and Equipment: All Other Integrated Microcircuits (DISCONTINUED),Index Dec 2007=100,Not Seasonally Adjusted,Monthly,2007-12-01,2015-05-01,70
+WPU117847,ppi_semiconductors,"Producer Price Index by Commodity: Machinery and Equipment: Other Semiconductor Devices, Including Transistors, Diodes, and Semiconductor Parts Such as Wafers",Index Jun 2005=100,Not Seasonally Adjusted,Monthly,2005-06-01,2026-08-01,255
+PCU334111334111,ppi_computers_storage,Producer Price Index by Industry: Electronic Computer Manufacturing,Index Feb 2023=100,Not Seasonally Adjusted,Monthly,1990-12-01,2026-08-01,429
+PCU3341113341115,ppi_computers_storage,"Producer Price Index by Industry: Electronic Computer Manufacturing: Host Computers, Multiusers (Mainframes, Medium-Scale Systems, Unix and PC Servers)",Index Feb 2023=100,Not Seasonally Adjusted,Monthly,2004-12-01,2026-08-01,261
+PCU33411133411172,ppi_computers_storage,"Producer Price Index by Industry: Electronic Computer Manufacturing: Portable Computers, Laptops, Tablets and Other Single User Computers",Index Feb 2023=100,Not Seasonally Adjusted,Monthly,1992-12-01,2026-08-01,405
+PCU33411133411173,ppi_computers_storage,Producer Price Index by Industry: Electronic Computer Manufacturing: Personal Computers and Workstations (Excluding Portable Computers),Index Feb 2023=100,Not Seasonally Adjusted,Monthly,1992-12-01,2026-08-01,405
+PCU334112334112,ppi_computers_storage,Producer Price Index by Industry: Computer Storage Device Manufacturing,Index Dec 2004=100,Not Seasonally Adjusted,Monthly,1992-12-01,2026-08-01,405
+PCU3341123341121,ppi_computers_storage,"Producer Price Index by Industry: Computer Storage Device Manufacturing: Computer Storage Devices (Except Parts, Attachments and Accessories)",Index Dec 2004=100,Not Seasonally Adjusted,Monthly,1992-12-01,2026-08-01,405
+WPU115,ppi_computers_storage,Producer Price Index by Commodity: Machinery and Equipment: Electronic Computers and Computer Equipment,Index Feb 2023=100,Not Seasonally Adjusted,Monthly,1990-12-01,2026-08-01,429
+WPU1151,ppi_computers_storage,Producer Price Index by Commodity: Machinery and Equipment: Electronic Computers,Index Feb 2023=100,Not Seasonally Adjusted,Monthly,1990-12-01,2026-08-01,429
+CUUR0000SEEE01,cpi,"Consumer Price Index for All Urban Consumers: Computers, Peripherals, and Smart Home Assistants in U.S. City Average",Index Dec 2007=100,Not Seasonally Adjusted,Monthly,1997-12-01,2026-08-01,344
+CUSR0000SEEE01,cpi,"Consumer Price Index for All Urban Consumers: Computers, Peripherals, and Smart Home Assistants in U.S. City Average",Index Dec 2007=100,Seasonally Adjusted,Monthly,2005-01-01,2026-08-01,259
+CUUR0000SEEE,cpi,"Consumer Price Index for All Urban Consumers: Information Technology, Hardware and Services in U.S. City Average",Index Dec 2024=100,Not Seasonally Adjusted,Monthly,1988-12-01,2026-08-01,452
+IR21320,import_export_price,Import Price Index (End Use): Semiconductors,Index 2000=100,Not Seasonally Adjusted,Monthly,1984-12-01,2026-08-01,428
+IQ21320,import_export_price,Export Price Index (End Use): Semiconductors,Index 2000=100,Not Seasonally Adjusted,Monthly,1984-12-01,2026-08-01,428
+IR213,import_export_price,"Import Price Index (End Use): Computers, Peripherals and Semiconductors",Index 2000=100,Not Seasonally Adjusted,Monthly,1984-12-01,2026-08-01,428
+IR213COM,import_export_price,"Import Price Index (End Use): Computers, Peripherals, Accessories and Parts, Ecluding Semiconductors",Index 2000=100,Not Seasonally Adjusted,Monthly,1984-12-01,2026-08-01,428
+IR21300,import_export_price,Import Price Index (End Use): Computers,Index 2000=100,Not Seasonally Adjusted,Monthly,1994-12-01,2023-12-01,349
+IR21301,import_export_price,Import Price Index (End Use): Computer Accessories,Index 2000=100,Not Seasonally Adjusted,Monthly,1984-12-01,2026-08-01,428
+IQ21300,import_export_price,Export Price Index (End Use): Computers,Index 2000=100,Not Seasonally Adjusted,Monthly,1980-12-01,2026-08-01,444
+IQ21301,import_export_price,Export Price Index (End Use): Computer Accessories,Index 2000=100,Not Seasonally Adjusted,Monthly,1984-12-01,2026-08-01,428
+IZ3344,import_export_price,Import Price Index (NAICS): Semiconductor and Other Electronic Component Manufacturing,Index Dec 2005=100,Not Seasonally Adjusted,Monthly,2005-12-01,2026-08-01,248
+IY3344,import_export_price,Export Price Index (NAICS): Semiconductor and Other Electronic Component Manufacturing,Index Dec 2005=100,Not Seasonally Adjusted,Monthly,2005-12-01,2026-08-01,248
+IZ3341,import_export_price,Import Price Index (NAICS): Computer and Peripheral Equipment Manufacturing,Index Dec 2025=100,Not Seasonally Adjusted,Monthly,2025-12-01,2026-08-01,9
+IZ334,import_export_price,Import Price Index (NAICS): Computer and Electronic Product Manufacturing,Index Dec 2005=100,Not Seasonally Adjusted,Monthly,2005-12-01,2026-08-01,248
+COOASZ3344,import_export_price,Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Asian Newly Industrialized Countries,Index Jun 2012=100,Not Seasonally Adjusted,Monthly,2012-06-01,2026-08-01,170
+COPRIMZ3344,import_export_price,Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Pacific Rim,Index Jun 2012=100,Not Seasonally Adjusted,Monthly,2012-06-01,2026-08-01,170
+COINDUSZ3344,import_export_price,Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Industrialized Countries,Index Jun 2012=100,Not Seasonally Adjusted,Monthly,2012-06-01,2026-08-01,170
+COJPNZ3344,import_export_price,Import Price Index: Semiconductor and other electronic component manufacturing for Japan,Index 2010=100,Not Seasonally Adjusted,Monthly,2012-06-01,2018-12-01,79
+COCHNZ3344,import_export_price,Import Price Index: Semiconductor and other electronic component manufacturing for China,Index 2010=100,Not Seasonally Adjusted,Monthly,2012-06-01,2018-12-01,79
+COOASZ334,import_export_price,Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Asian Newly Industrialized Countries,Index Jun 2012=100,Not Seasonally Adjusted,Monthly,2012-06-01,2026-08-01,170
+COASEANZ334,import_export_price,Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Association of Southeast Asian Nations,Index Jun 2012=100,Not Seasonally Adjusted,Monthly,2012-06-01,2026-08-01,170
+IP8542,import_export_price,Import Price Index (Harmonized System): Electronic Integrated Circuits; Parts Thereof,Index 2000=100,Not Seasonally Adjusted,Monthly,1992-12-01,2022-12-01,353
+ID8542,import_export_price,Export Price Index (Harmonized System): Electronic Integrated Circuits; Parts Thereof,Index 2000=100,Not Seasonally Adjusted,Monthly,1992-12-01,2026-08-01,396
+IP8471,import_export_price,"Import Price Index (Harmonized System): Automatic Data Processing Machines and Units Thereof; Magnetic or Optical Readers, Machines for Transcribing Coded Data and Machines for Processing Such Data, Not Elsewhere Specified",Index 2000=100,Not Seasonally Adjusted,Monthly,1992-12-01,2023-12-01,365
+ID8471,import_export_price,"Export Price Index (Harmonized System): Automatic Data Processing Machines and Units Thereof; Magnetic or Optical Readers, Machines for Transcribing Coded Data and Machines for Processing Such Data, Not Elsewhere Specified",Index 2000=100,Not Seasonally Adjusted,Monthly,1992-12-01,2026-08-01,396
+IP8473,import_export_price,"Import Price Index (Harmonized System): Parts and Accessories (Other Than Covers, Carrying Cases and the Like) Suitable for Use Solely or Principally for Computers and Other Office Machines",Index 2000=100,Not Seasonally Adjusted,Monthly,1992-12-01,2025-12-01,388
+IP8523,import_export_price,"Import Price Index (Harmonized System): Discs, Tapes, Solid-State Non-Volatile Storage Devices, Smart Cards and Other Media for the Recording of Sound, Including Matrices and Masters for the Production of Discs",Index Dec 2004=100,Not Seasonally Adjusted,Monthly,2004-12-01,2024-12-01,241
+IP8541,import_export_price,"Import Price Index (Harmonized System): Diodes, Transistors and Similar Semiconductor Devices; Photosensitive Semiconductor Devices; Light-Emitting Diodes (LED); Mounted Piezoelectric Crystals; Parts Thereof",Index Dec 2018=100,Not Seasonally Adjusted,Monthly,2018-12-01,2022-12-01,49
+IPG3344S,production_capacity,Industrial Production: Manufacturing: Durable Goods: Semiconductor and Other Electronic Component (NAICS = 3344),Index 2017=100,Seasonally Adjusted,Monthly,1972-01-01,2026-08-01,656
+IPG3341S,production_capacity,Industrial Production: Manufacturing: Durable Goods: Computer and Peripheral Equipment (NAICS = 3341),Index 2017=100,Seasonally Adjusted,Monthly,1972-01-01,2026-08-01,656
+IPHITEK2S,production_capacity,"Industrial Production: Manufacturing: Durable Goods: Computers, Communications Equipment, and Semiconductors (NAICS = 3341,3342,3344)",Index 2017=100,Seasonally Adjusted,Monthly,1967-01-01,2026-08-01,716
+IPB53122S,production_capacity,"Industrial Production: Durable Goods Materials: Semiconductors, Printed Circuit Boards, and Other",Index 2017=100,Seasonally Adjusted,Monthly,1954-01-01,2026-08-01,872
+CAPUTLG3344S,production_capacity,Capacity Utilization: Manufacturing: Durable Goods: Semiconductor and Other Electronic Component (NAICS = 3344),Percent,Seasonally Adjusted,Monthly,1972-01-01,2026-08-01,656
+CAPG3344S,production_capacity,Industrial Capacity: Manufacturing: Durable Goods: Semiconductor and Other Electronic Component (NAICS = 3344),Index 2017=100,Seasonally Adjusted,Monthly,1972-01-01,2026-08-01,656
+A34SVS,census_m3,Manufacturers' Value of Shipments: Computers and Electronic Products,Millions of Dollars,Seasonally Adjusted,Monthly,1992-01-01,2026-08-01,416
+A34SNO,census_m3,Manufacturers' New Orders: Computers and Electronic Products,Millions of Dollars,Seasonally Adjusted,Monthly,1992-02-01,2026-08-01,415
+A34STI,census_m3,Manufacturers' Total Inventories: Computers and Electronic Products,Millions of Dollars,Seasonally Adjusted,Monthly,1992-01-01,2026-08-01,416
+A34SIS,census_m3,Manufacturers' Inventories to Shipments Ratios: Computers and Electronic Products,Ratio,Seasonally Adjusted,Monthly,1992-01-01,2026-08-01,416
+A34AVS,census_m3,Manufacturers' Value of Shipments: Electronic Computer Manufacturing,Millions of Dollars,Seasonally Adjusted,Monthly,1992-01-01,2026-08-01,416
+A34ATI,census_m3,Manufacturers' Total Inventories: Electronic Computer Manufacturing,Millions of Dollars,Seasonally Adjusted,Monthly,1992-01-01,2026-08-01,416
+A34BVS,census_m3,Manufacturers' Value of Shipments: Computer Storage Device Manufacturing,Millions of Dollars,Seasonally Adjusted,Monthly,1992-01-01,2026-08-01,416
+A34BTI,census_m3,Manufacturers' Total Inventories: Computer Storage Device Manufacturing,Millions of Dollars,Seasonally Adjusted,Monthly,1992-01-01,2026-08-01,416
+A34HVS,census_m3,Manufacturers' Value of Shipments: Other Electronic Component Manufacturing,Millions of Dollars,Seasonally Adjusted,Monthly,1992-01-01,2026-08-01,416
+A34HTI,census_m3,Manufacturers' Total Inventories: Other Electronic Component Manufacturing,Millions of Dollars,Seasonally Adjusted,Monthly,1992-01-01,2026-08-01,416
+A34GVS,census_m3,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Semiconductors and Related Devices (DISCONTINUED),Millions of Dollars,Seasonally Adjusted,Monthly,1992-01-01,2010-03-01,219
+IMPKR,trade_values,U.S. Imports of Goods by Customs Basis from South Korea,Millions of Dollars,Not Seasonally Adjusted,Monthly,1985-01-01,2026-07-01,499
+IMP5830,trade_values,U.S. Imports of Goods by Customs Basis from Taiwan,Millions of Dollars,Not Seasonally Adjusted,Monthly,1985-01-01,2026-07-01,499
+IMPJP,trade_values,U.S. Imports of Goods by Customs Basis from Japan,Millions of Dollars,Not Seasonally Adjusted,Monthly,1985-01-01,2026-07-01,499
+VALEXPKRM052N,trade_values,Exports of Goods for Republic of Korea,Millions of Dollars,Not Seasonally Adjusted,Monthly,2006-01-01,2026-07-01,247
+VALEXPTWM052N,trade_values,Exports of Goods for Taiwan Province of China,Millions of Dollars,Not Seasonally Adjusted,Monthly,2006-01-01,2026-07-01,247
+XTEXVA01KRM664S,trade_values,International Merchandise Trade Statistics: Exports: Commodities for Korea,Won,Seasonally Adjusted,Monthly,1957-01-01,2026-06-01,834

@@ -1,0 +1,14 @@
+company,metric,period,kept_tag,kept_value,kept_filed,other_tag,other_value,other_filed
+AMD,revenue,2017-07-01,RevenueFromContractWithCustomerExcludingAssessedTax,1151000000,2019-02-08,SalesRevenueNet,1222000000,2018-02-27
+AMD,revenue,2017-09-30,RevenueFromContractWithCustomerExcludingAssessedTax,1584000000,2019-02-08,SalesRevenueNet,1643000000,2018-02-27
+AMD,revenue,2017-12-30,RevenueFromContractWithCustomerExcludingAssessedTax,1340000000,2019-02-08,SalesRevenueNet,1480000000,2018-02-27
+MSFT,revenue,2017-06-30,RevenueFromContractWithCustomerExcludingAssessedTax,25605000000,2018-08-03,SalesRevenueNet,23317000000,2017-08-02
+ORCL,revenue,2017-08-31,RevenueFromContractWithCustomerExcludingAssessedTax,9104000000,2018-09-19,Revenues,9187000000,2017-09-18
+ORCL,revenue,2018-02-28,RevenueFromContractWithCustomerExcludingAssessedTax,9676000000,2019-03-18,Revenues,9771000000,2018-03-21
+ORCL,revenue,2009-02-28,Revenues,5453000000,2010-03-29,SalesRevenueNet,0,2010-03-29
+ORCL,revenue,2009-08-31,Revenues,5054000000,2010-09-29,SalesRevenueNet,0,2010-09-29
+ORCL,revenue,2009-11-30,Revenues,5858000000,2010-12-21,SalesRevenueNet,0,2010-12-21
+ORCL,revenue,2010-02-28,Revenues,6404000000,2011-03-29,SalesRevenueNet,458000000,2011-03-29
+ORCL,revenue,2010-08-31,Revenues,7502000000,2011-09-23,SalesRevenueNet,1698000000,2010-09-29
+ORCL,revenue,2010-11-30,Revenues,8582000000,2011-12-23,SalesRevenueNet,1753000000,2010-12-21
+ORCL,revenue,2011-02-28,Revenues,8764000000,2012-03-23,SalesRevenueNet,1664000000,2011-03-29

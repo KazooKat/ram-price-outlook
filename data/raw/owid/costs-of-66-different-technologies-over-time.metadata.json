@@ -1,0 +1,40 @@
+{
+ "chart": {
+  "title": "The cost of 66 different technologies over time",
+  "subtitle": "The cost of each technology is expressed in different units, chosen for visualization purposes.",
+  "note": "DNA sequencing is divided by 1000 to fit on the chart.",
+  "citation": "Farmer and Lafond (2016)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/costs-of-66-different-technologies-over-time?v=1&csvType=full&useColumnShortNames=false",
+  "selection": [
+   "Wind turbine (Denmark)",
+   "Monochrome television",
+   "Beer (Japan)",
+   "Polyester fiber",
+   "Aluminum",
+   "Caprolactam",
+   "Ethanol (Brazil)",
+   "DNA sequencing",
+   "Ammonia",
+   "Automotive (US)",
+   "Photovoltaics"
+  ]
+ },
+ "columns": {
+  "Technology cost": {
+   "titleShort": "Technology cost",
+   "titleLong": "Technology cost",
+   "descriptionShort": "Expressed in different units that have been chosen for visualization purposes.",
+   "unit": "various units",
+   "timespan": "1929-2013",
+   "type": "Numeric",
+   "owidVariableId": 817640,
+   "shortName": "cost",
+   "lastUpdated": "2023-12-12",
+   "citationShort": "Farmer and Lafond (2016) \u2013 with minor processing by Our World in Data",
+   "citationLong": "Farmer and Lafond (2016) \u2013 with minor processing by Our World in Data. \u201cTechnology cost\u201d [dataset]. Farmer and Lafond, \u201cHow predictable is technological progress?\u201d [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/817640.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-06",
+ "activeFilters": {}
+}

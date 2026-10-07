@@ -1,0 +1,159 @@
+fiscal_year,fiscal_quarter,period,period_end,company,release_date,source_type,source_url,metric,value,unit,basis
+2016,Q3,FQ3-FY2016,,MU,2016-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312516000198/a2016q3exhibit991-pressrel.htm,revenue,2898.0,USD mn,GAAP
+2016,Q3,FQ3-FY2016,,MU,2016-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312516000198/a2016q3exhibit991-pressrel.htm,gross_profit,498.0,USD mn,GAAP
+2016,Q4,FQ4-FY2016,,MU,2016-10-04,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312516000225/a2016q4exhibit991-pressrel.htm,revenue,3217.0,USD mn,GAAP
+2016,Q4,FQ4-FY2016,,MU,2016-10-04,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312516000225/a2016q4exhibit991-pressrel.htm,gross_profit,579.0,USD mn,GAAP
+2017,Q1,FQ1-FY2017,,MU,2016-12-21,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312516000306/a2017q1exhibit991-pressrel.htm,revenue,3970.0,USD mn,GAAP
+2017,Q1,FQ1-FY2017,,MU,2016-12-21,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312516000306/a2017q1exhibit991-pressrel.htm,gross_profit,1011.0,USD mn,GAAP
+2017,Q2,FQ2-FY2017,,MU,2017-03-23,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000031/a2017q2exhibit991-pressrel.htm,revenue,4648.0,USD mn,GAAP
+2017,Q2,FQ2-FY2017,,MU,2017-03-23,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000031/a2017q2exhibit991-pressrel.htm,gross_profit,1704.0,USD mn,GAAP
+2017,Q3,FQ3-FY2017,,MU,2017-06-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000080/a2017q3exhibit991-pressrel.htm,revenue,5566.0,USD mn,GAAP
+2017,Q3,FQ3-FY2017,,MU,2017-06-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000080/a2017q3exhibit991-pressrel.htm,gross_profit,2609.0,USD mn,GAAP
+2017,Q4,FQ4-FY2017,,MU,2017-09-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000106/a2017q4exhibit991-pressrel.htm,revenue,6138.0,USD mn,GAAP
+2017,Q4,FQ4-FY2017,,MU,2017-09-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000106/a2017q4exhibit991-pressrel.htm,gross_profit,3112.0,USD mn,GAAP
+2017,Q4,FQ4-FY2017,,MU,2017-09-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000106/a2017q4exhibit991-pressrel.htm,gross_margin_pct,50.7,pct,GAAP
+2017,Q4,FQ4-FY2017,,MU,2017-09-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000106/a2017q4exhibit991-pressrel.htm,gross_margin_pct,51.3,pct,non-GAAP
+2018,Q1,FQ1-FY2018,,MU,2017-12-19,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000162/a2018q1exhibit991-pressrel.htm,revenue,6803.0,USD mn,GAAP
+2018,Q1,FQ1-FY2018,,MU,2017-12-19,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000162/a2018q1exhibit991-pressrel.htm,gross_profit,3747.0,USD mn,GAAP
+2018,Q1,FQ1-FY2018,,MU,2017-12-19,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000162/a2018q1exhibit991-pressrel.htm,gross_margin_pct,55.1,pct,GAAP
+2018,Q1,FQ1-FY2018,,MU,2017-12-19,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312517000162/a2018q1exhibit991-pressrel.htm,gross_margin_pct,55.4,pct,non-GAAP
+2018,Q2,FQ2-FY2018,,MU,2018-03-22,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000031/a2018q2exhibit991-pressrel.htm,revenue,7351.0,USD mn,GAAP
+2018,Q2,FQ2-FY2018,,MU,2018-03-22,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000031/a2018q2exhibit991-pressrel.htm,gross_profit,4270.0,USD mn,GAAP
+2018,Q2,FQ2-FY2018,,MU,2018-03-22,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000031/a2018q2exhibit991-pressrel.htm,gross_margin_pct,58.1,pct,GAAP
+2018,Q2,FQ2-FY2018,,MU,2018-03-22,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000031/a2018q2exhibit991-pressrel.htm,gross_margin_pct,58.4,pct,non-GAAP
+2018,Q3,FQ3-FY2018,,MU,2018-06-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000061/a2018q3exhibit991-pressrel.htm,revenue,7797.0,USD mn,GAAP
+2018,Q3,FQ3-FY2018,,MU,2018-06-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000061/a2018q3exhibit991-pressrel.htm,gross_profit,4723.0,USD mn,GAAP
+2018,Q3,FQ3-FY2018,,MU,2018-06-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000061/a2018q3exhibit991-pressrel.htm,gross_margin_pct,60.6,pct,GAAP
+2018,Q3,FQ3-FY2018,,MU,2018-06-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000061/a2018q3exhibit991-pressrel.htm,gross_margin_pct,60.9,pct,non-GAAP
+2018,Q4,FQ4-FY2018,,MU,2018-09-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000085/a2018q4exhibit991-pressrel.htm,revenue,8440.0,USD mn,GAAP
+2018,Q4,FQ4-FY2018,,MU,2018-09-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000085/a2018q4exhibit991-pressrel.htm,gross_profit,5151.0,USD mn,GAAP
+2018,Q4,FQ4-FY2018,,MU,2018-09-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000085/a2018q4exhibit991-pressrel.htm,gross_margin_pct,61.0,pct,GAAP
+2018,Q4,FQ4-FY2018,,MU,2018-09-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000085/a2018q4exhibit991-pressrel.htm,gross_margin_pct,61.4,pct,non-GAAP
+2019,Q1,FQ1-FY2019,,MU,2018-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000152/a2019q1exhibit991-pressrel.htm,revenue,7913.0,USD mn,GAAP
+2019,Q1,FQ1-FY2019,,MU,2018-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000152/a2019q1exhibit991-pressrel.htm,gross_profit,4615.0,USD mn,GAAP
+2019,Q1,FQ1-FY2019,,MU,2018-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000152/a2019q1exhibit991-pressrel.htm,gross_margin_pct,58.3,pct,GAAP
+2019,Q1,FQ1-FY2019,,MU,2018-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312518000152/a2019q1exhibit991-pressrel.htm,gross_margin_pct,59.0,pct,non-GAAP
+2019,Q2,FQ2-FY2019,,MU,2019-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000012/a2019q2exhibit991-pressrel.htm,revenue,5835.0,USD mn,GAAP
+2019,Q2,FQ2-FY2019,,MU,2019-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000012/a2019q2exhibit991-pressrel.htm,gross_profit,2864.0,USD mn,GAAP
+2019,Q2,FQ2-FY2019,,MU,2019-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000012/a2019q2exhibit991-pressrel.htm,gross_margin_pct,49.1,pct,GAAP
+2019,Q2,FQ2-FY2019,,MU,2019-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000012/a2019q2exhibit991-pressrel.htm,gross_margin_pct,50.2,pct,non-GAAP
+2019,Q3,FQ3-FY2019,2019-05-30,MU,2019-06-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000032/a2019q3exhibit991-pressrel.htm,revenue,4788.0,USD mn,GAAP
+2019,Q3,FQ3-FY2019,2019-05-30,MU,2019-06-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000032/a2019q3exhibit991-pressrel.htm,gross_profit,1828.0,USD mn,GAAP
+2019,Q3,FQ3-FY2019,2019-05-30,MU,2019-06-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000032/a2019q3exhibit991-pressrel.htm,gross_margin_pct,38.2,pct,GAAP
+2019,Q3,FQ3-FY2019,2019-05-30,MU,2019-06-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000032/a2019q3exhibit991-pressrel.htm,gross_margin_pct,39.3,pct,non-GAAP
+2019,Q4,FQ4-FY2019,,MU,2019-09-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000068/a2019q4exhibit991-pressrel.htm,revenue,4870.0,USD mn,GAAP
+2019,Q4,FQ4-FY2019,,MU,2019-09-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000068/a2019q4exhibit991-pressrel.htm,gross_profit,1395.0,USD mn,GAAP
+2019,Q4,FQ4-FY2019,,MU,2019-09-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000068/a2019q4exhibit991-pressrel.htm,gross_margin_pct,28.6,pct,GAAP
+2019,Q4,FQ4-FY2019,,MU,2019-09-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000068/a2019q4exhibit991-pressrel.htm,gross_margin_pct,30.6,pct,non-GAAP
+2020,Q1,FQ1-FY2020,2019-11-28,MU,2019-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000172/a2020q1exhibit991-pres.htm,revenue,5144.0,USD mn,GAAP
+2020,Q1,FQ1-FY2020,2019-11-28,MU,2019-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000172/a2020q1exhibit991-pres.htm,gross_profit,1366.0,USD mn,GAAP
+2020,Q1,FQ1-FY2020,2019-11-28,MU,2019-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000172/a2020q1exhibit991-pres.htm,gross_margin_pct,26.6,pct,GAAP
+2020,Q1,FQ1-FY2020,2019-11-28,MU,2019-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312519000172/a2020q1exhibit991-pres.htm,gross_margin_pct,27.3,pct,non-GAAP
+2020,Q2,FQ2-FY2020,2020-02-27,MU,2020-03-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000030/a2020q2exhibit991-pres.htm,revenue,4797.0,USD mn,GAAP
+2020,Q2,FQ2-FY2020,2020-02-27,MU,2020-03-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000030/a2020q2exhibit991-pres.htm,gross_profit,1355.0,USD mn,GAAP
+2020,Q2,FQ2-FY2020,2020-02-27,MU,2020-03-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000030/a2020q2exhibit991-pres.htm,gross_margin_pct,28.2,pct,GAAP
+2020,Q2,FQ2-FY2020,2020-02-27,MU,2020-03-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000030/a2020q2exhibit991-pres.htm,gross_margin_pct,29.1,pct,non-GAAP
+2020,Q3,FQ3-FY2020,2020-05-28,MU,2020-06-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000063/a2020q3exhibit991-pres.htm,revenue,5438.0,USD mn,GAAP
+2020,Q3,FQ3-FY2020,2020-05-28,MU,2020-06-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000063/a2020q3exhibit991-pres.htm,gross_profit,1763.0,USD mn,GAAP
+2020,Q3,FQ3-FY2020,2020-05-28,MU,2020-06-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000063/a2020q3exhibit991-pres.htm,gross_margin_pct,32.4,pct,GAAP
+2020,Q3,FQ3-FY2020,2020-05-28,MU,2020-06-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000063/a2020q3exhibit991-pres.htm,gross_margin_pct,33.2,pct,non-GAAP
+2020,Q4,FQ4-FY2020,,MU,2020-09-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000079/a2020q4exhibit991-pres.htm,revenue,6056.0,USD mn,GAAP
+2020,Q4,FQ4-FY2020,,MU,2020-09-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000079/a2020q4exhibit991-pres.htm,gross_profit,2068.0,USD mn,GAAP
+2020,Q4,FQ4-FY2020,,MU,2020-09-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000079/a2020q4exhibit991-pres.htm,gross_margin_pct,34.1,pct,GAAP
+2020,Q4,FQ4-FY2020,,MU,2020-09-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312520000079/a2020q4exhibit991-pres.htm,gross_margin_pct,34.9,pct,non-GAAP
+2021,Q1,FQ1-FY2021,,MU,2021-01-07,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000009/a2021q1ex991-pressrelease.htm,revenue,5773.0,USD mn,GAAP
+2021,Q1,FQ1-FY2021,,MU,2021-01-07,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000009/a2021q1ex991-pressrelease.htm,gross_profit,1736.0,USD mn,GAAP
+2021,Q1,FQ1-FY2021,,MU,2021-01-07,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000009/a2021q1ex991-pressrelease.htm,gross_margin_pct,30.1,pct,GAAP
+2021,Q1,FQ1-FY2021,,MU,2021-01-07,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000009/a2021q1ex991-pressrelease.htm,gross_margin_pct,30.9,pct,non-GAAP
+2021,Q2,FQ2-FY2021,2021-03-04,MU,2021-03-31,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000028/a2021q2ex991-pressrelease.htm,revenue,6236.0,USD mn,GAAP
+2021,Q2,FQ2-FY2021,2021-03-04,MU,2021-03-31,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000028/a2021q2ex991-pressrelease.htm,gross_profit,1649.0,USD mn,GAAP
+2021,Q2,FQ2-FY2021,2021-03-04,MU,2021-03-31,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000028/a2021q2ex991-pressrelease.htm,gross_margin_pct,26.4,pct,GAAP
+2021,Q2,FQ2-FY2021,2021-03-04,MU,2021-03-31,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000028/a2021q2ex991-pressrelease.htm,gross_margin_pct,32.9,pct,non-GAAP
+2021,Q3,FQ3-FY2021,2021-06-03,MU,2021-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000049/a2021q3ex991-pressrelease.htm,revenue,7422.0,USD mn,GAAP
+2021,Q3,FQ3-FY2021,2021-06-03,MU,2021-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000049/a2021q3ex991-pressrelease.htm,gross_profit,3126.0,USD mn,GAAP
+2021,Q3,FQ3-FY2021,2021-06-03,MU,2021-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000049/a2021q3ex991-pressrelease.htm,gross_margin_pct,42.1,pct,GAAP
+2021,Q3,FQ3-FY2021,2021-06-03,MU,2021-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000049/a2021q3ex991-pressrelease.htm,gross_margin_pct,42.9,pct,non-GAAP
+2021,Q4,FQ4-FY2021,,MU,2021-09-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000060/a2021q4ex991-pressrelease.htm,revenue,8274.0,USD mn,GAAP
+2021,Q4,FQ4-FY2021,,MU,2021-09-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000060/a2021q4ex991-pressrelease.htm,gross_profit,3912.0,USD mn,GAAP
+2021,Q4,FQ4-FY2021,,MU,2021-09-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000060/a2021q4ex991-pressrelease.htm,gross_margin_pct,47.3,pct,GAAP
+2021,Q4,FQ4-FY2021,,MU,2021-09-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000060/a2021q4ex991-pressrelease.htm,gross_margin_pct,47.9,pct,non-GAAP
+2022,Q1,FQ1-FY2022,,MU,2021-12-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000086/a2022q1ex991-pressrelease.htm,revenue,7687.0,USD mn,GAAP
+2022,Q1,FQ1-FY2022,,MU,2021-12-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000086/a2022q1ex991-pressrelease.htm,gross_profit,3565.0,USD mn,GAAP
+2022,Q1,FQ1-FY2022,,MU,2021-12-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000086/a2022q1ex991-pressrelease.htm,gross_margin_pct,46.4,pct,GAAP
+2022,Q1,FQ1-FY2022,,MU,2021-12-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312521000086/a2022q1ex991-pressrelease.htm,gross_margin_pct,47.0,pct,non-GAAP
+2022,Q2,FQ2-FY2022,2022-03-03,MU,2022-03-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000012/a2022q2ex991-pressrelease.htm,revenue,7786.0,USD mn,GAAP
+2022,Q2,FQ2-FY2022,2022-03-03,MU,2022-03-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000012/a2022q2ex991-pressrelease.htm,gross_profit,3676.0,USD mn,GAAP
+2022,Q2,FQ2-FY2022,2022-03-03,MU,2022-03-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000012/a2022q2ex991-pressrelease.htm,gross_margin_pct,47.2,pct,GAAP
+2022,Q2,FQ2-FY2022,2022-03-03,MU,2022-03-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000012/a2022q2ex991-pressrelease.htm,gross_margin_pct,47.8,pct,non-GAAP
+2022,Q3,FQ3-FY2022,2022-06-02,MU,2022-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000034/a2022q3ex991-pressrelease.htm,revenue,8642.0,USD mn,GAAP
+2022,Q3,FQ3-FY2022,2022-06-02,MU,2022-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000034/a2022q3ex991-pressrelease.htm,gross_profit,4035.0,USD mn,GAAP
+2022,Q3,FQ3-FY2022,2022-06-02,MU,2022-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000034/a2022q3ex991-pressrelease.htm,gross_margin_pct,46.7,pct,GAAP
+2022,Q3,FQ3-FY2022,2022-06-02,MU,2022-06-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000034/a2022q3ex991-pressrelease.htm,gross_margin_pct,47.4,pct,non-GAAP
+2022,Q4,FQ4-FY2022,2022-09-01,MU,2022-09-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000044/a2022q4ex991-pressrelease.htm,revenue,6643.0,USD mn,GAAP
+2022,Q4,FQ4-FY2022,2022-09-01,MU,2022-09-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000044/a2022q4ex991-pressrelease.htm,gross_profit,2622.0,USD mn,GAAP
+2022,Q4,FQ4-FY2022,2022-09-01,MU,2022-09-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000044/a2022q4ex991-pressrelease.htm,gross_margin_pct,39.5,pct,GAAP
+2022,Q4,FQ4-FY2022,2022-09-01,MU,2022-09-29,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000044/a2022q4ex991-pressrelease.htm,gross_margin_pct,40.3,pct,non-GAAP
+2023,Q1,FQ1-FY2023,2022-12-01,MU,2022-12-21,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000070/a2023q1ex991-pressrelease.htm,revenue,4085.0,USD mn,GAAP
+2023,Q1,FQ1-FY2023,2022-12-01,MU,2022-12-21,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000070/a2023q1ex991-pressrelease.htm,gross_profit,893.0,USD mn,GAAP
+2023,Q1,FQ1-FY2023,2022-12-01,MU,2022-12-21,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000070/a2023q1ex991-pressrelease.htm,gross_margin_pct,21.9,pct,GAAP
+2023,Q1,FQ1-FY2023,2022-12-01,MU,2022-12-21,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312522000070/a2023q1ex991-pressrelease.htm,gross_margin_pct,22.9,pct,non-GAAP
+2023,Q2,FQ2-FY2023,2023-03-02,MU,2023-03-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000018/a2023q2ex991-pressrelease.htm,revenue,3693.0,USD mn,GAAP
+2023,Q2,FQ2-FY2023,2023-03-02,MU,2023-03-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000018/a2023q2ex991-pressrelease.htm,gross_profit,-1206.0,USD mn,GAAP
+2023,Q2,FQ2-FY2023,2023-03-02,MU,2023-03-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000018/a2023q2ex991-pressrelease.htm,gross_margin_pct,-32.7,pct,GAAP
+2023,Q2,FQ2-FY2023,2023-03-02,MU,2023-03-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000018/a2023q2ex991-pressrelease.htm,gross_margin_pct,-31.4,pct,non-GAAP
+2023,Q3,FQ3-FY2023,2023-06-01,MU,2023-06-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000038/a2023q3ex991-pressrelease.htm,revenue,3752.0,USD mn,GAAP
+2023,Q3,FQ3-FY2023,2023-06-01,MU,2023-06-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000038/a2023q3ex991-pressrelease.htm,gross_profit,-668.0,USD mn,GAAP
+2023,Q3,FQ3-FY2023,2023-06-01,MU,2023-06-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000038/a2023q3ex991-pressrelease.htm,gross_margin_pct,-17.8,pct,GAAP
+2023,Q3,FQ3-FY2023,2023-06-01,MU,2023-06-28,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000038/a2023q3ex991-pressrelease.htm,gross_margin_pct,-16.1,pct,non-GAAP
+2023,Q4,FQ4-FY2023,2023-08-31,MU,2023-09-27,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000051/a2023q4ex991-pressrelease.htm,revenue,4010.0,USD mn,GAAP
+2023,Q4,FQ4-FY2023,2023-08-31,MU,2023-09-27,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000051/a2023q4ex991-pressrelease.htm,gross_profit,-435.0,USD mn,GAAP
+2023,Q4,FQ4-FY2023,2023-08-31,MU,2023-09-27,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000051/a2023q4ex991-pressrelease.htm,gross_margin_pct,-10.8,pct,GAAP
+2023,Q4,FQ4-FY2023,2023-08-31,MU,2023-09-27,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000051/a2023q4ex991-pressrelease.htm,gross_margin_pct,-9.1,pct,non-GAAP
+2024,Q1,FQ1-FY2024,2023-11-30,MU,2023-12-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000071/a2024q1ex991-pressrelease.htm,revenue,4726.0,USD mn,GAAP
+2024,Q1,FQ1-FY2024,2023-11-30,MU,2023-12-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000071/a2024q1ex991-pressrelease.htm,gross_profit,-35.0,USD mn,GAAP
+2024,Q1,FQ1-FY2024,2023-11-30,MU,2023-12-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000071/a2024q1ex991-pressrelease.htm,gross_margin_pct,-0.7,pct,GAAP
+2024,Q1,FQ1-FY2024,2023-11-30,MU,2023-12-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312523000071/a2024q1ex991-pressrelease.htm,gross_margin_pct,0.8,pct,non-GAAP
+2024,Q2,FQ2-FY2024,2024-02-29,MU,2024-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000004/a2024q2ex991-pressrelease.htm,revenue,5824.0,USD mn,GAAP
+2024,Q2,FQ2-FY2024,2024-02-29,MU,2024-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000004/a2024q2ex991-pressrelease.htm,gross_profit,1079.0,USD mn,GAAP
+2024,Q2,FQ2-FY2024,2024-02-29,MU,2024-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000004/a2024q2ex991-pressrelease.htm,gross_margin_pct,18.5,pct,GAAP
+2024,Q2,FQ2-FY2024,2024-02-29,MU,2024-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000004/a2024q2ex991-pressrelease.htm,gross_margin_pct,20.0,pct,non-GAAP
+2024,Q3,FQ3-FY2024,2024-05-30,MU,2024-06-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000016/a2024q3ex991-pressrelease.htm,revenue,6811.0,USD mn,GAAP
+2024,Q3,FQ3-FY2024,2024-05-30,MU,2024-06-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000016/a2024q3ex991-pressrelease.htm,gross_profit,1832.0,USD mn,GAAP
+2024,Q3,FQ3-FY2024,2024-05-30,MU,2024-06-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000016/a2024q3ex991-pressrelease.htm,gross_margin_pct,26.9,pct,GAAP
+2024,Q3,FQ3-FY2024,2024-05-30,MU,2024-06-26,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000016/a2024q3ex991-pressrelease.htm,gross_margin_pct,28.1,pct,non-GAAP
+2024,Q4,FQ4-FY2024,2024-08-29,MU,2024-09-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000023/a2024q4ex991-pressrelease.htm,revenue,7750.0,USD mn,GAAP
+2024,Q4,FQ4-FY2024,2024-08-29,MU,2024-09-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000023/a2024q4ex991-pressrelease.htm,gross_profit,2737.0,USD mn,GAAP
+2024,Q4,FQ4-FY2024,2024-08-29,MU,2024-09-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000023/a2024q4ex991-pressrelease.htm,gross_margin_pct,35.3,pct,GAAP
+2024,Q4,FQ4-FY2024,2024-08-29,MU,2024-09-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000023/a2024q4ex991-pressrelease.htm,gross_margin_pct,36.5,pct,non-GAAP
+2025,Q1,FQ1-FY2025,2024-11-28,MU,2024-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000046/a2025q1ex991-pressrelease.htm,revenue,8709.0,USD mn,GAAP
+2025,Q1,FQ1-FY2025,2024-11-28,MU,2024-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000046/a2025q1ex991-pressrelease.htm,gross_profit,3348.0,USD mn,GAAP
+2025,Q1,FQ1-FY2025,2024-11-28,MU,2024-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000046/a2025q1ex991-pressrelease.htm,gross_margin_pct,38.4,pct,GAAP
+2025,Q1,FQ1-FY2025,2024-11-28,MU,2024-12-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312524000046/a2025q1ex991-pressrelease.htm,gross_margin_pct,39.5,pct,non-GAAP
+2025,Q2,FQ2-FY2025,2025-02-27,MU,2025-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000006/a2025q2ex991-pressrelease.htm,revenue,8053.0,USD mn,GAAP
+2025,Q2,FQ2-FY2025,2025-02-27,MU,2025-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000006/a2025q2ex991-pressrelease.htm,gross_profit,2963.0,USD mn,GAAP
+2025,Q2,FQ2-FY2025,2025-02-27,MU,2025-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000006/a2025q2ex991-pressrelease.htm,gross_margin_pct,36.8,pct,GAAP
+2025,Q2,FQ2-FY2025,2025-02-27,MU,2025-03-20,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000006/a2025q2ex991-pressrelease.htm,gross_margin_pct,37.9,pct,non-GAAP
+2025,Q3,FQ3-FY2025,2025-05-29,MU,2025-06-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000019/a2025q3ex991-pressrelease.htm,revenue,9301.0,USD mn,GAAP
+2025,Q3,FQ3-FY2025,2025-05-29,MU,2025-06-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000019/a2025q3ex991-pressrelease.htm,gross_profit,3508.0,USD mn,GAAP
+2025,Q3,FQ3-FY2025,2025-05-29,MU,2025-06-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000019/a2025q3ex991-pressrelease.htm,gross_margin_pct,37.7,pct,GAAP
+2025,Q3,FQ3-FY2025,2025-05-29,MU,2025-06-25,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000019/a2025q3ex991-pressrelease.htm,gross_margin_pct,39.0,pct,non-GAAP
+2025,Q4,FQ4-FY2025,2025-08-28,MU,2025-09-23,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000024/a2025q4ex991-pressrelease.htm,revenue,11315.0,USD mn,GAAP
+2025,Q4,FQ4-FY2025,2025-08-28,MU,2025-09-23,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000024/a2025q4ex991-pressrelease.htm,gross_profit,5054.0,USD mn,GAAP
+2025,Q4,FQ4-FY2025,2025-08-28,MU,2025-09-23,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000024/a2025q4ex991-pressrelease.htm,gross_margin_pct,44.7,pct,GAAP
+2025,Q4,FQ4-FY2025,2025-08-28,MU,2025-09-23,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000024/a2025q4ex991-pressrelease.htm,gross_margin_pct,45.7,pct,non-GAAP
+2026,Q1,FQ1-FY2026,2025-11-27,MU,2025-12-17,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000044/a2026q1ex991-pressrelease.htm,revenue,13643.0,USD mn,GAAP
+2026,Q1,FQ1-FY2026,2025-11-27,MU,2025-12-17,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000044/a2026q1ex991-pressrelease.htm,gross_profit,7646.0,USD mn,GAAP
+2026,Q1,FQ1-FY2026,2025-11-27,MU,2025-12-17,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000044/a2026q1ex991-pressrelease.htm,gross_margin_pct,56.0,pct,GAAP
+2026,Q1,FQ1-FY2026,2025-11-27,MU,2025-12-17,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312525000044/a2026q1ex991-pressrelease.htm,gross_margin_pct,56.8,pct,non-GAAP
+2026,Q2,FQ2-FY2026,2026-02-26,MU,2026-03-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000004/a2026q2ex991-pressrelease.htm,revenue,23860.0,USD mn,GAAP
+2026,Q2,FQ2-FY2026,2026-02-26,MU,2026-03-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000004/a2026q2ex991-pressrelease.htm,gross_profit,17755.0,USD mn,GAAP
+2026,Q2,FQ2-FY2026,2026-02-26,MU,2026-03-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000004/a2026q2ex991-pressrelease.htm,gross_margin_pct,74.4,pct,GAAP
+2026,Q2,FQ2-FY2026,2026-02-26,MU,2026-03-18,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000004/a2026q2ex991-pressrelease.htm,gross_margin_pct,74.9,pct,non-GAAP
+2026,Q3,FQ3-FY2026,2026-05-28,MU,2026-06-24,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000013/a2026q3ex991-pressrelease.htm,revenue,41456.0,USD mn,GAAP
+2026,Q3,FQ3-FY2026,2026-05-28,MU,2026-06-24,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000013/a2026q3ex991-pressrelease.htm,gross_profit,35056.0,USD mn,GAAP
+2026,Q3,FQ3-FY2026,2026-05-28,MU,2026-06-24,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000013/a2026q3ex991-pressrelease.htm,gross_margin_pct,84.6,pct,GAAP
+2026,Q3,FQ3-FY2026,2026-05-28,MU,2026-06-24,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000013/a2026q3ex991-pressrelease.htm,gross_margin_pct,84.9,pct,non-GAAP
+2026,Q4,FQ4-FY2026,2026-09-03,MU,2026-09-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000018/a2026q4ex991-pressrelease.htm,revenue,54229.0,USD mn,GAAP
+2026,Q4,FQ4-FY2026,2026-09-03,MU,2026-09-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000018/a2026q4ex991-pressrelease.htm,gross_profit,47047.0,USD mn,GAAP
+2026,Q4,FQ4-FY2026,2026-09-03,MU,2026-09-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000018/a2026q4ex991-pressrelease.htm,gross_margin_pct,86.8,pct,GAAP
+2026,Q4,FQ4-FY2026,2026-09-03,MU,2026-09-30,press_release_8-K_ex99.1,https://www.sec.gov/Archives/edgar/data/723125/000072312526000018/a2026q4ex991-pressrelease.htm,gross_margin_pct,87.0,pct,non-GAAP

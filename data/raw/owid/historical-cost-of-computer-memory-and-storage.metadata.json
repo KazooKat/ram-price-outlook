@@ -1,0 +1,84 @@
+{
+ "chart": {
+  "title": "Historical price of computer memory and storage",
+  "subtitle": "This data is expressed in US dollars per terabyte (TB), adjusted for inflation. \"Memory\" refers to random access memory (RAM), \"disk\" to magnetic storage, \"flash\" to special memory used for rapid data access and rewriting, and \"solid state\" to solid-state drives (SSDs).",
+  "note": "For each year, the time series shows the cheapest historical price recorded until that year. This data is expressed in constant 2020 US$.",
+  "citation": "John C. McCallum (2023); U.S. Bureau of Labor Statistics (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage?v=1&csvType=full&useColumnShortNames=false",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Historical price of memory": {
+   "titleShort": "Memory",
+   "titleLong": "Memory",
+   "descriptionShort": "This data is expressed in US dollars per terabyte (TB), adjusted for inflation.",
+   "descriptionKey": "- The Consumer Price Index (CPI) measures inflation \u2014 how the average prices of goods and services change over time.\n- The all items CPI provides a comprehensive measure of the average change over time in prices paid by urban consumers for a broad basket of goods and services.\n- It encompasses categories such as food, housing, apparel, transportation, medical care, recreation, education, and communication.\n- Prices are collected monthly from a wide array of retail and service establishments across the U.S.\n- The index serves as a key indicator of inflation, reflecting the overall cost of living for consumers.\n- It is widely used for economic analysis, policy-making, and adjusting income payments for inflation.\n- The index uses a base period of 1982\u201384, which is set to 100. Later values show how much prices have changed since then.",
+   "shortUnit": "$/TB",
+   "unit": "constant 2020 US$ per terabyte",
+   "timespan": "1957-2023",
+   "type": "Numeric",
+   "owidVariableId": 901115,
+   "shortName": "memory",
+   "lastUpdated": "2024-05-13",
+   "nextUpdate": "2026-11-06",
+   "citationShort": "John C. McCallum (2023); U.S. Bureau of Labor Statistics (2026) \u2013 with minor processing by Our World in Data",
+   "citationLong": "John C. McCallum (2023); U.S. Bureau of Labor Statistics (2026) \u2013 with minor processing by Our World in Data. \u201cMemory\u201d [dataset]. John C. McCallum, \u201cPrice and Performance Changes of Computer Technology with Time\u201d; U.S. Bureau of Labor Statistics, \u201cUS consumer prices\u201d [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/901115.metadata.json"
+  },
+  "Historical price of flash memory": {
+   "titleShort": "Flash",
+   "titleLong": "Flash",
+   "descriptionShort": "This data is expressed in US dollars per terabyte (TB), adjusted for inflation.",
+   "descriptionKey": "- The Consumer Price Index (CPI) measures inflation \u2014 how the average prices of goods and services change over time.\n- The all items CPI provides a comprehensive measure of the average change over time in prices paid by urban consumers for a broad basket of goods and services.\n- It encompasses categories such as food, housing, apparel, transportation, medical care, recreation, education, and communication.\n- Prices are collected monthly from a wide array of retail and service establishments across the U.S.\n- The index serves as a key indicator of inflation, reflecting the overall cost of living for consumers.\n- It is widely used for economic analysis, policy-making, and adjusting income payments for inflation.\n- The index uses a base period of 1982\u201384, which is set to 100. Later values show how much prices have changed since then.",
+   "shortUnit": "$/TB",
+   "unit": "constant 2020 US$ per terabyte",
+   "timespan": "2003-2017",
+   "type": "Numeric",
+   "owidVariableId": 901114,
+   "shortName": "flash",
+   "lastUpdated": "2024-05-13",
+   "nextUpdate": "2026-11-06",
+   "citationShort": "John C. McCallum (2023); U.S. Bureau of Labor Statistics (2026) \u2013 with minor processing by Our World in Data",
+   "citationLong": "John C. McCallum (2023); U.S. Bureau of Labor Statistics (2026) \u2013 with minor processing by Our World in Data. \u201cFlash\u201d [dataset]. John C. McCallum, \u201cPrice and Performance Changes of Computer Technology with Time\u201d; U.S. Bureau of Labor Statistics, \u201cUS consumer prices\u201d [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/901114.metadata.json"
+  },
+  "Historical price of disk drives": {
+   "titleShort": "Disk",
+   "titleLong": "Disk",
+   "descriptionShort": "This data is expressed in US dollars per terabyte (TB), adjusted for inflation.",
+   "descriptionKey": "- The Consumer Price Index (CPI) measures inflation \u2014 how the average prices of goods and services change over time.\n- The all items CPI provides a comprehensive measure of the average change over time in prices paid by urban consumers for a broad basket of goods and services.\n- It encompasses categories such as food, housing, apparel, transportation, medical care, recreation, education, and communication.\n- Prices are collected monthly from a wide array of retail and service establishments across the U.S.\n- The index serves as a key indicator of inflation, reflecting the overall cost of living for consumers.\n- It is widely used for economic analysis, policy-making, and adjusting income payments for inflation.\n- The index uses a base period of 1982\u201384, which is set to 100. Later values show how much prices have changed since then.",
+   "shortUnit": "$/TB",
+   "unit": "constant 2020 US$ per terabyte",
+   "timespan": "1956-2023",
+   "type": "Numeric",
+   "owidVariableId": 901113,
+   "shortName": "ddrives",
+   "lastUpdated": "2024-05-13",
+   "nextUpdate": "2026-11-06",
+   "citationShort": "John C. McCallum (2023); U.S. Bureau of Labor Statistics (2026) \u2013 with minor processing by Our World in Data",
+   "citationLong": "John C. McCallum (2023); U.S. Bureau of Labor Statistics (2026) \u2013 with minor processing by Our World in Data. \u201cDisk\u201d [dataset]. John C. McCallum, \u201cPrice and Performance Changes of Computer Technology with Time\u201d; U.S. Bureau of Labor Statistics, \u201cUS consumer prices\u201d [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/901113.metadata.json"
+  },
+  "Historical price of solid-state drives": {
+   "titleShort": "Solid state",
+   "titleLong": "Solid state",
+   "descriptionShort": "This data is expressed in US dollars per terabyte (TB), adjusted for inflation.",
+   "descriptionKey": "- The Consumer Price Index (CPI) measures inflation \u2014 how the average prices of goods and services change over time.\n- The all items CPI provides a comprehensive measure of the average change over time in prices paid by urban consumers for a broad basket of goods and services.\n- It encompasses categories such as food, housing, apparel, transportation, medical care, recreation, education, and communication.\n- Prices are collected monthly from a wide array of retail and service establishments across the U.S.\n- The index serves as a key indicator of inflation, reflecting the overall cost of living for consumers.\n- It is widely used for economic analysis, policy-making, and adjusting income payments for inflation.\n- The index uses a base period of 1982\u201384, which is set to 100. Later values show how much prices have changed since then.",
+   "shortUnit": "$/TB",
+   "unit": "constant 2020 US$ per terabyte",
+   "timespan": "2013-2023",
+   "type": "Numeric",
+   "owidVariableId": 901116,
+   "shortName": "ssd",
+   "lastUpdated": "2024-05-13",
+   "nextUpdate": "2026-11-06",
+   "citationShort": "John C. McCallum (2023); U.S. Bureau of Labor Statistics (2026) \u2013 with minor processing by Our World in Data",
+   "citationLong": "John C. McCallum (2023); U.S. Bureau of Labor Statistics (2026) \u2013 with minor processing by Our World in Data. \u201cSolid state\u201d [dataset]. John C. McCallum, \u201cPrice and Performance Changes of Computer Technology with Time\u201d; U.S. Bureau of Labor Statistics, \u201cUS consumer prices\u201d [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/901116.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-06",
+ "activeFilters": {}
+}
