@@ -1,6 +1,6 @@
 # Wikipedia pageviews (English, user agents, monthly)
 
-Fetched: 2026-10-06
+Fetched: 2026-10-07
 
 Sources:
 - https://wikimedia.org/api/rest_v1/ (Pageviews per-article API)
@@ -14,3 +14,5 @@ Articles: Dynamic_random-access_memory, Random-access_memory, DDR4_SDRAM, DDR5_S
   metric=pageviews_user_redirect rows for each redirect/former title, and a summed series
   term="<article>+redirects", metric=pageviews_user_all_titles. Use the summed series for that article.
 - Re-running re-downloads everything (one request per article).
+- Titles that still failed (transient HTTP 429/5xx) after a slow retry on the last run, so are
+  missing from that run's data: none.

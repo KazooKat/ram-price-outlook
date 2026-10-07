@@ -6,13 +6,17 @@ in tidy form (date, term, metric, value).
 """
 from __future__ import annotations
 
+import sys
+from pathlib import Path
 import datetime as dt
 import time
 from urllib.parse import quote
 
 import pandas as pd
+import requests
 
-from fetch._common import get, raw_dir, write_source_note
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from fetch._common import get, raw_dir, write_source_note  # noqa: E402
 
 SOURCE = "wikipedia_pageviews"
 API = ("https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/"
@@ -47,13 +51,19 @@ def redirects_to(article: str) -> list[str]:
     return sorted({x["title"].replace(" ", "_") for p in pages for x in p.get("redirects", [])})
 
 
-def fetch_article(article: str, end: str) -> pd.DataFrame:
+def fetch_article(article: str, end: str, **retry) -> pd.DataFrame | None:
+    """Monthly views; an empty frame when the API has no data (404), None on a transient failure."""
     url = API.format(article=quote(article, safe=""), start=START, end=end)
     try:
-        items = get(url).json()["items"]
-    except Exception as e:  # 404 when an article has no views in range
+        items = get(url, **retry).json()["items"]
+    except requests.HTTPError as e:
+        if e.response is not None and e.response.status_code == 404:
+            return pd.DataFrame()
         print(f"  {article}: failed ({e})")
-        return pd.DataFrame()
+        return None
+    except RuntimeError as e:  # _common.get gave up on repeated 429/5xx
+        print(f"  {article}: failed ({e})")
+        return None
     df = pd.DataFrame(items)
     return pd.DataFrame({
         "date": pd.to_datetime(df["timestamp"].str[:8]).dt.strftime("%Y-%m-%d"),
@@ -66,23 +76,42 @@ def fetch_article(article: str, end: str) -> pd.DataFrame:
 def main() -> None:
     out = raw_dir(SOURCE)
     end = dt.date.today().strftime("%Y%m%d") + "00"
-    frames = []
+    frames, missing = [], []
+
+    def fetch_all(titles: list[str]) -> dict[str, pd.DataFrame]:
+        got, retry = {}, []
+        for t in titles:
+            df = fetch_article(t, end)
+            if df is None:
+                retry.append(t)
+            else:
+                got[t] = df
+            time.sleep(1.0)
+        # Wikimedia answers bursts with transient 429s; retry those once more, slowly.
+        for t in retry:
+            time.sleep(10)
+            df = fetch_article(t, end, retries=6, backoff=10)
+            if df is None:
+                missing.append(t)
+            else:
+                got[t] = df
+        return got
+
+    main_views = fetch_all(ARTICLES)
     for a in ARTICLES:
-        df = fetch_article(a, end)
-        print(f"  {a}: {len(df)} months")
-        frames.append(df)
-        time.sleep(0.5)
+        print(f"  {a}: {len(main_views.get(a, []))} months")
+        if a in main_views:
+            frames.append(main_views[a])
     for target in WITH_REDIRECTS:
-        parts = [frames[ARTICLES.index(target)]]
-        for rd in redirects_to(target):
-            df = fetch_article(rd, end)
-            if len(df):
-                parts.append(df.assign(metric="pageviews_user_redirect"))
-                frames.append(parts[-1])
-            time.sleep(1.5)
+        rd_views = {t: df for t, df in fetch_all(redirects_to(target)).items() if len(df)}
+        parts = [main_views.get(target, pd.DataFrame())]
+        for df in rd_views.values():
+            parts.append(df.assign(metric="pageviews_user_redirect"))
+            frames.append(parts[-1])
         total = pd.concat(parts).groupby("date", as_index=False)["value"].sum()
         frames.append(total.assign(term=target + "+redirects", metric="pageviews_user_all_titles"))
-        print(f"  {target}: {len(parts) - 1} redirect titles with views")
+        print(f"  {target}: {len(rd_views)} redirect titles with views")
+    print(f"  still failing after retry: {missing or 'none'}")
     tidy = pd.concat(frames, ignore_index=True).sort_values(["term", "date"])
     tidy.to_csv(out / "pageviews_monthly.csv", index=False)
     print(f"wrote {len(tidy)} rows")
@@ -100,6 +129,8 @@ Articles: {', '.join(ARTICLES)}.
   metric=pageviews_user_redirect rows for each redirect/former title, and a summed series
   term="<article>+redirects", metric=pageviews_user_all_titles. Use the summed series for that article.
 - Re-running re-downloads everything (one request per article).
+- Titles that still failed (transient HTTP 429/5xx) after a slow retry on the last run, so are
+  missing from that run's data: {missing or 'none'}.
 """,
     )
 

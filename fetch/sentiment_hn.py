@@ -15,12 +15,15 @@ exact: Algolia's exhaustiveNbHits for that count (blank for total_items).
 """
 from __future__ import annotations
 
+import sys
+from pathlib import Path
 import datetime as dt
 import time
 
 import pandas as pd
 
-from fetch._common import get, raw_dir, write_source_note
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from fetch._common import get, raw_dir, write_source_note  # noqa: E402
 
 SOURCE = "hn_algolia"
 API = "https://hn.algolia.com/api/v1/search_by_date"

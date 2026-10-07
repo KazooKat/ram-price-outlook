@@ -38,7 +38,7 @@ date,term,metric,value
 2026-07-01,2020–2023_global_chip_shortage,pageviews_user,4625
 2026-08-01,2020–2023_global_chip_shortage,pageviews_user,4091
 2026-09-01,2020–2023_global_chip_shortage,pageviews_user,4353
-2026-10-01,2020–2023_global_chip_shortage,pageviews_user,568
+2026-10-01,2020–2023_global_chip_shortage,pageviews_user,670
 2025-12-01,2024-2025_global_memory_supply_shortage,pageviews_user_redirect,127
 2026-01-01,2024-2025_global_memory_supply_shortage,pageviews_user_redirect,39
 2026-02-01,2024-2025_global_memory_supply_shortage,pageviews_user_redirect,2
@@ -113,7 +113,7 @@ date,term,metric,value
 2026-07-01,2024–2025_global_memory_supply_shortage,pageviews_user_redirect,23
 2026-08-01,2024–2025_global_memory_supply_shortage,pageviews_user_redirect,25
 2026-09-01,2024–2025_global_memory_supply_shortage,pageviews_user_redirect,47
-2026-10-01,2024–2025_global_memory_supply_shortage,pageviews_user_redirect,5
+2026-10-01,2024–2025_global_memory_supply_shortage,pageviews_user_redirect,7
 2026-01-01,2024–2026_global_memory_shortage,pageviews_user_redirect,17
 2026-02-01,2024–2026_global_memory_shortage,pageviews_user_redirect,1
 2026-03-01,2024–2026_global_memory_shortage,pageviews_user_redirect,18
@@ -142,7 +142,7 @@ date,term,metric,value
 2026-07-01,2024–2026_global_memory_supply_shortage,pageviews_user_redirect,1908
 2026-08-01,2024–2026_global_memory_supply_shortage,pageviews_user_redirect,1176
 2026-09-01,2024–2026_global_memory_supply_shortage,pageviews_user_redirect,1105
-2026-10-01,2024–2026_global_memory_supply_shortage,pageviews_user_redirect,126
+2026-10-01,2024–2026_global_memory_supply_shortage,pageviews_user_redirect,153
 2026-01-01,2024–2026_memory_shortage,pageviews_user_redirect,2
 2026-02-01,2024–2026_memory_shortage,pageviews_user_redirect,1
 2026-03-01,2024–2026_memory_shortage,pageviews_user_redirect,0
@@ -160,12 +160,12 @@ date,term,metric,value
 2026-07-01,2024–present_global_memory_supply_shortage,pageviews_user_redirect,2911
 2026-08-01,2024–present_global_memory_supply_shortage,pageviews_user_redirect,556
 2026-09-01,2024–present_global_memory_supply_shortage,pageviews_user_redirect,759
-2026-10-01,2024–present_global_memory_supply_shortage,pageviews_user_redirect,167
+2026-10-01,2024–present_global_memory_supply_shortage,pageviews_user_redirect,200
 2026-06-01,2025-present_global_memory_supply_shortage,pageviews_user_redirect,239
 2026-07-01,2025-present_global_memory_supply_shortage,pageviews_user_redirect,536
 2026-08-01,2025-present_global_memory_supply_shortage,pageviews_user_redirect,669
 2026-09-01,2025-present_global_memory_supply_shortage,pageviews_user_redirect,546
-2026-10-01,2025-present_global_memory_supply_shortage,pageviews_user_redirect,89
+2026-10-01,2025-present_global_memory_supply_shortage,pageviews_user_redirect,112
 2025-12-01,2025_RAM_shortage,pageviews_user_redirect,564
 2026-01-01,2025_RAM_shortage,pageviews_user_redirect,50
 2026-02-01,2025_RAM_shortage,pageviews_user_redirect,7
@@ -200,7 +200,7 @@ date,term,metric,value
 2026-07-01,2025–present_global_memory_supply_shortage,pageviews_user,29482
 2026-08-01,2025–present_global_memory_supply_shortage,pageviews_user,32274
 2026-09-01,2025–present_global_memory_supply_shortage,pageviews_user,29323
-2026-10-01,2025–present_global_memory_supply_shortage,pageviews_user,4408
+2026-10-01,2025–present_global_memory_supply_shortage,pageviews_user,5381
 2025-12-01,2025–present_global_memory_supply_shortage+redirects,pageviews_user_all_titles,4936
 2026-01-01,2025–present_global_memory_supply_shortage+redirects,pageviews_user_all_titles,37789
 2026-02-01,2025–present_global_memory_supply_shortage+redirects,pageviews_user_all_titles,40894
@@ -211,7 +211,7 @@ date,term,metric,value
 2026-07-01,2025–present_global_memory_supply_shortage+redirects,pageviews_user_all_titles,35100
 2026-08-01,2025–present_global_memory_supply_shortage+redirects,pageviews_user_all_titles,35094
 2026-09-01,2025–present_global_memory_supply_shortage+redirects,pageviews_user_all_titles,32065
-2026-10-01,2025–present_global_memory_supply_shortage+redirects,pageviews_user_all_titles,4844
+2026-10-01,2025–present_global_memory_supply_shortage+redirects,pageviews_user_all_titles,5911
 2026-01-01,2026_RAM_shortage,pageviews_user_redirect,1
 2026-02-01,2026_RAM_shortage,pageviews_user_redirect,1
 2026-03-01,2026_RAM_shortage,pageviews_user_redirect,3
@@ -486,7 +486,7 @@ date,term,metric,value
 2026-07-01,Central_processing_unit,pageviews_user,23995
 2026-08-01,Central_processing_unit,pageviews_user,25901
 2026-09-01,Central_processing_unit,pageviews_user,33089
-2026-10-01,Central_processing_unit,pageviews_user,4865
+2026-10-01,Central_processing_unit,pageviews_user,6117
 2021-03-01,Chip_shortage,pageviews_user,72
 2021-04-01,Chip_shortage,pageviews_user,12845
 2021-05-01,Chip_shortage,pageviews_user,19677
@@ -554,7 +554,7 @@ date,term,metric,value
 2026-07-01,Chip_shortage,pageviews_user,824
 2026-08-01,Chip_shortage,pageviews_user,943
 2026-09-01,Chip_shortage,pageviews_user,745
-2026-10-01,Chip_shortage,pageviews_user,111
+2026-10-01,Chip_shortage,pageviews_user,133
 2026-01-01,Chip_supply_chain_memory_shortage,pageviews_user_redirect,1
 2026-02-01,Chip_supply_chain_memory_shortage,pageviews_user_redirect,1
 2026-03-01,Chip_supply_chain_memory_shortage,pageviews_user_redirect,3
@@ -708,7 +708,7 @@ date,term,metric,value
 2026-07-01,DDR4_SDRAM,pageviews_user,11967
 2026-08-01,DDR4_SDRAM,pageviews_user,12330
 2026-09-01,DDR4_SDRAM,pageviews_user,11792
-2026-10-01,DDR4_SDRAM,pageviews_user,1882
+2026-10-01,DDR4_SDRAM,pageviews_user,2308
 2015-07-01,DDR5_SDRAM,pageviews_user,151
 2015-08-01,DDR5_SDRAM,pageviews_user,174
 2015-09-01,DDR5_SDRAM,pageviews_user,195
@@ -844,7 +844,7 @@ date,term,metric,value
 2026-07-01,DDR5_SDRAM,pageviews_user,18298
 2026-08-01,DDR5_SDRAM,pageviews_user,18185
 2026-09-01,DDR5_SDRAM,pageviews_user,15971
-2026-10-01,DDR5_SDRAM,pageviews_user,2540
+2026-10-01,DDR5_SDRAM,pageviews_user,3137
 2026-01-01,DRAM_memory_shortage,pageviews_user_redirect,2
 2026-02-01,DRAM_memory_shortage,pageviews_user_redirect,2
 2026-03-01,DRAM_memory_shortage,pageviews_user_redirect,0
@@ -1060,7 +1060,7 @@ date,term,metric,value
 2026-07-01,Dynamic_random-access_memory,pageviews_user,15271
 2026-08-01,Dynamic_random-access_memory,pageviews_user,12808
 2026-09-01,Dynamic_random-access_memory,pageviews_user,11486
-2026-10-01,Dynamic_random-access_memory,pageviews_user,1615
+2026-10-01,Dynamic_random-access_memory,pageviews_user,1992
 2015-07-01,Flash_memory,pageviews_user,57680
 2015-08-01,Flash_memory,pageviews_user,57499
 2015-09-01,Flash_memory,pageviews_user,60597
@@ -1196,7 +1196,7 @@ date,term,metric,value
 2026-07-01,Flash_memory,pageviews_user,14843
 2026-08-01,Flash_memory,pageviews_user,14685
 2026-09-01,Flash_memory,pageviews_user,15124
-2026-10-01,Flash_memory,pageviews_user,2039
+2026-10-01,Flash_memory,pageviews_user,2520
 2026-01-01,GPU_memory_shortage,pageviews_user_redirect,1
 2026-02-01,GPU_memory_shortage,pageviews_user_redirect,0
 2026-03-01,GPU_memory_shortage,pageviews_user_redirect,0
@@ -1406,7 +1406,7 @@ date,term,metric,value
 2026-07-01,Graphics_processing_unit,pageviews_user,18819
 2026-08-01,Graphics_processing_unit,pageviews_user,20108
 2026-09-01,Graphics_processing_unit,pageviews_user,27709
-2026-10-01,Graphics_processing_unit,pageviews_user,3831
+2026-10-01,Graphics_processing_unit,pageviews_user,4588
 2026-01-01,HBM_memory_shortage,pageviews_user_redirect,1
 2026-02-01,HBM_memory_shortage,pageviews_user_redirect,0
 2026-03-01,HBM_memory_shortage,pageviews_user_redirect,3
@@ -1599,7 +1599,7 @@ date,term,metric,value
 2026-07-01,High_Bandwidth_Memory,pageviews_user,20214
 2026-08-01,High_Bandwidth_Memory,pageviews_user,18126
 2026-09-01,High_Bandwidth_Memory,pageviews_user,14931
-2026-10-01,High_Bandwidth_Memory,pageviews_user,2481
+2026-10-01,High_Bandwidth_Memory,pageviews_user,3034
 2026-01-01,Memory_chip_shortage,pageviews_user_redirect,1
 2026-02-01,Memory_chip_shortage,pageviews_user_redirect,0
 2026-03-01,Memory_chip_shortage,pageviews_user_redirect,0
@@ -1682,6 +1682,7 @@ date,term,metric,value
 2026-07-01,Memory_price_surge,pageviews_user_redirect,0
 2026-08-01,Memory_price_surge,pageviews_user_redirect,0
 2026-09-01,Memory_price_surge,pageviews_user_redirect,1
+2026-10-01,Memory_price_surge,pageviews_user_redirect,0
 2026-01-01,Memory_production_shortage,pageviews_user_redirect,1
 2026-02-01,Memory_production_shortage,pageviews_user_redirect,0
 2026-03-01,Memory_production_shortage,pageviews_user_redirect,0
@@ -1738,6 +1739,7 @@ date,term,metric,value
 2026-07-01,Memory_supply_crisis,pageviews_user_redirect,0
 2026-08-01,Memory_supply_crisis,pageviews_user_redirect,1
 2026-09-01,Memory_supply_crisis,pageviews_user_redirect,0
+2026-10-01,Memory_supply_crisis,pageviews_user_redirect,0
 2026-01-01,Memory_supply_shortage,pageviews_user_redirect,2
 2026-02-01,Memory_supply_shortage,pageviews_user_redirect,2
 2026-03-01,Memory_supply_shortage,pageviews_user_redirect,1
@@ -1794,7 +1796,7 @@ date,term,metric,value
 2026-07-01,RAM_crisis,pageviews_user_redirect,15
 2026-08-01,RAM_crisis,pageviews_user_redirect,40
 2026-09-01,RAM_crisis,pageviews_user_redirect,21
-2026-10-01,RAM_crisis,pageviews_user_redirect,5
+2026-10-01,RAM_crisis,pageviews_user_redirect,7
 2026-01-01,RAM_price_increase,pageviews_user_redirect,9
 2026-02-01,RAM_price_increase,pageviews_user_redirect,1
 2026-03-01,RAM_price_increase,pageviews_user_redirect,19
@@ -1824,6 +1826,7 @@ date,term,metric,value
 2026-07-01,RAM_shortage,pageviews_user_redirect,3
 2026-08-01,RAM_shortage,pageviews_user_redirect,12
 2026-09-01,RAM_shortage,pageviews_user_redirect,1
+2026-10-01,RAM_shortage,pageviews_user_redirect,1
 2026-08-01,RAMageddon,pageviews_user_redirect,52
 2026-09-01,RAMageddon,pageviews_user_redirect,34
 2026-10-01,RAMageddon,pageviews_user_redirect,3
@@ -1835,7 +1838,7 @@ date,term,metric,value
 2026-07-01,RAMmageddon,pageviews_user_redirect,19
 2026-08-01,RAMmageddon,pageviews_user_redirect,26
 2026-09-01,RAMmageddon,pageviews_user_redirect,11
-2026-10-01,RAMmageddon,pageviews_user_redirect,7
+2026-10-01,RAMmageddon,pageviews_user_redirect,12
 2026-02-01,RAMpocalypse,pageviews_user_redirect,46
 2026-03-01,RAMpocalypse,pageviews_user_redirect,29
 2026-04-01,RAMpocalypse,pageviews_user_redirect,22
@@ -1844,7 +1847,7 @@ date,term,metric,value
 2026-07-01,RAMpocalypse,pageviews_user_redirect,41
 2026-08-01,RAMpocalypse,pageviews_user_redirect,46
 2026-09-01,RAMpocalypse,pageviews_user_redirect,39
-2026-10-01,RAMpocalypse,pageviews_user_redirect,3
+2026-10-01,RAMpocalypse,pageviews_user_redirect,4
 2026-01-01,Ram_price_increase,pageviews_user_redirect,1
 2026-02-01,Ram_price_increase,pageviews_user_redirect,0
 2026-03-01,Ram_price_increase,pageviews_user_redirect,1
@@ -2017,7 +2020,7 @@ date,term,metric,value
 2026-07-01,Random-access_memory,pageviews_user,20143
 2026-08-01,Random-access_memory,pageviews_user,23423
 2026-09-01,Random-access_memory,pageviews_user,26578
-2026-10-01,Random-access_memory,pageviews_user,3919
+2026-10-01,Random-access_memory,pageviews_user,4867
 2026-01-01,Semiconductor_memory_shortage,pageviews_user_redirect,1
 2026-02-01,Semiconductor_memory_shortage,pageviews_user_redirect,0
 2026-03-01,Semiconductor_memory_shortage,pageviews_user_redirect,1
@@ -2027,6 +2030,7 @@ date,term,metric,value
 2026-07-01,Semiconductor_memory_shortage,pageviews_user_redirect,0
 2026-08-01,Semiconductor_memory_shortage,pageviews_user_redirect,1
 2026-09-01,Semiconductor_memory_shortage,pageviews_user_redirect,0
+2026-10-01,Semiconductor_memory_shortage,pageviews_user_redirect,0
 2026-01-01,Semiconductor_supply_chain_memory_shortage,pageviews_user_redirect,1
 2026-02-01,Semiconductor_supply_chain_memory_shortage,pageviews_user_redirect,0
 2026-03-01,Semiconductor_supply_chain_memory_shortage,pageviews_user_redirect,1
@@ -2171,7 +2175,7 @@ date,term,metric,value
 2026-07-01,Solid-state_drive,pageviews_user,20705
 2026-08-01,Solid-state_drive,pageviews_user,17725
 2026-09-01,Solid-state_drive,pageviews_user,19576
-2026-10-01,Solid-state_drive,pageviews_user,2919
+2026-10-01,Solid-state_drive,pageviews_user,3599
 2026-01-01,Worldwide_memory_shortage,pageviews_user_redirect,1
 2026-02-01,Worldwide_memory_shortage,pageviews_user_redirect,1
 2026-03-01,Worldwide_memory_shortage,pageviews_user_redirect,1

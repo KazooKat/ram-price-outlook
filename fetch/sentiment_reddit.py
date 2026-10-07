@@ -25,6 +25,8 @@ term is the subreddit or ALL (sum over subreddits, only for months all are cover
 """
 from __future__ import annotations
 
+import sys
+from pathlib import Path
 import argparse
 import datetime as dt
 import gzip
@@ -35,7 +37,8 @@ import time
 import pandas as pd
 import requests
 
-from fetch._common import get, raw_dir, write_source_note
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from fetch._common import get, raw_dir, write_source_note  # noqa: E402
 
 SOURCE = "reddit_arctic"
 BASE = "https://arctic-shift.photon-reddit.com"

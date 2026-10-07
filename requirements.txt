@@ -7,3 +7,5 @@ statsmodels
 lxml
 pypdf
 openpyxl
+pytrends
+vaderSentiment

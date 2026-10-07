@@ -181,14 +181,17 @@ Officially announced products (company sources, [`data/raw/perf_manual/announced
 
 ## Sentiment
 
-Measured from public discussion and search data, not opinions:
+Measured from public discussion, search and news data, not opinions:
 
 - **Attention far beyond the last spike.** Hacker News comments mentioning "RAM prices" (per 100k comments and posts, so the count isn't inflated by the site growing) peaked at 17.1 in Q1 2026, 9x the 2018 peak of 1.9.
-- **Already falling.** By Q3 2026 it was down to 12.4, and early October data runs at 8.3. US Google searches for "RAM prices" peaked in December 2025 and are down about 80% since.
+- **Buyers' attention peaked in December 2025 and has been falling since.**
+  - US Google searches for "RAM prices" are down 79% from December to September.
+  - RAM-price posts on r/buildapc, r/pcmasterrace and r/hardware went from 18 per 1,000 posts in December to 4 in September.
+  - Hacker News fell from 17.1 in Q1 2026 to 9.5 so far in Q4.
+- **Industry news peaked later.** News articles about the "memory shortage" (GDELT, as a share of all articles it monitors) peaked in July 2026 and were still 24% below that peak in September. News tone on "RAM prices" moved from −1.5 in December 2025 to about −0.1 to −0.4 since August.
+- **Reddit tone is still negative.** Price-related RAM posts have had more complaints than good news every month since October 2025. The one exception is September 2026 (+0.07 on a −1 to +1 scale), and early October is back to −0.43, so one month isn't a turn.
 - **In 2018, attention peaked with prices.** Hacker News attention peaked in Q1 2018, the same quarter the DDR4 spot price peaked (January 2018).
-- **This time it lines up with retail, not chip prices.** Attention peaked in December 2025 to January 2026, the same time retail kit prices stopped climbing. Contract and spot chip prices kept rising. My reading: falling attention here is people getting used to high prices, not a sign the market has turned.
-
-Reddit tone (titles in r/buildapc, r/pcmasterrace and r/hardware) isn't in this version: the free archive is slow, and only June to October 2026 had been collected. `fetch/sentiment_reddit.py` resumes the backfill.
+- **This time it peaked with retail, not chip prices.** Buyers' attention peaked in December 2025 to January 2026, the same time retail kit prices stopped climbing. Contract and spot chip prices kept rising, and industry news kept growing until July. My reading: falling attention here is people getting used to high prices, not a sign the market has turned.
 
 ![Sentiment](charts/sentiment-light.png#gh-light-mode-only)
 ![Sentiment](charts/sentiment-dark.png#gh-dark-mode-only)
@@ -226,7 +229,7 @@ Pipeline: `fetch/` downloads each source into `data/raw/<source>/`, each with a 
 | Taiwan MOPS monthly revenue | Nanya, Winbond, ADATA, TSMC and others |
 | SK hynix and Samsung investor relations | Quarterly results |
 | Blender Open Data, Wikipedia (pinned revisions) | Benchmarks and launch prices |
-| Google Trends, Wikipedia pageviews, Hacker News, Reddit | Attention and sentiment |
+| Google Trends, Hacker News (Algolia), Reddit (Arctic Shift), GDELT, Wikipedia pageviews | Attention and sentiment |
 
 Limitations:
 - **Small history.** The forecast rests on 18 past declines and a 9-cycle backtest. This spike (5x at retail, 12x at spot) is larger than any of them (at most 3x since 2003), so the fall-rate pattern is being stretched.
@@ -236,6 +239,7 @@ Limitations:
 - **The forecast assumes the old pattern holds.** If AI demand keeps growing and new fabs slip past 2028, the decline starts later than the slow case.
 - **Withheld raw data.** The WSTS billing workbook and the raw DRAMeXchange page captures are not redistributed (rights notices). The fetch scripts rebuild them, and the processed monthly series are included.
 - **Incomplete UN Comtrade history.** The free API limits calls per hour. Re-running the fetch resumes it.
+- **Partial sentiment sources.** Reddit tone covers January 2025 onward. GDELT returned 10 of 18 query series before it rate-limited; GPU and SSD news series are missing.
 
 Reproduce:
 

@@ -10,13 +10,16 @@ Output: data/raw/google_trends/trends_monthly.csv
 """
 from __future__ import annotations
 
+import sys
+from pathlib import Path
 import datetime as dt
 import time
 
 import pandas as pd
 from pytrends.request import TrendReq
 
-from fetch._common import raw_dir, write_source_note
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from fetch._common import raw_dir, write_source_note  # noqa: E402
 
 SOURCE = "google_trends"
 START = "2016-01-01"
@@ -48,7 +51,15 @@ def main() -> None:
     frames = []
     for group, terms in GROUPS.items():
         for geo_name, geo in GEOS.items():
-            df = fetch(terms, geo, timeframe)
+            try:
+                df = fetch(terms, geo, timeframe)
+            except RuntimeError as e:
+                # Google rate-limits the unofficial endpoint; keep the last complete file rather than
+                # write a partial one, and exit 0 so run.py --fetch carries on with other sources.
+                prev = out / "trends_monthly.csv"
+                kept = f"kept previous file ({dt.date.fromtimestamp(prev.stat().st_mtime)})" if prev.exists() else "no file written"
+                print(f"WARNING: {e} ({e.__cause__!r}); {kept}")
+                return
             partial = df["isPartial"].astype(bool)
             long = (df.drop(columns="isPartial").assign(is_partial=partial)
                       .reset_index().melt(id_vars=["date", "is_partial"], var_name="term", value_name="value"))
@@ -75,6 +86,11 @@ Geos: US and worldwide. Timeframe {START} to fetch date; Google returns monthly 
 - Google samples the underlying data, so a re-fetch can shift values by a few points; the whole file is re-downloaded each run.
 - Search terms (not topics) are used, so matching is on the literal query text in any language region.
 - is_partial marks the current, incomplete month.
+- For "RAM prices" use group=components: in group=memory, DDR5 sets the 100 so "RAM prices" is squeezed
+  into a few integer steps (1-17 in 2025-26), losing resolution.
+- Worldwide "RAM prices" jumped in 2025-08/09 (to ~30) while the US stayed at 6-8; a region breakdown to
+  explain it was rate-limited (HTTP 429) and not obtained. A non-PC meaning of the literal query
+  (e.g. livestock or the Ram truck brand) is possible but unconfirmed.
 """,
     )
 

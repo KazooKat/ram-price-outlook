@@ -298,8 +298,8 @@ def perf_per_dollar(theme):
 
 def sentiment(theme):
     df = pd.read_csv(S.PROC / "sentiment_monthly.csv", parse_dates=["month"]).set_index("month")
-    fig, axes, t = setup(theme, figsize=(10, 4.2), ncols=2)
-    ax = axes[0]
+    fig, axes, t = setup(theme, figsize=(10, 7), nrows=2, ncols=2)
+    ax = axes[0, 0]
     q = df["hn_ram_prices_per_100k"].resample("QS").mean().dropna()
     q = q[q.index >= "2015-01-01"]
     ax.bar(q.index, q.values, width=70, color=t["s"][0])
@@ -308,18 +308,22 @@ def sentiment(theme):
         ax.annotate(f"{q[when]:.1f} ({when:%Y} Q{(when.month - 1) // 3 + 1})", (when, q[when]), xytext=(0, 6),
                     textcoords="offset points", ha="center", fontsize=8.5, color=t["text"])
     ax.set_title('Hacker News comments with "RAM prices",\nper 100k items, quarterly')
-    ax = axes[1]
-    g = df["gt_ram_prices"].dropna()
-    g = g[g.index >= "2024-01-01"]
-    ax.plot(g.index, g.values, color=t["s"][1])
-    dot(ax, g.idxmax(), g.max(), t["s"][1], t)
-    end_label(ax, g.idxmax(), g.max(), f"peak {g.idxmax():%b %Y}", t, dx=8)
-    dot(ax, g.index[-1], g.iloc[-1], t["s"][1], t)
-    ax.set_title('Google searches for "RAM prices", US\n(0-100 relative scale)')
-    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %y"))
+
+    recent = df[(df.index >= "2025-01-01") & (df.index < "2026-10-01")]  # Oct 2026 is partial
+    panels = [(axes[0, 1], "gt_ram_prices", 'Google searches for "RAM prices", US\n(0-100 relative scale)', t["s"][1]),
+              (axes[1, 0], "reddit_ram_price_per_1k", "Reddit RAM-price posts per 1,000 posts\n(buildapc, pcmasterrace, hardware)", t["s"][2]),
+              (axes[1, 1], "gdelt_memory_shortage_per_m", 'News articles on "memory shortage"\nper million monitored articles (GDELT)', t["s"][0])]
+    for ax, col, title, color in panels:
+        x = recent[col].dropna()
+        ax.plot(x.index, x.values, color=color)
+        dot(ax, x.idxmax(), x.max(), color, t)
+        end_label(ax, x.idxmax(), x.max(), f"peak {x.idxmax():%b %Y}", t, dx=8)
+        dot(ax, x.index[-1], x.iloc[-1], color, t)
+        ax.set_title(title)
+        ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[1, 7]))
+        ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %y"))
     fig.tight_layout()
     save(fig, "sentiment", theme)
-
 
 ALL = [ram_outlook, cycles_compared, momentum, micron_margin, gpu_memory, aging, ssd_outlook, perf_per_dollar,
        sentiment]
